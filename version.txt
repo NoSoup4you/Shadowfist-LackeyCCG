@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>140301</lastupdateYYMMDD>
-<versionurl>http://www.shadowfist.com/lackeyccg/version.txt</versionurl>
-<updateurl>http://www.shadowfist.com/lackeyccg/updatelist.txt</updateurl>
-<message>The official Shadowfist Plugin - updated 01/01/2014 at Inner Kingdom Games</message>
+<lastupdateYYMMDD>190118</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
+<message>Complete as of January 2019</message>
 </version>

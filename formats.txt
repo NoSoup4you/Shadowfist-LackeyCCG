@@ -24,6 +24,10 @@
 	<set>reloaded</set>
 	<set>reinforcements</set>
 	<set>revelations</set>
+	<set>queensgambit</set>
+	<set>knightspassage</set>
+	<set>endgame</set>
+	<set>yearofthegoat</set>
 </format>
 
 <format>
@@ -42,6 +46,10 @@
 	<set>reloaded</set>
 	<set>reinforcements</set>
 	<set>revelations</set>
+	<set>queensgambit</set>
+	<set>knightspassage</set>
+	<set>endgame</set>
+	<set>yearofthegoat</set>
 </format>
 
 

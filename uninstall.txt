@@ -1,7 +1,0 @@
-<uninstall>
-<dateYYMMDD>120117</dateYYMMDD>
-<removepath>setlist.txt</removepath>
-<removepath>packs/packdefinitions.txt</removepath>
-<removepath>sets/setinfo.txt</removepath>
-<removepath>sets/setimages/general/</removepath>
-</uninstall>
