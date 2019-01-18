@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="vivisector_10kb">Vivisector</name><set>10kbullets</set></card>
+		<card><name id="vivisector_10kb">Vivisector</name><set>10kbullets</set></card>
+		<card><name id="the_reconstructed_10kb">The Reconstructed</name><set>10kbullets</set></card>
+		<card><name id="the_reconstructed_10kb">The Reconstructed</name><set>10kbullets</set></card>
+		<card><name id="test_subjects_10kb">Test Subjects</name><set>10kbullets</set></card>
+		<card><name id="test_subjects_10kb">Test Subjects</name><set>10kbullets</set></card>
+		<card><name id="test_subjects_10kb">Test Subjects</name><set>10kbullets</set></card>
+		<card><name id="test_subjects_10kb">Test Subjects</name><set>10kbullets</set></card>
+		<card><name id="test_subjects_10kb">Test Subjects</name><set>10kbullets</set></card>
+		<card><name id="temple_of_celestial_mercy_10kb">Temple of Celestial Mercy</name><set>10kbullets</set></card>
+		<card><name id="tank_warfare_10kb">Tank Warfare</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="night_market_10kb">Night Market</name><set>10kbullets</set></card>
+		<card><name id="neutron_bomb_10kb">Neutron Bomb</name><set>10kbullets</set></card>
+		<card><name id="nerve_gas_10kb">Nerve Gas</name><set>10kbullets</set></card>
+		<card><name id="nerve_gas_10kb">Nerve Gas</name><set>10kbullets</set></card>
+		<card><name id="nerve_gas_10kb">Nerve Gas</name><set>10kbullets</set></card>
+		<card><name id="magog_10kb">Magog</name><set>10kbullets</set></card>
+		<card><name id="jade_valley_10kb">Jade Valley</name><set>10kbullets</set></card>
+		<card><name id="helix_rethread_10kb">Helix Rethread</name><set>10kbullets</set></card>
+		<card><name id="helix_rethread_10kb">Helix Rethread</name><set>10kbullets</set></card>
+		<card><name id="helix_rethread_10kb">Helix Rethread</name><set>10kbullets</set></card>
+		<card><name id="genghis_x_10kb">Genghis X</name><set>10kbullets</set></card>
+		<card><name id="garden_of_bronze_10kb">Garden of Bronze</name><set>10kbullets</set></card>
+		<card><name id="floating_restaurant_10kb">Floating Restaurant</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="family_home_10kb">Family Home</name><set>10kbullets</set></card>
+		<card><name id="dangerous_experiment_10kb">Dangerous Experiment</name><set>10kbullets</set></card>
+		<card><name id="curio_shop_10kb">Curio Shop</name><set>10kbullets</set></card>
+		<card><name id="city_park_10kb">City Park</name><set>10kbullets</set></card>
+		<card><name id="city_hospital_10kb">City Hospital</name><set>10kbullets</set></card>
+		<card><name id="char_10kb">CHAR</name><set>10kbullets</set></card>
+		<card><name id="char_10kb">CHAR</name><set>10kbullets</set></card>
+		<card><name id="cdca_scientist_10kb">CDCA Scientist</name><set>10kbullets</set></card>
+		<card><name id="cdca_scientist_10kb">CDCA Scientist</name><set>10kbullets</set></card>
+		<card><name id="cdca_scientist_10kb">CDCA Scientist</name><set>10kbullets</set></card>
+		<card><name id="cdca_scientist_10kb">CDCA Scientist</name><set>10kbullets</set></card>
+		<card><name id="buro_godhammer_10kb">Buro Godhammer</name><set>10kbullets</set></card>
+		<card><name id="buro_godhammer_10kb">Buro Godhammer</name><set>10kbullets</set></card>
+		<card><name id="blood_reaver_10kb">Blood Reaver</name><set>10kbullets</set></card>
+		<card><name id="blood_reaver_10kb">Blood Reaver</name><set>10kbullets</set></card>
+		<card><name id="blood_reaver_10kb">Blood Reaver</name><set>10kbullets</set></card>
+		<card><name id="assault_squad_10kb">Assault Squad</name><set>10kbullets</set></card>
+		<card><name id="assault_squad_10kb">Assault Squad</name><set>10kbullets</set></card>
+		<card><name id="assault_squad_10kb">Assault Squad</name><set>10kbullets</set></card>
+		<card><name id="arcanotank_10kb">Arcanotank</name><set>10kbullets</set></card>
+		<card><name id="arcanotank_10kb">Arcanotank</name><set>10kbullets</set></card>
+		<card><name id="arcanotank_10kb">Arcanotank</name><set>10kbullets</set></card>
+		<card><name id="abominable_lab_10kb">Abominable Lab</name><set>10kbullets</set></card>
+	</superzone>
+</deck>

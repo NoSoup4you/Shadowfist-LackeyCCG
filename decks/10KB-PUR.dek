@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="void_sorcerer_10kb">Void Sorcerer</name><set>10kbullets</set></card>
+		<card><name id="void_sorcerer_10kb">Void Sorcerer</name><set>10kbullets</set></card>
+		<card><name id="stone_garden_10kb">Stone Garden</name><set>10kbullets</set></card>
+		<card><name id="quantum_sorcery_10kb">Quantum Sorcery</name><set>10kbullets</set></card>
+		<card><name id="purist_aspirant_10kb">Purist Aspirant</name><set>10kbullets</set></card>
+		<card><name id="purist_aspirant_10kb">Purist Aspirant</name><set>10kbullets</set></card>
+		<card><name id="purist_aspirant_10kb">Purist Aspirant</name><set>10kbullets</set></card>
+		<card><name id="pocket_demon_10kb">Pocket Demon</name><set>10kbullets</set></card>
+		<card><name id="pocket_demon_10kb">Pocket Demon</name><set>10kbullets</set></card>
+		<card><name id="paradox_garden_10kb">Paradox Garden</name><set>10kbullets</set></card>
+		<card><name id="pain_feedback_10kb">Pain Feedback</name><set>10kbullets</set></card>
+		<card><name id="pain_feedback_10kb">Pain Feedback</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="mathemagician_10kb">Mathemagician</name><set>10kbullets</set></card>
+		<card><name id="mathemagician_10kb">Mathemagician</name><set>10kbullets</set></card>
+		<card><name id="mathemagician_10kb">Mathemagician</name><set>10kbullets</set></card>
+		<card><name id="mathemagician_10kb">Mathemagician</name><set>10kbullets</set></card>
+		<card><name id="mathemagician_10kb">Mathemagician</name><set>10kbullets</set></card>
+		<card><name id="kallisti_10kb">Kallisti</name><set>10kbullets</set></card>
+		<card><name id="isomorphic_spirit_10kb">Isomorphic Spirit</name><set>10kbullets</set></card>
+		<card><name id="isomorphic_spirit_10kb">Isomorphic Spirit</name><set>10kbullets</set></card>
+		<card><name id="inoue_oram_10kb">Inoue Oram</name><set>10kbullets</set></card>
+		<card><name id="inner_sanctum_10kb">Inner Sanctum</name><set>10kbullets</set></card>
+		<card><name id="inner_sanctum_10kb">Inner Sanctum</name><set>10kbullets</set></card>
+		<card><name id="garden_of_bronze_10kb">Garden of Bronze</name><set>10kbullets</set></card>
+		<card><name id="gambling_house_10kb">Gambling House</name><set>10kbullets</set></card>
+		<card><name id="fox_pass_10kb">Fox Pass</name><set>10kbullets</set></card>
+		<card><name id="floating_restaurant_10kb">Floating Restaurant</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="father_of_chaos_10kb">Father of Chaos</name><set>10kbullets</set></card>
+		<card><name id="entropy_tap_10kb">Entropy Tap</name><set>10kbullets</set></card>
+		<card><name id="entropy_tap_10kb">Entropy Tap</name><set>10kbullets</set></card>
+		<card><name id="entropy_sphere_10kb">Entropy Sphere</name><set>10kbullets</set></card>
+		<card><name id="entropy_sphere_10kb">Entropy Sphere</name><set>10kbullets</set></card>
+		<card><name id="entropy_sphere_10kb">Entropy Sphere</name><set>10kbullets</set></card>
+		<card><name id="discerning_fire_10kb">Discerning Fire</name><set>10kbullets</set></card>
+		<card><name id="cognitive_spirit_10kb">Cognitive Spirit</name><set>10kbullets</set></card>
+		<card><name id="cognitive_spirit_10kb">Cognitive Spirit</name><set>10kbullets</set></card>
+		<card><name id="cognitive_spirit_10kb">Cognitive Spirit</name><set>10kbullets</set></card>
+		<card><name id="city_park_10kb">City Park</name><set>10kbullets</set></card>
+		<card><name id="bird_sanctuary_10kb">Bird Sanctuary</name><set>10kbullets</set></card>
+		<card><name id="arcane_scientist_10kb">Arcane Scientist</name><set>10kbullets</set></card>
+		<card><name id="arcane_scientist_10kb">Arcane Scientist</name><set>10kbullets</set></card>
+		<card><name id="arcane_scientist_10kb">Arcane Scientist</name><set>10kbullets</set></card>
+		<card><name id="arcane_scientist_10kb">Arcane Scientist</name><set>10kbullets</set></card>
+		<card><name id="amulet_of_the_turtle_10kb">Amulet of the Turtle</name><set>10kbullets</set></card>
+		<card><name id="amulet_of_the_turtle_10kb">Amulet of the Turtle</name><set>10kbullets</set></card>
+		<card><name id="alabaster_javelin_10kb">Alabaster Javelin</name><set>10kbullets</set></card>
+		<card><name id="alabaster_javelin_10kb">Alabaster Javelin</name><set>10kbullets</set></card>
+	</superzone>
+</deck>

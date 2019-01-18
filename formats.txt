@@ -1,0 +1,48 @@
+<formatdefinitions>
+
+<format>
+	<label>Classic</label>
+	<set>standard</set>
+	<set>netherworld</set>
+	<set>flashpoint</set>
+	<set>yearofthedragon</set>
+	<set>thronewar</set>
+	<set>netherworld2</set>
+	<set>shaolinshowdown</set>
+	<set>darkfuture</set>
+	<set>boomchakalaka</set>
+	<set>10kbullets</set>
+	<set>redwedding</set>
+	<set>7masters</set>
+	<set>twofistedtales</set>
+	<set>shurikensandsixguns</set>
+	<set>criticalshift</set>
+	<set>empireofevil</set>
+	<set>combatinkowloon</set>
+	<set>backforseconds</set>
+	<set>modern</set>
+	<set>reloaded</set>
+	<set>reinforcements</set>
+	<set>revelations</set>
+</format>
+
+<format>
+
+	<label>New Heroes</label>
+	<set>shurikensandsixguns</set>
+	<set>criticalshift</set>
+	<set>empireofevil</set>
+</format>
+
+<format>
+	<label>Modern</label>
+	<set>combatinkowloon</set>
+	<set>backforseconds</set>
+	<set>modern</set>
+	<set>reloaded</set>
+	<set>reinforcements</set>
+	<set>revelations</set>
+</format>
+
+
+</formatdefinitions>

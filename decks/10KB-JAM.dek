@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="whos_the_monkey_now_10kb">Who&apos;s the Monkey Now?</name><set>10kbullets</set></card>
+		<card><name id="street_riot_10kb">Street Riot</name><set>10kbullets</set></card>
+		<card><name id="street_riot_10kb">Street Riot</name><set>10kbullets</set></card>
+		<card><name id="scrounging_10kb">Scrounging</name><set>10kbullets</set></card>
+		<card><name id="scrounging_10kb">Scrounging</name><set>10kbullets</set></card>
+		<card><name id="scrounging_10kb">Scrounging</name><set>10kbullets</set></card>
+		<card><name id="rust_garden_10kb">Rust Garden</name><set>10kbullets</set></card>
+		<card><name id="rust_garden_10kb">Rust Garden</name><set>10kbullets</set></card>
+		<card><name id="resistance_squad_10kb">Resistance Squad</name><set>10kbullets</set></card>
+		<card><name id="resistance_squad_10kb">Resistance Squad</name><set>10kbullets</set></card>
+		<card><name id="resistance_squad_10kb">Resistance Squad</name><set>10kbullets</set></card>
+		<card><name id="resistance_squad_10kb">Resistance Squad</name><set>10kbullets</set></card>
+		<card><name id="resistance_squad_10kb">Resistance Squad</name><set>10kbullets</set></card>
+		<card><name id="professional_killer_10kb">Professional Killer</name><set>10kbullets</set></card>
+		<card><name id="professional_killer_10kb">Professional Killer</name><set>10kbullets</set></card>
+		<card><name id="professional_killer_10kb">Professional Killer</name><set>10kbullets</set></card>
+		<card><name id="payback_time_10kb">Payback Time</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="napalm_addict_10kb">Napalm Addict</name><set>10kbullets</set></card>
+		<card><name id="napalm_addict_10kb">Napalm Addict</name><set>10kbullets</set></card>
+		<card><name id="just_another_consumer_10kb">Just Another Consumer</name><set>10kbullets</set></card>
+		<card><name id="just_another_consumer_10kb">Just Another Consumer</name><set>10kbullets</set></card>
+		<card><name id="just_another_consumer_10kb">Just Another Consumer</name><set>10kbullets</set></card>
+		<card><name id="just_another_consumer_10kb">Just Another Consumer</name><set>10kbullets</set></card>
+		<card><name id="jade_valley_10kb">Jade Valley</name><set>10kbullets</set></card>
+		<card><name id="homemade_tank_10kb">Homemade Tank</name><set>10kbullets</set></card>
+		<card><name id="homemade_tank_10kb">Homemade Tank</name><set>10kbullets</set></card>
+		<card><name id="gorilla_fighter_10kb">Gorilla Fighter</name><set>10kbullets</set></card>
+		<card><name id="garden_of_bronze_10kb">Garden of Bronze</name><set>10kbullets</set></card>
+		<card><name id="gambling_house_10kb">Gambling House</name><set>10kbullets</set></card>
+		<card><name id="furious_george_10kb">Furious George</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="festival_circle_10kb">Festival Circle</name><set>10kbullets</set></card>
+		<card><name id="explosives_10kb">Explosives</name><set>10kbullets</set></card>
+		<card><name id="explosives_10kb">Explosives</name><set>10kbullets</set></card>
+		<card><name id="edge_warrior_10kb">Edge Warrior</name><set>10kbullets</set></card>
+		<card><name id="edge_warrior_10kb">Edge Warrior</name><set>10kbullets</set></card>
+		<card><name id="edge_warrior_10kb">Edge Warrior</name><set>10kbullets</set></card>
+		<card><name id="drug_lab_10kb">Drug Lab</name><set>10kbullets</set></card>
+		<card><name id="deathorama_10kb">Death-O-Rama</name><set>10kbullets</set></card>
+		<card><name id="deathorama_10kb">Death-O-Rama</name><set>10kbullets</set></card>
+		<card><name id="dallas_rocket_10kb">Dallas Rocket</name><set>10kbullets</set></card>
+		<card><name id="dallas_rocket_10kb">Dallas Rocket</name><set>10kbullets</set></card>
+		<card><name id="close_call_10kb">Close Call</name><set>10kbullets</set></card>
+		<card><name id="close_call_10kb">Close Call</name><set>10kbullets</set></card>
+		<card><name id="city_square_10kb">City Square</name><set>10kbullets</set></card>
+		<card><name id="bomb_factory_10kb">Bomb Factory</name><set>10kbullets</set></card>
+		<card><name id="birdhouse_cafe_10kb">Birdhouse Cafe</name><set>10kbullets</set></card>
+		<card><name id="bird_sanctuary_10kb">Bird Sanctuary</name><set>10kbullets</set></card>
+	</superzone>
+</deck>

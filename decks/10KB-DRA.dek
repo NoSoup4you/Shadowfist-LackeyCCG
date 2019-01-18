@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tricia_kwok_10kb">Tricia Kwok</name><set>10kbullets</set></card>
+		<card><name id="ting_ting_10kb">Ting Ting</name><set>10kbullets</set></card>
+		<card><name id="temple_of_celestial_mercy_10kb">Temple of Celestial Mercy</name><set>10kbullets</set></card>
+		<card><name id="submachine_gun_10kb">Sub-Machine Gun</name><set>10kbullets</set></card>
+		<card><name id="submachine_gun_10kb">Sub-Machine Gun</name><set>10kbullets</set></card>
+		<card><name id="steven_wu_10kb">Steven Wu</name><set>10kbullets</set></card>
+		<card><name id="redeemed_gunman_10kb">Redeemed Gunman</name><set>10kbullets</set></card>
+		<card><name id="redeemed_gunman_10kb">Redeemed Gunman</name><set>10kbullets</set></card>
+		<card><name id="redeemed_gunman_10kb">Redeemed Gunman</name><set>10kbullets</set></card>
+		<card><name id="redeemed_gunman_10kb">Redeemed Gunman</name><set>10kbullets</set></card>
+		<card><name id="redeemed_gunman_10kb">Redeemed Gunman</name><set>10kbullets</set></card>
+		<card><name id="pumpaction_shotgun_10kb">Pump-Action Shotgun</name><set>10kbullets</set></card>
+		<card><name id="pumpaction_shotgun_10kb">Pump-Action Shotgun</name><set>10kbullets</set></card>
+		<card><name id="now_youve_made_us_mad_10kb">Now You&apos;ve Made Us Mad</name><set>10kbullets</set></card>
+		<card><name id="now_youve_made_us_mad_10kb">Now You&apos;ve Made Us Mad</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="karate_cop_10kb">Karate Cop</name><set>10kbullets</set></card>
+		<card><name id="karate_cop_10kb">Karate Cop</name><set>10kbullets</set></card>
+		<card><name id="karate_cop_10kb">Karate Cop</name><set>10kbullets</set></card>
+		<card><name id="kar_fais_crib_10kb">Kar Fai&apos;s Crib</name><set>10kbullets</set></card>
+		<card><name id="johnny_tso_10kb">Johnny Tso</name><set>10kbullets</set></card>
+		<card><name id="jade_valley_10kb">Jade Valley</name><set>10kbullets</set></card>
+		<card><name id="hacker_10kb">Hacker</name><set>10kbullets</set></card>
+		<card><name id="hacker_10kb">Hacker</name><set>10kbullets</set></card>
+		<card><name id="hacker_10kb">Hacker</name><set>10kbullets</set></card>
+		<card><name id="golden_comeback_10kb">Golden Comeback</name><set>10kbullets</set></card>
+		<card><name id="golden_comeback_10kb">Golden Comeback</name><set>10kbullets</set></card>
+		<card><name id="garden_of_bronze_10kb">Garden of Bronze</name><set>10kbullets</set></card>
+		<card><name id="gambling_house_10kb">Gambling House</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="final_brawl_10kb">Final Brawl</name><set>10kbullets</set></card>
+		<card><name id="final_brawl_10kb">Final Brawl</name><set>10kbullets</set></card>
+		<card><name id="festival_circle_10kb">Festival Circle</name><set>10kbullets</set></card>
+		<card><name id="excommando_10kb">Ex-Commando</name><set>10kbullets</set></card>
+		<card><name id="excommando_10kb">Ex-Commando</name><set>10kbullets</set></card>
+		<card><name id="everyday_hero_10kb">Everyday Hero</name><set>10kbullets</set></card>
+		<card><name id="everyday_hero_10kb">Everyday Hero</name><set>10kbullets</set></card>
+		<card><name id="everyday_hero_10kb">Everyday Hero</name><set>10kbullets</set></card>
+		<card><name id="everyday_hero_10kb">Everyday Hero</name><set>10kbullets</set></card>
+		<card><name id="dirk_wiselys_gambit_10kb">Dirk Wisely&apos;s Gambit</name><set>10kbullets</set></card>
+		<card><name id="dirk_wiselys_gambit_10kb">Dirk Wisely&apos;s Gambit</name><set>10kbullets</set></card>
+		<card><name id="city_park_10kb">City Park</name><set>10kbullets</set></card>
+		<card><name id="cave_network_10kb">Cave Network</name><set>10kbullets</set></card>
+		<card><name id="cave_network_10kb">Cave Network</name><set>10kbullets</set></card>
+		<card><name id="both_guns_blazing_10kb">Both Guns Blazing</name><set>10kbullets</set></card>
+		<card><name id="both_guns_blazing_10kb">Both Guns Blazing</name><set>10kbullets</set></card>
+		<card><name id="bird_sanctuary_10kb">Bird Sanctuary</name><set>10kbullets</set></card>
+		<card><name id="bag_full_of_guns_10kb">Bag Full of Guns</name><set>10kbullets</set></card>
+		<card><name id="bag_full_of_guns_10kb">Bag Full of Guns</name><set>10kbullets</set></card>
+	</superzone>
+</deck>

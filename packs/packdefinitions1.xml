@@ -1,0 +1,67 @@
+<packdefinitions version="1.0">
+
+<pack>
+	<packtitle>Limited - Starter</packtitle>
+	<packimage>limited-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>random starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>standard</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+		<kind><qty>30</qty><crit><field>Rarity</field><eval>IS</eval><data>Very Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Limited - Booster</packtitle>
+	<packimage>limited-booster</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>standard</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>Very Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Netherworld - Booster</packtitle>
+	<packimage>netherworld-booster</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>netherworld</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Flashpoint - Booster</packtitle>
+	<packimage>flashpoint-booster</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>flashpoint</data></packcommoncrit>
+	<chance>
+		<prob>22</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>78</prob>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+</packdefinitions>

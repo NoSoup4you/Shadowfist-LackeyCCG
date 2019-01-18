@@ -1,0 +1,374 @@
+<packdefinitions version="1.0">
+
+<pack>
+	<packtitle>10K Bullets - Architects Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Abominable Lab</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Arcanotank</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Assault Squad</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Blood Reaver</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Buro Godhammer</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>CDCA Scientist</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>CHAR</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Hospital</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Curio Shop</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Dangerous Experiment</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Family Home</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Floating Restaurant</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Garden of Bronze</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Genghis X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Helix Rethread</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jade Valley</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magog</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Nerve Gas</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Neutron Bomb</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Night Market</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Tank Warfare</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Temple of Celestial Mercy</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Test Subjects</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>The Reconstructed</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Vivisector</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10K Bullets - Ascended Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Birdhouse Cafe</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Bleys Fontaine</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Bull Market</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Captain Liu</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Hospital</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Curio Shop</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Faked Death</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Family Estate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Family Home</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Garden of Bronze</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Golden Mile</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Gruff Lieutenant</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jade Valley</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Jaded Cop</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Liquidators</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Mole Network</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Operation Killdeer</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Phillippe Benoit</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Pump-Action Shotgun</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Rachel McShane</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Realpolitik</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Security</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shadowy Mentor</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sports Car</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Stone Garden</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Student of the Bear</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Sub-Machine Gun</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Suicide Mission</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>SWAT Team</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10K Bullets - Dragons Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Bag Full of Guns</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Bird Sanctuary</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Both Guns Blazing</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Cave Network</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Dirk Wisely's Gambit</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Everyday Hero</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Ex-Commando</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Festival Circle</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Final Brawl</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Gambling House</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Garden of Bronze</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Golden Comeback</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Hacker</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jade Valley</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Johnny Tso</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kar Fai's Crib</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Karate Cop</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Now You've Made Us Mad</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Pump-Action Shotgun</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Redeemed Gunman</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Steven Wu</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Sub-Machine Gun</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Temple of Celestial Mercy</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Ting Ting</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Tricia Kwok</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10K Bullets - Lotus Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Big Brother Tsien</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Birdhouse Cafe</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Hospital</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Claw of Fury</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Die!!!</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Drug Lab</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Explosives</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Family Home</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Field of Tentacles</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Floating Restaurant</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Flying Sleeves</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Four Burning Fists</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Glimpse of the Abyss</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jade Valley</data></crit></kind>"
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kan Li</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Night Market</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Pocket Demon</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Poison Thorns</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Pump-Action Shotgun</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Sinister Priest</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sports Car</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sub-Machine Gun</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Tommy Hsu</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Tortured Memories</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Turtle Beach</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Vassals of the Lotus</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Walking Corpses</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>White Disciple</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10K Bullets - Monarchs Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Avenging Thunder</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Blade of Darkness</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Brain Fire</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Butterfly Knight</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Hospital</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Claws of Darkness</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Darkness Warriors</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Discerning Fire</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Family Home</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Field of Tentacles</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Fire Acolytes</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Fire Mystic</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Gambling House</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Garden of Bronze</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Ice Diadem</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Ice Healer</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kinoshita House</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Lord Hawksmoor</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Lord Shi</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Mark of Fire</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Pocket Demon</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>The Legacy</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Thunder Bishop</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Thunder Sword</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Turtle Island</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10K Bullets - Guiding Hand Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Bird Sanctuary</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Blade Palm</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Blue Monk</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Bulletproof Monk</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Confucian Stability</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Curio Shop</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Derek Han</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Festival Circle</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Field of Tentacles</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Flying Sword Stance</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Golden Candle Society</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Golden Mile</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Hands Without Shadow</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Healing Earth</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Heat of Battle</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Hidden Sanctuary</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Instrument of the Hand</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Iron and Silk</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jade Valley</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Kung Fu Student</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shaolin Sanctuary</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield of Pure Soul</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shih Ho Kuai</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Stone Garden</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>The Iron Monkey</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Virtuous Hood</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Yellow Geomancer</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10K Bullets - Jammers Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Bird Sanctuary</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Birdhouse Cafe</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Bomb Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Square</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Close Call</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Dallas Rocket</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Death-O-Rama</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Drug Lab</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Edge Warrior</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Explosives</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Festival Circle</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Furious George</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Gambling House</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Garden of Bronze</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Gorilla Fighter</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Homemade Tank</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jade Valley</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Just Another Consumer</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Napalm Addict</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Payback Time</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Professional Killer</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Resistance Squad</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Rust Garden</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Scrounging</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Street Riot</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Who's the Monkey Now?</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10K Bullets - Purists Starter</packtitle>
+	<packimage>10kbullets-starter</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>preconstructed starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10kbullets</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Alabaster Javelin</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Amulet of the Turtle</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Arcane Scientist</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Bird Sanctuary</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Cognitive Spirit</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Discerning Fire</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Entropy Sphere</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Entropy Tap</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Father of Chaos</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fireworks Factory</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Floating Restaurant</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fox Pass</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Gambling House</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Garden of Bronze</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Inner Sanctum</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Inoue Oram</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Isomorphic Spirit</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kallisti</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Mathemagician</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nightclub</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Nine Dragon Temple</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Pain Feedback</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Paradox Garden</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Pocket Demon</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Purist Aspirant</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Quantum Sorcery</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Stone Garden</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Void Sorcerer</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Red Wedding - Booster</packtitle>
+	<packimage>redwedding-booster</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>redwedding</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Seven Masters vs The Underworld - Booster</packtitle>
+	<packimage>7masters-booster</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>7masters</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Two Fisted Tales of the Secret War - Booster</packtitle>
+	<packimage>twofistedtales-booster</packimage>
+	<packformat>finalbrawl</packformat>
+	<packkind>booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>twofistedtales</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+</packdefinitions>

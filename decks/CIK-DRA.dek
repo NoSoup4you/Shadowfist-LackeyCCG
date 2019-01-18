@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="you_xia_the_avenger_cik_400">You Xia, the Avenger</name><set>combatinkowloon</set></card>
+		<card><name id="wrench_slinger_cik_400">Wrench Slinger</name><set>combatinkowloon</set></card>
+		<card><name id="vale_of_tears_cik_400">Vale of Tears</name><set>combatinkowloon</set></card>
+		<card><name id="tech_squad_cik_400">Tech Squad</name><set>combatinkowloon</set></card>
+		<card><name id="tech_squad_cik_400">Tech Squad</name><set>combatinkowloon</set></card>
+		<card><name id="tech_squad_cik_400">Tech Squad</name><set>combatinkowloon</set></card>
+		<card><name id="student_of_the_dragon_cik_400">Student of the Dragon</name><set>combatinkowloon</set></card>
+		<card><name id="student_of_the_dragon_cik_400">Student of the Dragon</name><set>combatinkowloon</set></card>
+		<card><name id="student_of_the_dragon_cik_400">Student of the Dragon</name><set>combatinkowloon</set></card>
+		<card><name id="student_of_the_dragon_cik_400">Student of the Dragon</name><set>combatinkowloon</set></card>
+		<card><name id="stone_dolmens_cik_400">Stone Dolmens</name><set>combatinkowloon</set></card>
+		<card><name id="spit_and_baling_wire_cik_400">Spit and Baling Wire</name><set>combatinkowloon</set></card>
+		<card><name id="seamus_cik_400">Seamus</name><set>combatinkowloon</set></card>
+		<card><name id="scrounging_cik_400">Scrounging</name><set>combatinkowloon</set></card>
+		<card><name id="reluctant_hero_cik_400">Reluctant Hero</name><set>combatinkowloon</set></card>
+		<card><name id="plain_white_panel_van_cik_400">Plain White Panel Van</name><set>combatinkowloon</set></card>
+		<card><name id="nine_dragon_temple_cik_400">Nine Dragon Temple</name><set>combatinkowloon</set></card>
+		<card><name id="never_surrender_cik_400">Never Surrender</name><set>combatinkowloon</set></card>
+		<card><name id="never_found_the_body_cik_400">Never Found the Body</name><set>combatinkowloon</set></card>
+		<card><name id="muscle_car_cik_400">Muscle Car</name><set>combatinkowloon</set></card>
+		<card><name id="mobius_gardens_cik_400">Mobius Gardens</name><set>combatinkowloon</set></card>
+		<card><name id="maverick_trucker_cik_400">Maverick Trucker</name><set>combatinkowloon</set></card>
+		<card><name id="master_mechanic_cik_400">Master Mechanic</name><set>combatinkowloon</set></card>
+		<card><name id="manufactured_island_cik_400">Manufactured Island</name><set>combatinkowloon</set></card>
+		<card><name id="lightning_patrol_cik_400">Lightning Patrol</name><set>combatinkowloon</set></card>
+		<card><name id="life_in_the_fast_lane_cik_400">Life in the Fast Lane</name><set>combatinkowloon</set></card>
+		<card><name id="junkyard_boys_cik_400">Junkyard Boys</name><set>combatinkowloon</set></card>
+		<card><name id="junkyard_boys_cik_400">Junkyard Boys</name><set>combatinkowloon</set></card>
+		<card><name id="junkyard_boys_cik_400">Junkyard Boys</name><set>combatinkowloon</set></card>
+		<card><name id="junkyard_boys_cik_400">Junkyard Boys</name><set>combatinkowloon</set></card>
+		<card><name id="inspector_will_zhurong_cik_400">Inspector Will Zhurong</name><set>combatinkowloon</set></card>
+		<card><name id="hover_tank_cik_400">Hover Tank</name><set>combatinkowloon</set></card>
+		<card><name id="grease_monkey_cik_400">Grease Monkey</name><set>combatinkowloon</set></card>
+		<card><name id="grease_monkey_cik_400">Grease Monkey</name><set>combatinkowloon</set></card>
+		<card><name id="gambling_house_cik_400">Gambling House</name><set>combatinkowloon</set></card>
+		<card><name id="fireworks_factory_cik_400">Fireworks Factory</name><set>combatinkowloon</set></card>
+		<card><name id="final_brawl_cik_400">Final Brawl</name><set>combatinkowloon</set></card>
+		<card><name id="dragon_graveyard_cik_400">Dragon Graveyard</name><set>combatinkowloon</set></card>
+		<card><name id="dr._amanda_snow_cik_400">Dr. Amanda Snow</name><set>combatinkowloon</set></card>
+		<card><name id="dirk_wisely&apos;s_gambit_cik_400">Dirk Wisely&apos;s Gambit</name><set>combatinkowloon</set></card>
+		<card><name id="dirk_wisely&apos;s_gambit_cik_400">Dirk Wisely&apos;s Gambit</name><set>combatinkowloon</set></card>
+		<card><name id="city_center_cik_400">City Center</name><set>combatinkowloon</set></card>
+		<card><name id="chop_shop_cik_400">Chop Shop</name><set>combatinkowloon</set></card>
+		<card><name id="cb_radio_cik_400">CB Radio</name><set>combatinkowloon</set></card>
+		<card><name id="cataract_gorge_cik_400">Cataract Gorge</name><set>combatinkowloon</set></card>
+		<card><name id="car_wash_cik_400">Car Wash</name><set>combatinkowloon</set></card>
+		<card><name id="big_ass_car_cik_400">Big Ass Car</name><set>combatinkowloon</set></card>
+		<card><name id="big_ass_car_cik_400">Big Ass Car</name><set>combatinkowloon</set></card>
+		<card><name id="battle_suit_cik_400">Battle Suit</name><set>combatinkowloon</set></card>
+		<card><name id="back_for_seconds_cik_400">Back for Seconds</name><set>combatinkowloon</set></card>
+	</superzone>
+</deck>

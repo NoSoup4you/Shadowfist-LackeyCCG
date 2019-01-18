@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="white_disciple_yotd">White Disciple</name><set>yearofthedragon</set></card>
+		<card><name id="white_disciple_yotd">White Disciple</name><set>yearofthedragon</set></card>
+		<card><name id="walking_corpses_yotd">Walking Corpses</name><set>yearofthedragon</set></card>
+		<card><name id="walking_corpses_yotd">Walking Corpses</name><set>yearofthedragon</set></card>
+		<card><name id="vassals_of_the_lotus_yotd">Vassals of the Lotus</name><set>yearofthedragon</set></card>
+		<card><name id="vassals_of_the_lotus_yotd">Vassals of the Lotus</name><set>yearofthedragon</set></card>
+		<card><name id="vassals_of_the_lotus_yotd">Vassals of the Lotus</name><set>yearofthedragon</set></card>
+		<card><name id="vassals_of_the_lotus_yotd">Vassals of the Lotus</name><set>yearofthedragon</set></card>
+		<card><name id="tortured_memories_yotd">Tortured Memories</name><set>yearofthedragon</set></card>
+		<card><name id="tortured_memories_yotd">Tortured Memories</name><set>yearofthedragon</set></card>
+		<card><name id="thing_with_a_1000_tongues_yotd">Thing with a 1000 Tongues</name><set>yearofthedragon</set></card>
+		<card><name id="the_hungry_yotd">The Hungry</name><set>yearofthedragon</set></card>
+		<card><name id="sinister_priest_yotd">Sinister Priest</name><set>yearofthedragon</set></card>
+		<card><name id="sinister_priest_yotd">Sinister Priest</name><set>yearofthedragon</set></card>
+		<card><name id="sinister_priest_yotd">Sinister Priest</name><set>yearofthedragon</set></card>
+		<card><name id="sinister_priest_yotd">Sinister Priest</name><set>yearofthedragon</set></card>
+		<card><name id="sinister_priest_yotd">Sinister Priest</name><set>yearofthedragon</set></card>
+		<card><name id="shattering_fire_yotd">Shattering Fire</name><set>yearofthedragon</set></card>
+		<card><name id="shattering_fire_yotd">Shattering Fire</name><set>yearofthedragon</set></card>
+		<card><name id="pocket_demon_yotd">Pocket Demon</name><set>yearofthedragon</set></card>
+		<card><name id="pocket_demon_yotd">Pocket Demon</name><set>yearofthedragon</set></card>
+		<card><name id="pocket_demon_yotd">Pocket Demon</name><set>yearofthedragon</set></card>
+		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
+		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
+		<card><name id="kun_kan_yotd">Kun Kan</name><set>yearofthedragon</set></card>
+		<card><name id="kun_kan_yotd">Kun Kan</name><set>yearofthedragon</set></card>
+		<card><name id="jagged_cliffs_yotd">Jagged Cliffs</name><set>yearofthedragon</set></card>
+		<card><name id="jade_valley_yotd">Jade Valley</name><set>yearofthedragon</set></card>
+		<card><name id="infernal_temple_yotd">Infernal Temple</name><set>yearofthedragon</set></card>
+		<card><name id="inexorable_corruption_yotd">Inexorable Corruption</name><set>yearofthedragon</set></card>
+		<card><name id="inexorable_corruption_yotd">Inexorable Corruption</name><set>yearofthedragon</set></card>
+		<card><name id="glimpse_of_the_abyss_yotd">Glimpse of the Abyss</name><set>yearofthedragon</set></card>
+		<card><name id="gambling_house_yotd">Gambling House</name><set>yearofthedragon</set></card>
+		<card><name id="fox_pass_yotd">Fox Pass</name><set>yearofthedragon</set></card>
+		<card><name id="four_burning_fists_yotd">Four Burning Fists</name><set>yearofthedragon</set></card>
+		<card><name id="field_of_tentacles_yotd">Field of Tentacles</name><set>yearofthedragon</set></card>
+		<card><name id="festival_circle_yotd">Festival Circle</name><set>yearofthedragon</set></card>
+		<card><name id="festival_circle_yotd">Festival Circle</name><set>yearofthedragon</set></card>
+		<card><name id="evil_twin_yotd">Evil Twin</name><set>yearofthedragon</set></card>
+		<card><name id="eunuch_underling_yotd">Eunuch Underling</name><set>yearofthedragon</set></card>
+		<card><name id="eunuch_underling_yotd">Eunuch Underling</name><set>yearofthedragon</set></card>
+		<card><name id="eunuch_underling_yotd">Eunuch Underling</name><set>yearofthedragon</set></card>
+		<card><name id="discerning_fire_yotd">Discerning Fire</name><set>yearofthedragon</set></card>
+		<card><name id="curio_shop_yotd">Curio Shop</name><set>yearofthedragon</set></card>
+		<card><name id="city_park_yotd">City Park</name><set>yearofthedragon</set></card>
+		<card><name id="cave_network_yotd">Cave Network</name><set>yearofthedragon</set></card>
+		<card><name id="amulet_of_the_turtle_yotd">Amulet of the Turtle</name><set>yearofthedragon</set></card>
+		<card><name id="amulet_of_the_turtle_yotd">Amulet of the Turtle</name><set>yearofthedragon</set></card>
+		<card><name id="abysmal_absorber_yotd">Abysmal Absorber</name><set>yearofthedragon</set></card>
+		<card><name id="abysmal_absorber_yotd">Abysmal Absorber</name><set>yearofthedragon</set></card>
+	</superzone>
+</deck>

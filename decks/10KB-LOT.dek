@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="white_disciple_10kb">White Disciple</name><set>10kbullets</set></card>
+		<card><name id="white_disciple_10kb">White Disciple</name><set>10kbullets</set></card>
+		<card><name id="walking_corpses_10kb">Walking Corpses</name><set>10kbullets</set></card>
+		<card><name id="walking_corpses_10kb">Walking Corpses</name><set>10kbullets</set></card>
+		<card><name id="vassals_of_the_lotus_10kb">Vassals of the Lotus</name><set>10kbullets</set></card>
+		<card><name id="vassals_of_the_lotus_10kb">Vassals of the Lotus</name><set>10kbullets</set></card>
+		<card><name id="vassals_of_the_lotus_10kb">Vassals of the Lotus</name><set>10kbullets</set></card>
+		<card><name id="turtle_beach_10kb">Turtle Beach</name><set>10kbullets</set></card>
+		<card><name id="tortured_memories_10kb">Tortured Memories</name><set>10kbullets</set></card>
+		<card><name id="tortured_memories_10kb">Tortured Memories</name><set>10kbullets</set></card>
+		<card><name id="tommy_hsu_10kb">Tommy Hsu</name><set>10kbullets</set></card>
+		<card><name id="submachine_gun_10kb">Sub-Machine Gun</name><set>10kbullets</set></card>
+		<card><name id="sports_car_10kb">Sports Car</name><set>10kbullets</set></card>
+		<card><name id="sinister_priest_10kb">Sinister Priest</name><set>10kbullets</set></card>
+		<card><name id="sinister_priest_10kb">Sinister Priest</name><set>10kbullets</set></card>
+		<card><name id="sinister_priest_10kb">Sinister Priest</name><set>10kbullets</set></card>
+		<card><name id="sinister_priest_10kb">Sinister Priest</name><set>10kbullets</set></card>
+		<card><name id="sinister_priest_10kb">Sinister Priest</name><set>10kbullets</set></card>
+		<card><name id="pumpaction_shotgun_10kb">Pump-Action Shotgun</name><set>10kbullets</set></card>
+		<card><name id="poison_thorns_10kb">Poison Thorns</name><set>10kbullets</set></card>
+		<card><name id="poison_thorns_10kb">Poison Thorns</name><set>10kbullets</set></card>
+		<card><name id="poison_thorns_10kb">Poison Thorns</name><set>10kbullets</set></card>
+		<card><name id="pocket_demon_10kb">Pocket Demon</name><set>10kbullets</set></card>
+		<card><name id="pocket_demon_10kb">Pocket Demon</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="night_market_10kb">Night Market</name><set>10kbullets</set></card>
+		<card><name id="kan_li_10kb">Kan Li</name><set>10kbullets</set></card>
+		<card><name id="jade_valley_10kb">Jade Valley</name><set>10kbullets</set></card>
+		<card><name id="glimpse_of_the_abyss_10kb">Glimpse of the Abyss</name><set>10kbullets</set></card>
+		<card><name id="glimpse_of_the_abyss_10kb">Glimpse of the Abyss</name><set>10kbullets</set></card>
+		<card><name id="four_burning_fists_10kb">Four Burning Fists</name><set>10kbullets</set></card>
+		<card><name id="flying_sleeves_10kb">Flying Sleeves</name><set>10kbullets</set></card>
+		<card><name id="flying_sleeves_10kb">Flying Sleeves</name><set>10kbullets</set></card>
+		<card><name id="floating_restaurant_10kb">Floating Restaurant</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="field_of_tentacles_10kb">Field of Tentacles</name><set>10kbullets</set></card>
+		<card><name id="family_home_10kb">Family Home</name><set>10kbullets</set></card>
+		<card><name id="explosives_10kb">Explosives</name><set>10kbullets</set></card>
+		<card><name id="drug_lab_10kb">Drug Lab</name><set>10kbullets</set></card>
+		<card><name id="die_10kb">Die!!!</name><set>10kbullets</set></card>
+		<card><name id="die_10kb">Die!!!</name><set>10kbullets</set></card>
+		<card><name id="claw_of_fury_10kb">Claw of Fury</name><set>10kbullets</set></card>
+		<card><name id="claw_of_fury_10kb">Claw of Fury</name><set>10kbullets</set></card>
+		<card><name id="claw_of_fury_10kb">Claw of Fury</name><set>10kbullets</set></card>
+		<card><name id="claw_of_fury_10kb">Claw of Fury</name><set>10kbullets</set></card>
+		<card><name id="city_park_10kb">City Park</name><set>10kbullets</set></card>
+		<card><name id="city_hospital_10kb">City Hospital</name><set>10kbullets</set></card>
+		<card><name id="birdhouse_cafe_10kb">Birdhouse Cafe</name><set>10kbullets</set></card>
+		<card><name id="big_brother_tsien_10kb">Big Brother Tsien</name><set>10kbullets</set></card>
+	</superzone>
+</deck>

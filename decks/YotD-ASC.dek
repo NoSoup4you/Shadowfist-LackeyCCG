@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="the_pledged_yotd">The Pledged</name><set>yearofthedragon</set></card>
+		<card><name id="the_pledged_yotd">The Pledged</name><set>yearofthedragon</set></card>
+		<card><name id="the_pledged_yotd">The Pledged</name><set>yearofthedragon</set></card>
+		<card><name id="the_pledged_yotd">The Pledged</name><set>yearofthedragon</set></card>
+		<card><name id="suicide_mission_yotd">Suicide Mission</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_shark_yotd">Student of the Shark</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_shark_yotd">Student of the Shark</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_shark_yotd">Student of the Shark</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_bear_yotd">Student of the Bear</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_bear_yotd">Student of the Bear</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_bear_yotd">Student of the Bear</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_bear_yotd">Student of the Bear</name><set>yearofthedragon</set></card>
+		<card><name id="student_of_the_bear_yotd">Student of the Bear</name><set>yearofthedragon</set></card>
+		<card><name id="stone_garden_yotd">Stone Garden</name><set>yearofthedragon</set></card>
+		<card><name id="stone_garden_yotd">Stone Garden</name><set>yearofthedragon</set></card>
+		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion</name><set>yearofthedragon</set></card>
+		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion</name><set>yearofthedragon</set></card>
+		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion</name><set>yearofthedragon</set></card>
+		<card><name id="shadowy_mentor_yotd">Shadowy Mentor</name><set>yearofthedragon</set></card>
+		<card><name id="shadowy_mentor_yotd">Shadowy Mentor</name><set>yearofthedragon</set></card>
+		<card><name id="secret_headquarters_yotd">Secret Headquarters</name><set>yearofthedragon</set></card>
+		<card><name id="sam_mallory_yotd">Sam Mallory</name><set>yearofthedragon</set></card>
+		<card><name id="rat_fink_yotd">Rat Fink</name><set>yearofthedragon</set></card>
+		<card><name id="rat_fink_yotd">Rat Fink</name><set>yearofthedragon</set></card>
+		<card><name id="rat_fink_yotd">Rat Fink</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="paper_trail_yotd">Paper Trail</name><set>yearofthedragon</set></card>
+		<card><name id="operation_killdeer_yotd">Operation Killdeer</name><set>yearofthedragon</set></card>
+		<card><name id="operation_killdeer_yotd">Operation Killdeer</name><set>yearofthedragon</set></card>
+		<card><name id="operation_killdeer_yotd">Operation Killdeer</name><set>yearofthedragon</set></card>
+		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
+		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
+		<card><name id="mole_network_yotd">Mole Network</name><set>yearofthedragon</set></card>
+		<card><name id="mole_network_yotd">Mole Network</name><set>yearofthedragon</set></card>
+		<card><name id="kinoshita_house_yotd">Kinoshita House</name><set>yearofthedragon</set></card>
+		<card><name id="jagged_cliffs_yotd">Jagged Cliffs</name><set>yearofthedragon</set></card>
+		<card><name id="jade_valley_yotd">Jade Valley</name><set>yearofthedragon</set></card>
+		<card><name id="floating_restaurant_yotd">Floating Restaurant</name><set>yearofthedragon</set></card>
+		<card><name id="family_estate_yotd">Family Estate</name><set>yearofthedragon</set></card>
+		<card><name id="explosives_yotd">Explosives</name><set>yearofthedragon</set></card>
+		<card><name id="explosives_yotd">Explosives</name><set>yearofthedragon</set></card>
+		<card><name id="draco_yotd">Draco</name><set>yearofthedragon</set></card>
+		<card><name id="covert_operation_yotd">Covert Operation</name><set>yearofthedragon</set></card>
+		<card><name id="covert_operation_yotd">Covert Operation</name><set>yearofthedragon</set></card>
+		<card><name id="city_park_yotd">City Park</name><set>yearofthedragon</set></card>
+		<card><name id="city_park_yotd">City Park</name><set>yearofthedragon</set></card>
+		<card><name id="bull_market_yotd">Bull Market</name><set>yearofthedragon</set></card>
+		<card><name id="blessed_orchard_yotd">Blessed Orchard</name><set>yearofthedragon</set></card>
+		<card><name id="birdhouse_cafe_yotd">Birdhouse Cafe</name><set>yearofthedragon</set></card>
+	</superzone>
+</deck>

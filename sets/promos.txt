@@ -1,0 +1,5 @@
+Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Blade Palm	promos	blade_palm_pr	Event	Chi	Event	2	{chi}{chi}		0	0	0	Promo	blade palm	Return target card to owner's hand.	
+Burned for Victory	promos	burned_for_victory_pr	Token	Unaligned	Former Feng Shui Site				0	0	0	Promo	burned victory former	This card is to be put into your Burned for Victory pile. It counts towards victory.	
+Silver Band	promos	silver_band_pr	Character	Dragons	Legion of Supporters	3	{dra}{dra}{dra}	{dra}	5	0	0	Promo	silver band legion supporter		
+The Mark of Evil	promos	the_mark_of_evil_pr	State	Eaters of the Lotus	State	0	{lot}{lot}{mag}{mag}		0	0	0	Promo	mark evil	Unique. Schtick. Play on a Character. Sacrifice a Character :: Until the end of the turn, subject gains +X Fighting and cannot be removed from play by Events or Edges. X= the cost of the sacrificed Character.	

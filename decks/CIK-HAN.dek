@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="youn_wha_cik_400">Youn Wha</name><set>combatinkowloon</set></card>
+		<card><name id="waterfall_sanctuary_cik_400">Waterfall Sanctuary</name><set>combatinkowloon</set></card>
+		<card><name id="violet_meditation_cik_400">Violet Meditation</name><set>combatinkowloon</set></card>
+		<card><name id="violet_meditation_cik_400">Violet Meditation</name><set>combatinkowloon</set></card>
+		<card><name id="venerable_apothecary_cik_400">Venerable Apothecary</name><set>combatinkowloon</set></card>
+		<card><name id="the_jade_dragon_cik_400">The Jade Dragon</name><set>combatinkowloon</set></card>
+		<card><name id="the_iron_monkey_cik_400">The Iron Monkey</name><set>combatinkowloon</set></card>
+		<card><name id="temple_guards_cik_400">Temple Guards</name><set>combatinkowloon</set></card>
+		<card><name id="temple_guards_cik_400">Temple Guards</name><set>combatinkowloon</set></card>
+		<card><name id="temple_guards_cik_400">Temple Guards</name><set>combatinkowloon</set></card>
+		<card><name id="taiko_drummer_cik_400">Taiko Drummer</name><set>combatinkowloon</set></card>
+		<card><name id="taiko_drummer_cik_400">Taiko Drummer</name><set>combatinkowloon</set></card>
+		<card><name id="superior_kung_fu_cik_400">Superior Kung Fu</name><set>combatinkowloon</set></card>
+		<card><name id="sifu_beumer_cik_400">Sifu Beumer</name><set>combatinkowloon</set></card>
+		<card><name id="shield_of_pure_soul_cik_400">Shield of Pure Soul</name><set>combatinkowloon</set></card>
+		<card><name id="shaolin_supplicants_cik_400">Shaolin Supplicants</name><set>combatinkowloon</set></card>
+		<card><name id="shaolin_supplicants_cik_400">Shaolin Supplicants</name><set>combatinkowloon</set></card>
+		<card><name id="shaolin_supplicants_cik_400">Shaolin Supplicants</name><set>combatinkowloon</set></card>
+		<card><name id="shaolin_supplicants_cik_400">Shaolin Supplicants</name><set>combatinkowloon</set></card>
+		<card><name id="shaolin_student_cik_400">Shaolin Student</name><set>combatinkowloon</set></card>
+		<card><name id="shaolin_student_cik_400">Shaolin Student</name><set>combatinkowloon</set></card>
+		<card><name id="shaolin_student_cik_400">Shaolin Student</name><set>combatinkowloon</set></card>
+		<card><name id="shaking_the_mountain_cik_400">Shaking the Mountain</name><set>combatinkowloon</set></card>
+		<card><name id="secrets_of_shaolin_cik_400">Secrets of Shaolin</name><set>combatinkowloon</set></card>
+		<card><name id="puzzle_garden_cik_400">Puzzle Garden</name><set>combatinkowloon</set></card>
+		<card><name id="puzzle_garden_cik_400">Puzzle Garden</name><set>combatinkowloon</set></card>
+		<card><name id="precious_lotus_monastery_cik_400">Precious Lotus Monastery</name><set>combatinkowloon</set></card>
+		<card><name id="po_toi_islands_cik_400">Po Toi Islands</name><set>combatinkowloon</set></card>
+		<card><name id="nine_dragon_temple_cik_400">Nine Dragon Temple</name><set>combatinkowloon</set></card>
+		<card><name id="mobius_gardens_cik_400">Mobius Gardens</name><set>combatinkowloon</set></card>
+		<card><name id="medicinal_flower_garden_cik_400">Medicinal Flower Garden</name><set>combatinkowloon</set></card>
+		<card><name id="medicinal_flower_garden_cik_400">Medicinal Flower Garden</name><set>combatinkowloon</set></card>
+		<card><name id="master_hao_cik_400">Master Hao</name><set>combatinkowloon</set></card>
+		<card><name id="kung_fu_master_cik_400">Kung Fu Master</name><set>combatinkowloon</set></card>
+		<card><name id="kung_fu_master_cik_400">Kung Fu Master</name><set>combatinkowloon</set></card>
+		<card><name id="jade_dragon_monk_cik_400">Jade Dragon Monk</name><set>combatinkowloon</set></card>
+		<card><name id="iron_and_silk_cik_400">Iron and Silk</name><set>combatinkowloon</set></card>
+		<card><name id="iron_and_silk_cik_400">Iron and Silk</name><set>combatinkowloon</set></card>
+		<card><name id="humble_dojo_cik_400">Humble Dojo</name><set>combatinkowloon</set></card>
+		<card><name id="heat_of_battle_cik_400">Heat of Battle</name><set>combatinkowloon</set></card>
+		<card><name id="healing_earth_cik_400">Healing Earth</name><set>combatinkowloon</set></card>
+		<card><name id="confucian_stability_cik_400">Confucian Stability</name><set>combatinkowloon</set></card>
+		<card><name id="city_center_cik_400">City Center</name><set>combatinkowloon</set></card>
+		<card><name id="chinese_connection_cik_400">Chinese Connection</name><set>combatinkowloon</set></card>
+		<card><name id="buddhist_monk_cik_400">Buddhist Monk</name><set>combatinkowloon</set></card>
+		<card><name id="buddhist_monk_cik_400">Buddhist Monk</name><set>combatinkowloon</set></card>
+		<card><name id="breath_of_the_dragon_cik_400">Breath of the Dragon</name><set>combatinkowloon</set></card>
+		<card><name id="blue_monk_cik_400">Blue Monk</name><set>combatinkowloon</set></card>
+		<card><name id="bamboo_cane_cik_400">Bamboo Cane</name><set>combatinkowloon</set></card>
+		<card><name id="18_bronze_men_cik_400">18 Bronze Men</name><set>combatinkowloon</set></card>
+	</superzone>
+</deck>

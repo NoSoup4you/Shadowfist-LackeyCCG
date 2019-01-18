@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tricia_kwok_yotd">Tricia Kwok</name><set>yearofthedragon</set></card>
+		<card><name id="ting_ting_yotd">Ting Ting</name><set>yearofthedragon</set></card>
+		<card><name id="surprise_surprise_yotd">Surprise, Surprise</name><set>yearofthedragon</set></card>
+		<card><name id="surprise_surprise_yotd">Surprise, Surprise</name><set>yearofthedragon</set></card>
+		<card><name id="stone_garden_yotd">Stone Garden</name><set>yearofthedragon</set></card>
+		<card><name id="stone_garden_yotd">Stone Garden</name><set>yearofthedragon</set></card>
+		<card><name id="sacred_heart_hospital_yotd">Sacred Heart Hospital</name><set>yearofthedragon</set></card>
+		<card><name id="redeemed_gunman_yotd">Redeemed Gunman</name><set>yearofthedragon</set></card>
+		<card><name id="redeemed_gunman_yotd">Redeemed Gunman</name><set>yearofthedragon</set></card>
+		<card><name id="redeemed_gunman_yotd">Redeemed Gunman</name><set>yearofthedragon</set></card>
+		<card><name id="redeemed_gunman_yotd">Redeemed Gunman</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="perpetual_motion_machine_yotd">Perpetual Motion Machine</name><set>yearofthedragon</set></card>
+		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
+		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
+		<card><name id="netherworld_vet_yotd">Netherworld Vet</name><set>yearofthedragon</set></card>
+		<card><name id="netherworld_vet_yotd">Netherworld Vet</name><set>yearofthedragon</set></card>
+		<card><name id="maverick_cop_yotd">Maverick Cop</name><set>yearofthedragon</set></card>
+		<card><name id="maverick_cop_yotd">Maverick Cop</name><set>yearofthedragon</set></card>
+		<card><name id="little_jim_yotd">Little Jim</name><set>yearofthedragon</set></card>
+		<card><name id="jane_q_public_yotd">Jane Q. Public</name><set>yearofthedragon</set></card>
+		<card><name id="jane_q_public_yotd">Jane Q. Public</name><set>yearofthedragon</set></card>
+		<card><name id="jade_valley_yotd">Jade Valley</name><set>yearofthedragon</set></card>
+		<card><name id="house_on_the_hill_yotd">House on the Hill</name><set>yearofthedragon</set></card>
+		<card><name id="hacker_yotd">Hacker</name><set>yearofthedragon</set></card>
+		<card><name id="hacker_yotd">Hacker</name><set>yearofthedragon</set></card>
+		<card><name id="hacker_yotd">Hacker</name><set>yearofthedragon</set></card>
+		<card><name id="golden_comeback_yotd">Golden Comeback</name><set>yearofthedragon</set></card>
+		<card><name id="golden_comeback_yotd">Golden Comeback</name><set>yearofthedragon</set></card>
+		<card><name id="gambling_house_yotd">Gambling House</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="final_brawl_yotd">Final Brawl</name><set>yearofthedragon</set></card>
+		<card><name id="final_brawl_yotd">Final Brawl</name><set>yearofthedragon</set></card>
+		<card><name id="final_brawl_yotd">Final Brawl</name><set>yearofthedragon</set></card>
+		<card><name id="dirk_wiselys_gambit_yotd">Dirk Wisely&apos;s Gambit</name><set>yearofthedragon</set></card>
+		<card><name id="dirk_wiselys_gambit_yotd">Dirk Wisely&apos;s Gambit</name><set>yearofthedragon</set></card>
+		<card><name id="curio_shop_yotd">Curio Shop</name><set>yearofthedragon</set></card>
+		<card><name id="claw_of_the_dragon_yotd">Claw of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="claw_of_the_dragon_yotd">Claw of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="city_park_yotd">City Park</name><set>yearofthedragon</set></card>
+		<card><name id="cave_network_yotd">Cave Network</name><set>yearofthedragon</set></card>
+		<card><name id="bronze_sentinel_yotd">Bronze Sentinel</name><set>yearofthedragon</set></card>
+		<card><name id="bronze_sentinel_yotd">Bronze Sentinel</name><set>yearofthedragon</set></card>
+		<card><name id="birdhouse_cafe_yotd">Birdhouse Cafe</name><set>yearofthedragon</set></card>
+	</superzone>
+</deck>

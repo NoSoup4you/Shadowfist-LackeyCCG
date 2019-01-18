@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="yellow_geomancer_10kb">Yellow Geomancer</name><set>10kbullets</set></card>
+		<card><name id="yellow_geomancer_10kb">Yellow Geomancer</name><set>10kbullets</set></card>
+		<card><name id="virtuous_hood_10kb">Virtuous Hood</name><set>10kbullets</set></card>
+		<card><name id="virtuous_hood_10kb">Virtuous Hood</name><set>10kbullets</set></card>
+		<card><name id="the_iron_monkey_10kb">The Iron Monkey</name><set>10kbullets</set></card>
+		<card><name id="stone_garden_10kb">Stone Garden</name><set>10kbullets</set></card>
+		<card><name id="shih_ho_kuai_10kb">Shih Ho Kuai</name><set>10kbullets</set></card>
+		<card><name id="shield_of_pure_soul_10kb">Shield of Pure Soul</name><set>10kbullets</set></card>
+		<card><name id="shaolin_sanctuary_10kb">Shaolin Sanctuary</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="kung_fu_student_10kb">Kung Fu Student</name><set>10kbullets</set></card>
+		<card><name id="kung_fu_student_10kb">Kung Fu Student</name><set>10kbullets</set></card>
+		<card><name id="kung_fu_student_10kb">Kung Fu Student</name><set>10kbullets</set></card>
+		<card><name id="jade_valley_10kb">Jade Valley</name><set>10kbullets</set></card>
+		<card><name id="iron_and_silk_10kb">Iron and Silk</name><set>10kbullets</set></card>
+		<card><name id="iron_and_silk_10kb">Iron and Silk</name><set>10kbullets</set></card>
+		<card><name id="instrument_of_the_hand_10kb">Instrument of the Hand</name><set>10kbullets</set></card>
+		<card><name id="instrument_of_the_hand_10kb">Instrument of the Hand</name><set>10kbullets</set></card>
+		<card><name id="instrument_of_the_hand_10kb">Instrument of the Hand</name><set>10kbullets</set></card>
+		<card><name id="instrument_of_the_hand_10kb">Instrument of the Hand</name><set>10kbullets</set></card>
+		<card><name id="hidden_sanctuary_10kb">Hidden Sanctuary</name><set>10kbullets</set></card>
+		<card><name id="heat_of_battle_10kb">Heat of Battle</name><set>10kbullets</set></card>
+		<card><name id="heat_of_battle_10kb">Heat of Battle</name><set>10kbullets</set></card>
+		<card><name id="heat_of_battle_10kb">Heat of Battle</name><set>10kbullets</set></card>
+		<card><name id="healing_earth_10kb">Healing Earth</name><set>10kbullets</set></card>
+		<card><name id="healing_earth_10kb">Healing Earth</name><set>10kbullets</set></card>
+		<card><name id="hands_without_shadow_10kb">Hands Without Shadow</name><set>10kbullets</set></card>
+		<card><name id="golden_mile_10kb">Golden Mile</name><set>10kbullets</set></card>
+		<card><name id="golden_candle_society_10kb">Golden Candle Society</name><set>10kbullets</set></card>
+		<card><name id="golden_candle_society_10kb">Golden Candle Society</name><set>10kbullets</set></card>
+		<card><name id="golden_candle_society_10kb">Golden Candle Society</name><set>10kbullets</set></card>
+		<card><name id="golden_candle_society_10kb">Golden Candle Society</name><set>10kbullets</set></card>
+		<card><name id="golden_candle_society_10kb">Golden Candle Society</name><set>10kbullets</set></card>
+		<card><name id="flying_sword_stance_10kb">Flying Sword Stance</name><set>10kbullets</set></card>
+		<card><name id="flying_sword_stance_10kb">Flying Sword Stance</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="field_of_tentacles_10kb">Field of Tentacles</name><set>10kbullets</set></card>
+		<card><name id="festival_circle_10kb">Festival Circle</name><set>10kbullets</set></card>
+		<card><name id="derek_han_10kb">Derek Han</name><set>10kbullets</set></card>
+		<card><name id="curio_shop_10kb">Curio Shop</name><set>10kbullets</set></card>
+		<card><name id="confucian_stability_10kb">Confucian Stability</name><set>10kbullets</set></card>
+		<card><name id="confucian_stability_10kb">Confucian Stability</name><set>10kbullets</set></card>
+		<card><name id="city_park_10kb">City Park</name><set>10kbullets</set></card>
+		<card><name id="bulletproof_monk_10kb">Bulletproof Monk</name><set>10kbullets</set></card>
+		<card><name id="bulletproof_monk_10kb">Bulletproof Monk</name><set>10kbullets</set></card>
+		<card><name id="blue_monk_10kb">Blue Monk</name><set>10kbullets</set></card>
+		<card><name id="blue_monk_10kb">Blue Monk</name><set>10kbullets</set></card>
+		<card><name id="blade_palm_10kb">Blade Palm</name><set>10kbullets</set></card>
+		<card><name id="bird_sanctuary_10kb">Bird Sanctuary</name><set>10kbullets</set></card>
+	</superzone>
+</deck>

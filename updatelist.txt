@@ -1,0 +1,86 @@
+shadowfist	01-14-19
+plugins/shadowfist/bot.jpg	http://www.shadowfist.com/lackeyccg/bot.jpg	-6212
+plugins/shadowfist/CardImageURLs1.txt	http://www.shadowfist.com/lackeyccg/CardImageURLs1.txt	6965294
+plugins/shadowfist/CardImageURLs2.txt	http://www.shadowfist.com/lackeyccg/CardImageURLs2.txt	8164047
+plugins/shadowfist/CardImageURLs3.txt	http://www.shadowfist.com/lackeyccg/CardImageURLs3.txt	6278254
+plugins/shadowfist/CardImageURLs4.txt	http://www.shadowfist.com/lackeyccg/CardImageURLs4.txt	4836897
+plugins/shadowfist/CardImageURLs5.txt	http://www.shadowfist.com/lackeyccg/CardImageURLs5.txt	4551017
+plugins/shadowfist/formats.txt	http://www.shadowfist.com/lackeyccg/formats.txt	84295
+plugins/shadowfist/plugininfo.txt	http://www.shadowfist.com/lackeyccg/plugininfo.txt	304038
+plugins/shadowfist/pluginpreferences.txt	http://www.shadowfist.com/lackeyccg/pluginpreferences.txt	234331
+plugins/shadowfist/uninstall.txt	http://www.shadowfist.com/lackeyccg/uninstall.txt	22125
+plugins/shadowfist/version.txt	http://www.shadowfist.com/lackeyccg/version.txt	27997
+plugins/shadowfist/decks/10KB-ARC.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-ARC.dek	383683
+plugins/shadowfist/decks/10KB-ASC.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-ASC.dek	389556
+plugins/shadowfist/decks/10KB-DRA.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-DRA.dek	396115
+plugins/shadowfist/decks/10KB-LOT.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-LOT.dek	396436
+plugins/shadowfist/decks/10KB-MON.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-MON.dek	390783
+plugins/shadowfist/decks/10KB-HAN.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-HAN.dek	413197
+plugins/shadowfist/decks/10KB-JAM.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-JAM.dek	397593
+plugins/shadowfist/decks/10KB-PUR.dek	http://www.shadowfist.com/lackeyccg/decks/10KB-PUR.dek	401614
+plugins/shadowfist/decks/CIK-ASC.dek	http://www.shadowfist.com/lackeyccg/decks/CIK-ASC.dek	452450
+plugins/shadowfist/decks/CIK-DRA.dek	http://www.shadowfist.com/lackeyccg/decks/CIK-DRA.dek	449555
+plugins/shadowfist/decks/CIK-LOT.dek	http://www.shadowfist.com/lackeyccg/decks/CIK-LOT.dek	436888
+plugins/shadowfist/decks/CIK-HAN.dek	http://www.shadowfist.com/lackeyccg/decks/CIK-HAN.dek	456482
+plugins/shadowfist/decks/BFS-MON.dek	http://www.shadowfist.com/lackeyccg/decks/BFS-MON.dek	423881
+plugins/shadowfist/decks/BFS-JAM.dek	http://www.shadowfist.com/lackeyccg/decks/BFS-JAM.dek	428941
+plugins/shadowfist/decks/YotD-ARC.dek	http://www.shadowfist.com/lackeyccg/decks/YotD-ARC.dek	432490
+plugins/shadowfist/decks/YotD-ASC.dek	http://www.shadowfist.com/lackeyccg/decks/YotD-ASC.dek	443389
+plugins/shadowfist/decks/YotD-DRA.dek	http://www.shadowfist.com/lackeyccg/decks/YotD-DRA.dek	445800
+plugins/shadowfist/decks/YotD-LOT.dek	http://www.shadowfist.com/lackeyccg/decks/YotD-LOT.dek	450205
+plugins/shadowfist/decks/YotD-HAN.dek	http://www.shadowfist.com/lackeyccg/decks/YotD-HAN.dek	443633
+plugins/shadowfist/packs/packdefinitions1.xml	http://www.shadowfist.com/lackeyccg/packs/packdefinitions1.xml	256160
+plugins/shadowfist/packs/packdefinitions2.xml	http://www.shadowfist.com/lackeyccg/packs/packdefinitions2.xml	1690263
+plugins/shadowfist/packs/packdefinitions3.xml	http://www.shadowfist.com/lackeyccg/packs/packdefinitions3.xml	2526068
+plugins/shadowfist/packs/packdefinitions4.xml	http://www.shadowfist.com/lackeyccg/packs/packdefinitions4.xml	169274
+plugins/shadowfist/packs/packdefinitions5.xml	http://www.shadowfist.com/lackeyccg/packs/packdefinitions5.xml	2103086
+plugins/shadowfist/packs/10kbullets-starter.jpg	http://www.shadowfist.com/lackeyccg/packs/10kbullets-starter.jpg	9513
+plugins/shadowfist/packs/7masters-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/7masters-booster.jpg	14659
+plugins/shadowfist/packs/boomchakalaka-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/boomchakalaka-booster.jpg	-9394
+plugins/shadowfist/packs/criticalshift-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/criticalshift-booster.jpg	23831
+plugins/shadowfist/packs/darkfuture-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/darkfuture-booster.jpg	4150
+plugins/shadowfist/packs/empireofevil-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/empireofevil-booster.jpg	-76561
+plugins/shadowfist/packs/flashpoint-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/flashpoint-booster.jpg	6822
+plugins/shadowfist/packs/limited-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/limited-booster.jpg	8798
+plugins/shadowfist/packs/limited-starter.jpg	http://www.shadowfist.com/lackeyccg/packs/limited-starter.jpg	7358
+plugins/shadowfist/packs/netherworld-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/netherworld-booster.jpg	-15730
+plugins/shadowfist/packs/netherworld2-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/netherworld2-booster.jpg	-3965
+plugins/shadowfist/packs/redwedding-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/redwedding-booster.jpg	-3613
+plugins/shadowfist/packs/shaolinshowdown-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/shaolinshowdown-booster.jpg	14644
+plugins/shadowfist/packs/shurikensandsixguns-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/shurikensandsixguns-booster.jpg	-11855
+plugins/shadowfist/packs/thronewar-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/thronewar-booster.jpg	-579
+plugins/shadowfist/packs/twofistedtales-booster.jpg	http://www.shadowfist.com/lackeyccg/packs/twofistedtales-booster.jpg	-3760
+plugins/shadowfist/packs/yearofthedragon-starter.jpg	http://www.shadowfist.com/lackeyccg/packs/yearofthedragon-starter.jpg	13554
+plugins/shadowfist/sets/7masters.txt	http://www.shadowfist.com/lackeyccg/sets/7masters.txt	3232188
+plugins/shadowfist/sets/10kbullets.txt	http://www.shadowfist.com/lackeyccg/sets/10kbullets.txt	3514133
+plugins/shadowfist/sets/backforseconds.txt	http://www.shadowfist.com/lackeyccg/sets/backforseconds.txt	1699627
+plugins/shadowfist/sets/boomchakalaka.txt	http://www.shadowfist.com/lackeyccg/sets/boomchakalaka.txt	2024437
+plugins/shadowfist/sets/canofwhupass.txt	http://www.shadowfist.com/lackeyccg/sets/canofwhupass.txt	129821
+plugins/shadowfist/sets/combatinkowloon.txt	http://www.shadowfist.com/lackeyccg/sets/combatinkowloon.txt	3551940
+plugins/shadowfist/sets/criticalshift.txt	http://www.shadowfist.com/lackeyccg/sets/criticalshift.txt	3083269
+plugins/shadowfist/sets/darkfuture.txt	http://www.shadowfist.com/lackeyccg/sets/darkfuture.txt	3023535
+plugins/shadowfist/sets/empireofevil.txt	http://www.shadowfist.com/lackeyccg/sets/empireofevil.txt	3303424
+plugins/shadowfist/sets/flashpoint.txt	http://www.shadowfist.com/lackeyccg/sets/flashpoint.txt	3722029
+plugins/shadowfist/sets/modern.txt	http://www.shadowfist.com/lackeyccg/sets/modern.txt	322806
+plugins/shadowfist/sets/netherworld.txt	http://www.shadowfist.com/lackeyccg/sets/netherworld.txt	3299290
+plugins/shadowfist/sets/netherworld2.txt	http://www.shadowfist.com/lackeyccg/sets/netherworld2.txt	3911603
+plugins/shadowfist/sets/promos.txt	http://www.shadowfist.com/lackeyccg/sets/promos.txt	82055
+plugins/shadowfist/sets/redwedding.txt	http://www.shadowfist.com/lackeyccg/sets/redwedding.txt	2947786
+plugins/shadowfist/sets/reinforcements.txt	http://www.shadowfist.com/lackeyccg/sets/reinforcements.txt	1248569
+plugins/shadowfist/sets/reloaded.txt	http://www.shadowfist.com/lackeyccg/sets/reloaded.txt	1169980
+plugins/shadowfist/sets/revelations.txt	http://www.shadowfist.com/lackeyccg/sets/revelations.txt	1195564
+plugins/shadowfist/sets/shaolinshowdown.txt	http://www.shadowfist.com/lackeyccg/sets/shaolinshowdown.txt	3413792
+plugins/shadowfist/sets/shurikensandsixguns.txt	http://www.shadowfist.com/lackeyccg/sets/shurikensandsixguns.txt	3344247
+plugins/shadowfist/sets/standard.txt	http://www.shadowfist.com/lackeyccg/sets/standard.txt	6093739
+plugins/shadowfist/sets/thronewar.txt	http://www.shadowfist.com/lackeyccg/sets/thronewar.txt	2168627
+plugins/shadowfist/sets/twofistedtales.txt	http://www.shadowfist.com/lackeyccg/sets/twofistedtales.txt	3205405
+plugins/shadowfist/sets/yearofthedragon.txt	http://www.shadowfist.com/lackeyccg/sets/yearofthedragon.txt	2452337
+plugins/shadowfist/sets/setimages/general/cardback.jpg	http://www.shadowfist.com/lackeyccg/cardback.jpg	-44355
+plugins/shadowfist/sets/setimages/general/spawned.jpg	http://www.shadowfist.com/lackeyccg/spawned.jpg	-18038
+
+CardURLFiles:
+CardImageURLs1.txt
+CardImageURLs2.txt
+CardImageURLs3.txt
+CardImageURLs4.txt
+CardImageURLs5.txt

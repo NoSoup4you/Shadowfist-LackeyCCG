@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="turbo_boost_bfs_400">Turbo Boost</name><set>backforseconds</set></card>
+		<card><name id="turbo_boost_bfs_400">Turbo Boost</name><set>backforseconds</set></card>
+		<card><name id="thousand_sword_mountain_bfs_400">Thousand Sword Mountain</name><set>backforseconds</set></card>
+		<card><name id="the_ape_is_loose_bfs_400">The Ape is Loose!</name><set>backforseconds</set></card>
+		<card><name id="street_riot_bfs_400">Street Riot</name><set>backforseconds</set></card>
+		<card><name id="stolen_plans_bfs_400">Stolen Plans</name><set>backforseconds</set></card>
+		<card><name id="steel_woolley_bfs_400">Steel Woolley</name><set>backforseconds</set></card>
+		<card><name id="steam-powered_tricycle_bfs_400">Steam-Powered Tricycle</name><set>backforseconds</set></card>
+		<card><name id="sonic_reducer_bfs_400">Sonic Reducer</name><set>backforseconds</set></card>
+		<card><name id="software_pirate_bfs_400">Software Pirate</name><set>backforseconds</set></card>
+		<card><name id="software_pirate_bfs_400">Software Pirate</name><set>backforseconds</set></card>
+		<card><name id="software_pirate_bfs_400">Software Pirate</name><set>backforseconds</set></card>
+		<card><name id="simian_sneaker_bfs_400">Simian Sneaker</name><set>backforseconds</set></card>
+		<card><name id="scrounging_bfs_400">Scrounging</name><set>backforseconds</set></card>
+		<card><name id="scrounging_bfs_400">Scrounging</name><set>backforseconds</set></card>
+		<card><name id="punks_bfs_400">Punks</name><set>backforseconds</set></card>
+		<card><name id="punks_bfs_400">Punks</name><set>backforseconds</set></card>
+		<card><name id="punks_bfs_400">Punks</name><set>backforseconds</set></card>
+		<card><name id="potlatch_bfs_400">Potlatch</name><set>backforseconds</set></card>
+		<card><name id="po_toi_islands_bfs_400">Po Toi Islands</name><set>backforseconds</set></card>
+		<card><name id="payback_time_bfs_400">Payback Time</name><set>backforseconds</set></card>
+		<card><name id="out_of_the_barrel_bfs_400">Out of the Barrel</name><set>backforseconds</set></card>
+		<card><name id="nightclub_bfs_400">Nightclub</name><set>backforseconds</set></card>
+		<card><name id="nightclub_bfs_400">Nightclub</name><set>backforseconds</set></card>
+		<card><name id="monkey_house_bfs_400">Monkey House</name><set>backforseconds</set></card>
+		<card><name id="marmojet_bfs_400">Marmojet</name><set>backforseconds</set></card>
+		<card><name id="marmojet_bfs_400">Marmojet</name><set>backforseconds</set></card>
+		<card><name id="manufactured_island_bfs_400">Manufactured Island</name><set>backforseconds</set></card>
+		<card><name id="mad_scientist_bfs_400">Mad Scientist</name><set>backforseconds</set></card>
+		<card><name id="mad_scientist_bfs_400">Mad Scientist</name><set>backforseconds</set></card>
+		<card><name id="mad_scientist_bfs_400">Mad Scientist</name><set>backforseconds</set></card>
+		<card><name id="mad_scientist_bfs_400">Mad Scientist</name><set>backforseconds</set></card>
+		<card><name id="lagrange_four_bfs_400">LaGrange Four</name><set>backforseconds</set></card>
+		<card><name id="flying_monkey_squad_bfs_400">Flying Monkey Squad</name><set>backforseconds</set></card>
+		<card><name id="fireworks_factory_bfs_400">Fireworks Factory</name><set>backforseconds</set></card>
+		<card><name id="entropy_is_your_friend_bfs_400">Entropy is Your Friend</name><set>backforseconds</set></card>
+		<card><name id="electro-gauntlet_bfs_400">Electro-Gauntlet</name><set>backforseconds</set></card>
+		<card><name id="dump_scrounger_bfs_400">Dump Scrounger</name><set>backforseconds</set></card>
+		<card><name id="dump_scrounger_bfs_400">Dump Scrounger</name><set>backforseconds</set></card>
+		<card><name id="desolate_ridge_bfs_400">Desolate Ridge</name><set>backforseconds</set></card>
+		<card><name id="curtis_graham_bfs_400">Curtis Graham</name><set>backforseconds</set></card>
+		<card><name id="cocktail_waiters_bfs_400">Cocktail Waiters</name><set>backforseconds</set></card>
+		<card><name id="city_center_bfs_400">City Center</name><set>backforseconds</set></card>
+		<card><name id="chi_seeking_missile_bfs_400">Chi Seeking Missile</name><set>backforseconds</set></card>
+		<card><name id="brass_monkey_bfs_400">Brass Monkey</name><set>backforseconds</set></card>
+		<card><name id="booby-trapped_tomb_bfs_400">Booby-Trapped Tomb</name><set>backforseconds</set></card>
+		<card><name id="bomb_factory_bfs_400">Bomb Factory</name><set>backforseconds</set></card>
+		<card><name id="billy_zed_bfs_400">Billy Zed</name><set>backforseconds</set></card>
+		<card><name id="ba-boom_bfs_400">Ba-BOOM!</name><set>backforseconds</set></card>
+		<card><name id="torch_the_place_bfs_400">&quot;Torch the Place!&quot;</name><set>backforseconds</set></card>
+	</superzone>
+</deck>

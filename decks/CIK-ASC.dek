@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="wolf_den_cik_400">Wolf Den</name><set>combatinkowloon</set></card>
+		<card><name id="wolf_clan_hunters_cik_400">Wolf Clan Hunters</name><set>combatinkowloon</set></card>
+		<card><name id="wolf_clan_hunters_cik_400">Wolf Clan Hunters</name><set>combatinkowloon</set></card>
+		<card><name id="wolf_clan_hunters_cik_400">Wolf Clan Hunters</name><set>combatinkowloon</set></card>
+		<card><name id="wall_of_a_thousand_eyes_cik_400">Wall of a Thousand Eyes</name><set>combatinkowloon</set></card>
+		<card><name id="walk_on_the_wild_side_cik_400">Walk on the Wild Side</name><set>combatinkowloon</set></card>
+		<card><name id="violet_meditation_cik_400">Violet Meditation</name><set>combatinkowloon</set></card>
+		<card><name id="treasure_cache_cik_400">Treasure Cache</name><set>combatinkowloon</set></card>
+		<card><name id="treasure_cache_cik_400">Treasure Cache</name><set>combatinkowloon</set></card>
+		<card><name id="the_she-wolf_cik_400">The She-Wolf</name><set>combatinkowloon</set></card>
+		<card><name id="the_great_wastes_cik_400">The Great Wastes</name><set>combatinkowloon</set></card>
+		<card><name id="tears_of_the_crocodile_cik_400">Tears of the Crocodile</name><set>combatinkowloon</set></card>
+		<card><name id="tears_of_the_crocodile_cik_400">Tears of the Crocodile</name><set>combatinkowloon</set></card>
+		<card><name id="tail_of_the_lizard_cik_400">Tail of the Lizard</name><set>combatinkowloon</set></card>
+		<card><name id="tail_of_the_lizard_cik_400">Tail of the Lizard</name><set>combatinkowloon</set></card>
+		<card><name id="smiling_heaven_lake_cik_400">Smiling Heaven Lake</name><set>combatinkowloon</set></card>
+		<card><name id="serena_chase_cik_400">Serena Chase</name><set>combatinkowloon</set></card>
+		<card><name id="seal_team_cik_400">SEAL Team</name><set>combatinkowloon</set></card>
+		<card><name id="seal_team_cik_400">SEAL Team</name><set>combatinkowloon</set></card>
+		<card><name id="robbing_the_kong_cik_400">Robbing the Kong</name><set>combatinkowloon</set></card>
+		<card><name id="realpolitik_cik_400">Realpolitik</name><set>combatinkowloon</set></card>
+		<card><name id="rat_clan_spies_cik_400">Rat Clan Spies</name><set>combatinkowloon</set></card>
+		<card><name id="rat_clan_spies_cik_400">Rat Clan Spies</name><set>combatinkowloon</set></card>
+		<card><name id="rat_clan_spies_cik_400">Rat Clan Spies</name><set>combatinkowloon</set></card>
+		<card><name id="po_toi_islands_cik_400">Po Toi Islands</name><set>combatinkowloon</set></card>
+		<card><name id="operation_killdeer_cik_400">Operation Killdeer</name><set>combatinkowloon</set></card>
+		<card><name id="operation_killdeer_cik_400">Operation Killdeer</name><set>combatinkowloon</set></card>
+		<card><name id="night_moves_cik_400">Night Moves</name><set>combatinkowloon</set></card>
+		<card><name id="murder_of_crows_cik_400">Murder of Crows</name><set>combatinkowloon</set></card>
+		<card><name id="moonlight_raid_cik_400">Moonlight Raid</name><set>combatinkowloon</set></card>
+		<card><name id="mirrored_lake_cik_400">Mirrored Lake</name><set>combatinkowloon</set></card>
+		<card><name id="medicinal_flower_garden_cik_400">Medicinal Flower Garden</name><set>combatinkowloon</set></card>
+		<card><name id="maze_of_stairs_cik_400">Maze of Stairs</name><set>combatinkowloon</set></card>
+		<card><name id="mantis_fighter_cik_400">Mantis Fighter</name><set>combatinkowloon</set></card>
+		<card><name id="mantis_fighter_cik_400">Mantis Fighter</name><set>combatinkowloon</set></card>
+		<card><name id="mantis_fighter_cik_400">Mantis Fighter</name><set>combatinkowloon</set></card>
+		<card><name id="mantis_fighter_cik_400">Mantis Fighter</name><set>combatinkowloon</set></card>
+		<card><name id="grey_mountain_cik_400">Grey Mountain</name><set>combatinkowloon</set></card>
+		<card><name id="fox_on_the_run_cik_400">Fox on the Run</name><set>combatinkowloon</set></card>
+		<card><name id="everything_falls_apart_cik_400">Everything Falls Apart</name><set>combatinkowloon</set></card>
+		<card><name id="diamond_beach_cik_400">Diamond Beach</name><set>combatinkowloon</set></card>
+		<card><name id="diamond_beach_cik_400">Diamond Beach</name><set>combatinkowloon</set></card>
+		<card><name id="city_park_cik_400">City Park</name><set>combatinkowloon</set></card>
+		<card><name id="city_center_cik_400">City Center</name><set>combatinkowloon</set></card>
+		<card><name id="butterfly_swords_cik_400">Butterfly Swords</name><set>combatinkowloon</set></card>
+		<card><name id="butterfly_swords_cik_400">Butterfly Swords</name><set>combatinkowloon</set></card>
+		<card><name id="bull_market_cik_400">Bull Market</name><set>combatinkowloon</set></card>
+		<card><name id="blade_palm_cik_400">Blade Palm</name><set>combatinkowloon</set></card>
+		<card><name id="bite_of_the_jellyfish_cik_400">Bite of the Jellyfish</name><set>combatinkowloon</set></card>
+		<card><name id="monkey_chang_cik_400">&quot;Monkey&quot; Chang</name><set>combatinkowloon</set></card>
+	</superzone>
+</deck>

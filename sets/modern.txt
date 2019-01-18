@@ -1,0 +1,23 @@
+Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Machine Warrior	modern	machine_warrior_mod	Character	Jammers	Junk-Eating Cyborg	4	{jam}{jam}{jam}{tek}	{tek}	9	0	0	Promo	machine warrior junk eating cyborg	Unique. At the end of your turn, toast a {tek} card in your smoked pile or toast this card.	
+Nine Cuts	modern	nine_cuts_mod	Character	Unaligned	Shadowy Assassin	3			3	0	0	Promo	nine cut shadowy assassin	Unique. Assassinate. When Nine Cuts inflicts combat damage on a Character, smoke that Character.	
+Open a Can of Whupass	modern	open_a_can_of_whupass_mod	Character	Dragons	Event	0	{dra}{dra}{dra}		0	0	0	Promo	open can whupass	Limited. Play during any Main Shot except during an attack. Until the end of the turn, target Character you control gains +X Fighting. X = the number of resources in that Character's resource conditions and resource provisions.	
+Shang Bojing	modern	shang_bojing_mod	Character	Unaligned	Rebel Leader	4	{dra}{asc}{han}	{dra}{asc}{han}	7	0	0	Promo	shang bojing rebel leader	Unique. Guts. You may substitute {dra}, {asc} and/or {han} for each resource condition of this card.	
+The Eastern King	modern	the_eastern_king_mod	Character	Ascended	Lodge Mastermind	7	{asc}{asc}{asc}{asc}	{asc}	11	0	0	Promo	eastern king lodge mastermind	Unique. Uncopyable. Not a legal target for Events. When you play him, and at the start of each turn, he gains the rules text of target <Lodge> Character until the target leaves play or the end of the turn.	
+The Junkyard	modern	the_junkyard_mod	Site	Unaligned	Netherworld Site	3		{mag}{tek}{chi}	0	1	9	Promo	junkyard netherworld	Unique. Turn the Junkyard during an attack that targets a card at this location :: Play a Character or a Weapon, Vehicle or {tek} State at -1 cost.	
+Wedding Gifts	modern	wedding_gifts_mod	Event	Four Monarchs	Event	0	{dra}{mon}		0	0	0	Promo	wedding gift	One-Shot. Gain one power for each unturned Character you do not control.	
+Xin Ji Yang	modern	xin_ji_yang_mod	Character	Eaters of the Lotus	Center of the Lotus	4	{lot}{lot}{lot}{lot}	{lot}{lot}{mag}	6	0	0	Promo	xin ji yang center lotus	Unique. +2 Fighting for each <Eunuch> or <Petal> Character you control.	
+Yung Chang	modern	yung_chang_mod	Character	Guiding Hand	Master of the Gardeners	5	{han}{han}{han}	{han}{chi}{chi}	8	0	0	Promo	yung chang master gardener	Unique. Choose a Site you control when Yung Chang enters play. That Site generates an additional Power until you lose control of it. Pay 1 Power to heal a Site.	
+Agent	modern	agent_token	Token	Ascended		2	{asc}		2	0	0	Token	agent	Token. Stealth.	
+Fanatic	modern	fanatic_token	Token	Jammers		2	{jam}		2	0	0	Token	fanatic	Token. Unstoppable.	
+Hero	modern	hero_token	Token	Dragons		2	{dra}		2	0	0	Token	hero	Token. Independent.	
+Hood	modern	hood_token	Token	Unaligned		1			1	0	0	Token	hood	Token.	
+Martial Artist	modern	martial_artist_token	Token	Guiding Hand		2	{han}		2	0	0	Token	martial artist	Token. Superleap.	
+Monk	modern	monk_token	Token	Guiding Hand		1	{han}		1	0	0	Token	monk	Token.	
+Monkey	modern	monkey_token	Token	Jammers		1	{jam}		1	0	0	Token	monkey	Token.	
+Spirit	modern	spirit_token	Token	Four Monarchs		1	{mon}		1	0	0	Token	spirit	Token.	
+Student	modern	student_token	Token	Dragons		1	{dra}		1	0	0	Token	student	Token.	
+Sworn	modern	sworn_token	Token	Ascended		1	{asc}		1	0	0	Token	sworn	Token.	
+Thorn	modern	thorn_token	Token	Eaters of the Lotus		2	{lot}		2	0	0	Token	thorn	Token. Assassinate.	
+Undead	modern	undead_token	Token	Eaters of the Lotus		1	{lot}		1	0	0	Token	undead	Token.	
+Warrior	modern	warrior_token	Token	Four Monarchs		2	{mon}		2	0	0	Token	warrior	Token. Ambush.	

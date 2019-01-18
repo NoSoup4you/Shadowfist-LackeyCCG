@@ -1,0 +1,7 @@
+Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Adrienne Hart	canofwhupass	adrienne_hart_cwos_400	Character	Ascended	Pledged Martial Artist	4	{asc}{asc}{asc}{asc}	{asc}	8	0	0	Promo	adrienne hart pledged martial artist	Unique. States cannot be played on Adrienne Hart.	
+Jack Donovan	canofwhupass	jack_donovan_cwos_400	Character	Dragons	Maverick Cop	5	{dra}{dra}{dra}	{dra}	8	0	0	Promo	jack donovan maverick cop	Unique. Guts. When one of your sites is burned while Jack Donovan is in your smoked pile, return him to your hand.	
+Jueding Shelun	canofwhupass	jueding_shelun_cwos_400	Character	Eaters of the Lotus	Eunuch Sorcerer	5	{lot}{lot}{lot}	{lot}{mag}	8	0	0	Promo	jueding shelun eunuch sorcerer	Unique. When Jueding Shelun smokes a Character in combat, you may turn any card in play.	
+Mad Dog McCroun	canofwhupass	mad_dog_mccroun_cwos_400	Character	Dragons	Big Bruiser	4	{dra}{dra}{dra}	{dra}	6	0	0	Promo	mad dog mccroun big bruiser	Unique. Toughness: 1. Guts.	
+Nirmal Yadav	canofwhupass	nirmal_yadav_cwos_400	Character	Architects of the Flesh	Supersoldier	4	{arc}{arc}{arc}	{arc}{tek}	7	0	0	Promo	nirmal yadav super soldier	Unique. Toughness: 1 while attacking.	
+Sun Chen	canofwhupass	sun_chen_cwos_400	Character	Guiding Hand	Legendary Archer	5	{han}{han}{han}	{han}	8	0	0	Promo	sun chen legendary archer	Unique. Superleap. You cannot play States on Sun Chen.	

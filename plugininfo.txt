@@ -1,0 +1,303 @@
+<plugin>
+
+
+
+
+<playerstat>
+
+	<label>Power</label>
+
+	<initialvalue>1</initialvalue>
+
+</playerstat>
+
+
+
+<deckzone>
+
+	<label>Deck</label>
+
+	<gamezonetoloadto>Deck</gamezonetoloadto>
+
+	<shuffle>yes</shuffle>
+
+</deckzone>
+
+
+
+<gamezone>
+
+	<label>Hand</label>
+
+	<visibletoowner>yes</visibletoowner>
+
+	<visibletoothers>no</visibletoothers>
+
+</gamezone>
+
+
+<gamezone>
+
+	<label>Deck</label>
+
+	<visibletoowner>no</visibletoowner>
+
+	<visibletoothers>no</visibletoothers>
+
+</gamezone>
+
+
+<gamezone>
+
+	<label>Smoked Pile</label>
+
+	<visibletoowner>yes</visibletoowner>
+
+	<visibletoothers>yes</visibletoothers>
+
+</gamezone>
+
+
+<gamezone>
+
+	<label>Toasted Pile</label>
+
+	<visibletoowner>yes</visibletoowner>
+
+	<visibletoothers>yes</visibletoothers>
+
+</gamezone>
+
+
+<gamezone>
+
+	<label>Burned for Victory</label>
+
+	<visibletoowner>yes</visibletoowner>
+
+	<visibletoothers>yes</visibletoothers>
+
+</gamezone>
+
+
+
+
+<phase><label>Establishing Shot</label></phase>
+<phase><label>1. Generate Power</label></phase>
+<phase><label>2. Unturn</label></phase>
+<phase><label>3. Discard</label></phase>
+<phase><label>4. Draw</label></phase>
+
+
+<phase><label>Main Shot</label></phase>
+<phase><label>End of Turn</label></phase>
+
+
+
+<generalfunction>
+
+	<label>Draw</label>
+
+	<kind>DRAWCARD</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</generalfunction>
+
+
+<generalfunction>
+
+	<label>Unturn All</label>
+
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</generalfunction>
+
+
+<generalfunction>
+
+	<label>Flip Coin</label>
+
+	<kind>FLIPCOIN</kind>
+
+	<includeasbutton>no</includeasbutton>
+
+</generalfunction>
+
+
+
+
+<cardfunction>
+
+	<label>Turn</label>
+
+	<kind>MAKERIGHT90DEGREES</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Unturn</label>
+
+	<kind>MAKERIGHT0DEGREES</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Maintain</label>
+
+	<kind>TOGGLETURNALLIMMUNITY</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Damage</label>
+
+	<kind>ADDCOUNTER</kind>
+
+	<color>red</color>
+
+	<PositionX>1</PositionX>
+
+	<PositionY>.2</PositionY>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Heal</label>
+
+	<kind>REMOVECOUNTER</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>+Fighting</label>
+
+	<kind>ADDCOUNTER</kind>
+
+	<color>blue</color>
+
+	<PositionX>1</PositionX>
+
+	<PositionY>.8</PositionY>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>-Fighting</label>
+
+	<kind>REMOVECOUNTER</kind>
+
+	<color>blue</color>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Add Counter</label>
+
+	<kind>ADDCOUNTER</kind>
+
+	<color>orange</color>
+
+	<PositionX>.5</PositionX>
+
+	<PositionY>1</PositionY>
+
+	<includeasbutton>no</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Remove Counter</label>
+
+	<kind>REMOVECOUNTER</kind>
+
+	<color>green</color>
+
+	<includeasbutton>no</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Edit Note</label>
+
+	<kind>EDITNOTE</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Clear</label>
+
+	<kind>CLEARCARD</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Turn Over</label>
+
+	<kind>TURNOVER</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+<cardfunction>
+
+	<label>Seize</label>
+
+	<kind>CHANGEOWNER</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
+
+
+1
+
+CARDBACK0:"cardback"
+
+
+
+</plugin>

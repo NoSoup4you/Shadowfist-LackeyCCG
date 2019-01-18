@@ -1,0 +1,177 @@
+Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+.44 Kincaid Magnum	yearofthegoat	44_kincaid_magnum_yotg	State	Unaligned											
+A Clockwork Orangutan	yearofthegoat	a_clockwork_orangutan_yotg	Character	Jammers											
+Agency Support	yearofthegoat	agency_support_yotg	Edge	Ascended											
+Agent Provocateur	yearofthegoat	agent_provocateur_yotg	Character	Ascended											
+Aimee Sprigg	yearofthegoat	aimee_sprigg_yotg	Character	Jammers											
+Aleut Herbalist	yearofthegoat	aleut_herbalist_yotg	Character	Four Monarchs											
+Alfar	yearofthegoat	alfar_yotg	Character	Four Monarchs											
+Ancestral River Home	yearofthegoat	ancestral_river_home_yotg	Site	Feng Shui Site											
+Ancient Lineage	yearofthegoat	ancient_lineage_yotg	Edge	Four Monarchs											
+Angie Dao	yearofthegoat	angie_dao_yotg	Character	Dragons											
+Arcane Vault	yearofthegoat	arcane_vault_yotg	Site	Feng Shui Site											
+Austere Monks	yearofthegoat	austere_monks_yotg	Character	Guiding Hand											
+Ba Jiao Gui	yearofthegoat	ba_jiao_gui_yotg	Character	Eaters of the Lotus											
+Balancing Stones	yearofthegoat	balancing_stones_yotg	Site	Feng Shui Site											
+Barbarian	yearofthegoat	barbarian_yotg	Character	Four Monarchs											
+Baxter's Irregulars	yearofthegoat	baxters_irregulars_yotg	Character	Dragons											
+Bear Market	yearofthegoat	bear_market_yotg	Event	Ascended											
+Betrayers of the Crane	yearofthegoat	betrayers_of_the_crane_yotg	Character	Ascended											
+Blue Flower Society	yearofthegoat	blue_flower_society_yotg	Character	Guiding Hand											
+Board of Punishments	yearofthegoat	board_of_punishments_yotg	Character	Eaters of the Lotus											
+Bountiful Master	yearofthegoat	bountiful_master_yotg	Character	Guiding Hand											
+Buddhist Bellringer	yearofthegoat	buddhist_bellringer_yotg	Character	Guiding Hand											
+Bustling Metro Station	yearofthegoat	bustling_metro_station_yotg	Site	Feng Shui Site											
+Campaign Manager	yearofthegoat	campaign_manager_yotg	Character	Ascended											
+Cargo Plane	yearofthegoat	cargo_plane_yotg	State	Unaligned											
+Cat Stance	yearofthegoat	cat_stance_yotg	Event	Chi											
+Charnel Ground	yearofthegoat	charnel_ground_yotg	Site	Feng Shui Site											
+Cheap Baboon Trick	yearofthegoat	cheap_baboon_trick_yotg	Event	Jammers											
+Chi Bomb	yearofthegoat	chi_bomb_yotg	Event	Jammers											
+Christopher Colobus	yearofthegoat	christopher_colobus_yotg	Character	Jammers											
+Chthonian Lake	yearofthegoat	chthonian_lake_yotg	Site	Feng Shui Site											
+Chun Qi Shuan	yearofthegoat	chun_qi_shuan_yotg	Character	Dragons											
+City Hall	yearofthegoat	city_hall_yotg	Site	Ascended											
+Clueless Heroes	yearofthegoat	clueless_heroes_yotg	Character	Dragons											
+Commander Roger Keyes	yearofthegoat	commander_roger_keyes_yotg	Character	Ascended											
+Contract Assassin	yearofthegoat	contract_assassin_yotg	Character	Ascended											
+Coordinated Sabotage	yearofthegoat	coordinated_sabotage_yotg	Event	Jammers											
+Corners of the Mouth	yearofthegoat	corners_of_the_mouth_yotg	Event	Guiding Hand											
+Craft and Might	yearofthegoat	craft_and_might_yotg	Event	Four Monarchs											
+Damned Dirty Apes	yearofthegoat	damned_dirty_apes_yotg	Character	Jammers											
+Death Masque	yearofthegoat	death_masque_yotg	State	Magic											
+Desolate Mountain	yearofthegoat	desolate_mountain_yotg	Site	Feng Shui Site											
+Disgruntled Techie	yearofthegoat	disgruntled_techie_yotg	Character	Jammers											
+Double Feature	yearofthegoat	double_feature_yotg	Event	Dragons											
+Ejector Seat Malfunction	yearofthegoat	ejector_seat_malfunction_yotg	Event	High Tech											
+Empire of Evil	yearofthegoat	empire_of_evil_yotg	Edge	Eaters of the Lotus											
+Exo Skeleton	yearofthegoat	exo_skeleton_yotg	State	High Tech											
+Extortion	yearofthegoat	extortion_yotg	Edge	Ascended											
+Eyes of the Magpie	yearofthegoat	eyes_of_the_magpie_yotg	Character	Ascended											
+Faith in the Halls of Power	yearofthegoat	faith_in_the_halls_of_power_yotg	Edge	Ascended											
+Familiar Spirit	yearofthegoat	familiar_spirit_yotg	State	Magic											
+Fire Breather	yearofthegoat	fire_breather_yotg	Character	Four Monarchs											
+Fireworks Display	yearofthegoat	fireworks_display_yotg	Event	Jammers											
+Frenzy	yearofthegoat	frenzy_yotg	State	Four Monarchs											
+Full Metal Nutball	yearofthegoat	full_metal_nutball_yotg	Character	Jammers											
+Gao Family Banquet Hall	yearofthegoat	gao_family_banquet_hall_yotg	Site	Feng Shui Site											
+Garden of Eternal Spring	yearofthegoat	garden_of_eternal_spring_yotg	Site	Chi											
+Grave Robbers	yearofthegoat	grave_robbers_yotg	Character	Eaters of the Lotus											
+Grease Shack	yearofthegoat	grease_shack_yotg	Site	Dragons											
+Guerilla Nihilists	yearofthegoat	guerilla_nihilists_yotg	Character	Jammers											
+Harati	yearofthegoat	harati_yotg	Character	Eaters of the Lotus											
+Heroic Rematch	yearofthegoat	heroic_rematch_yotg	Event	Dragons											
+Heroic Shoulder Wound	yearofthegoat	heroic_shoulder_wound_yotg	Event	Dragons											
+Hidden Sanctum	yearofthegoat	hidden_sanctum_yotg	Site	Feng Shui Site											
+Highway Ronin	yearofthegoat	highway_ronin_yotg	Character	Guiding Hand											
+Hong Kong's Finest	yearofthegoat	hong_kongs_finest_yotg	Character	Dragons											
+Honor and Glory	yearofthegoat	honor_and_glory_yotg	State	Four Monarchs											
+Horseshoe Island	yearofthegoat	horseshoe_island_yotg	Site	Feng Shui Site											
+House Arrest	yearofthegoat	house_arrest_yotg	State	Ascended											
+Hovercraft	yearofthegoat	hovercraft_yotg	State	Unaligned											
+Huang Yi	yearofthegoat	huang_yi_yotg	Character	Guiding Hand											
+Humble Beginnings	yearofthegoat	humble_beginnings_yotg	Event	Chi											
+Incendiary Blast	yearofthegoat	incendiary_blast_yotg	Event	Magic											
+Innocent Convict	yearofthegoat	innocent_convict_yotg	Character	Dragons											
+Inspector Dee	yearofthegoat	inspector_dee_yotg	Character	Dragons											
+Jade Jones	yearofthegoat	jade_jones_yotg	Character	Dragons											
+Jian	yearofthegoat	jian_yotg	Character	Eaters of the Lotus											
+Joe Yeung	yearofthegoat	joe_yeung_yotg	Character	Jammers											
+Journey's Reward	yearofthegoat	journeys_reward_yotg	Event	Guiding Hand											
+Junkyard Engineer	yearofthegoat	junkyard_engineer_yotg	Character	Dragons											
+Just Gettin' Riled Up	yearofthegoat	just_gettin'_riled_up_yotg	Event	Dragons											
+Kitsune	yearofthegoat	kitsune_yotg	Character	Guiding Hand											
+Knight Templar	yearofthegoat	knight_templar_yotg	Character	Four Monarchs											
+Little Flower	yearofthegoat	little_flower_yotg	Character	Eaters of the Lotus											
+M.A.D.	yearofthegoat	m.a.d._yotg	Event	Jammers											
+Martial Focus	yearofthegoat	martial_focus_yotg	Edge	Unaligned											
+Masked Man	yearofthegoat	masked_man_yotg	Character	Unaligned											
+Master Fletcher	yearofthegoat	master_fletcher_yotg	Character	Four Monarchs											
+Maze of Little Passages	yearofthegoat	maze_of_little_passages_yotg	Site	Feng Shui Site											
+Mesmerism	yearofthegoat	mesmerism_yotg	Event	Eaters of the Lotus											
+Meteor Hammer	yearofthegoat	meteor_hammer_yotg	State	Unaligned											
+Mobius Portal	yearofthegoat	mobius_portal_yotg	Site	Magic											
+Mogwai	yearofthegoat	mogwai_yotg	Character	Eaters of the Lotus											
+Monster Truck Ambulance	yearofthegoat	monster_truck_ambulance_yotg	State	Dragons											
+Mostly Dead Zone	yearofthegoat	mostly_dead_zone_yotg	Site	Jammers											
+Mountain Falls	yearofthegoat	mountain_falls_yotg	Site	Feng Shui Site											
+Netherworld Trickster	yearofthegoat	netherworld_trickster_yotg	Character	Dragons											
+Nicole D'Orca	yearofthegoat	nicole_dorca_yotg	Character	Ascended											
+Nine Cuts	yearofthegoat	nine_cuts_yotg	Character	Unaligned											
+Ominous Cave Mouth	yearofthegoat	ominous_cave_mouth_yotg	Site	Eaters of the Lotus											
+On the Wire	yearofthegoat	on_the_wire_yotg	Event	High Tech											
+Operation Hidden Tiger	yearofthegoat	operation_hidden_tiger_yotg	Event	Ascended											
+Operation Tethered Goat	yearofthegoat	operation_tethered_goat_yotg	Event	Ascended											
+Origami Fortress	yearofthegoat	origami_fortress_yotg	Site	Feng Shui Site											
+Pacifists	yearofthegoat	pacifists_yotg	Character	Guiding Hand											
+Personal Assault Vehicle	yearofthegoat	personal_assault_vehicle_yotg	State	High Tech											
+Pi Yin	yearofthegoat	pi_yin_yotg	Character	Four Monarchs											
+Plague of Moths	yearofthegoat	plague_of_moths_yotg	Event	Eaters of the Lotus											
+Police Escort	yearofthegoat	police_escort_yotg	Character	Ascended											
+Political Favors	yearofthegoat	political_favors_yotg	Event	Ascended											
+Proximi-chi Scanner	yearofthegoat	proximi_chi_scanner_yotg	State	Jammers											
+Pyromaniac	yearofthegoat	pyromaniac_yotg	Character	Jammers											
+Quanqiu Wishing Well	yearofthegoat	quanqiu_wishing_well_yotg	Site	Feng Shui Site											
+Quixotic Defense	yearofthegoat	quixotic_defense_yotg	Event	Guiding Hand											
+Rainforest Bridge	yearofthegoat	rainforest_bridge_yotg	Site	Feng Shui Site											
+Razor-Clad Fanatic	yearofthegoat	razor_clad_fanatic_yotg	Character	Jammers											
+Reformed Bandit	yearofthegoat	reformed_bandit_yotg	Character	Guiding Hand											
+Remix Artist	yearofthegoat	remix_artist_yotg	Character	Dragons											
+Remote Temple	yearofthegoat	remote_temple_yotg	Site	Feng Shui Site											
+Renewal	yearofthegoat	renewal_yotg	Event	Chi											
+Renewed Manifesto	yearofthegoat	renewed_manifesto_yotg	Event	Jammers											
+Returning to Your Roots	yearofthegoat	returning_to_your_roots_yotg	State	Guiding Hand											
+Rewired Robot	yearofthegoat	rewired_robot_yotg	Character	Dragons											
+River of Lights	yearofthegoat	river_of_lights_yotg	Site	Feng Shui Site											
+River's Path	yearofthegoat	rivers_path_yotg	Event	Guiding Hand											
+Roar of the Lion	yearofthegoat	roar_of_the_lion_yotg	Character	Ascended											
+Robo-Bonobo	yearofthegoat	robo_bonobo_yotg	Character	Jammers											
+Rocket Launcher	yearofthegoat	rocket_launcher_yotg	State	Unaligned											
+Salamalah Sade	yearofthegoat	salamalah_sade_yotg	Character	Four Monarchs											
+Scroll of Pain	yearofthegoat	scroll_of_pain_yotg	Event	Eaters of the Lotus											
+Sea Turtle Cove	yearofthegoat	sea_turtle_cove_yotg	Site	Feng Shui Site											
+Serge Gardinier	yearofthegoat	serge_gardinier_yotg	Character	Ascended											
+Shadowed	yearofthegoat	shadowed_yotg	State	Ascended											
+Shock Troops	yearofthegoat	shock_troops_yotg	Character	Four Monarchs											
+Sir James Lamb	yearofthegoat	sir_james_lamb_yotg	Character	Four Monarchs											
+Sky Burial	yearofthegoat	sky_burial_yotg	Event	Chi											
+Snap of the Crocodile	yearofthegoat	snap_of_the_crocodile_yotg	Character	Ascended											
+Song of the Nightingale	yearofthegoat	song_of_the_nightingale_yotg	Event	Chi											
+Sonic Boomer	yearofthegoat	sonic_boomer_yotg	State	Jammers											
+Sorcerous Return	yearofthegoat	sorcerous_return_yotg	Event	Eaters of the Lotus											
+Spirit in a Bottle	yearofthegoat	spirit_in_a_bottle_yotg	Event	Magic											
+Spontaneous Combustion	yearofthegoat	spontaneous_combustion_yotg	Event	Four Monarchs											
+Stone Gargoyle	yearofthegoat	stone_gargoyle_yotg	Character	Eaters of the Lotus											
+Sublime Melancholy	yearofthegoat	sublime_melancholy_yotg	State	Eaters of the Lotus											
+Sulphurous Cenote	yearofthegoat	sulphurous_cenote_yotg	Site	Feng Shui Site											
+Surfeit of Minions	yearofthegoat	surfeit_of_minions_yotg	Event	Eaters of the Lotus											
+Tai Chi Ascension	yearofthegoat	tai_chi_ascension_yotg	Event	Dragons											
+Tears of Hsi-Ho	yearofthegoat	tears_of_hsi_ho_yotg	Event	Four Monarchs											
+The Blackboard	yearofthegoat	the_blackboard_yotg	Site	Feng Shui Site											
+The Eastern King	yearofthegoat	the_eastern_king_yotg	Character	Ascended											
+The Junkyard	yearofthegoat	the_junkyard_yotg	Site	Unaligned											
+The Leashed	yearofthegoat	the_leashed_yotg	Character	Eaters of the Lotus											
+The Legacy of Shaolin	yearofthegoat	the_legacy_of_shaolin_yotg	Character	Guiding Hand											
+The Leong Brothers	yearofthegoat	the_leong_brothers_yotg	Character	Dragons											
+The Mantle	yearofthegoat	the_mantle_yotg	Character	Eaters of the Lotus											
+Tom Baxter	yearofthegoat	tom_baxter_yotg	Character	Dragons											
+Touch of the Abyss	yearofthegoat	touch_of_the_abyss_yotg	Event	Eaters of the Lotus											
+Tranquil Peaks	yearofthegoat	tranquil_peaks_yotg	Site	Feng Shui Site											
+Tunnel Fighter	yearofthegoat	tunnel_fighter_yotg	Character	Jammers											
+Turf War	yearofthegoat	turf_war_yotg	Edge	Dragons											
+Twenty Lashes	yearofthegoat	twenty_lashes_yotg	Event	Four Monarchs											
+Twin Thunders	yearofthegoat	twin_thunders_yotg	Event	Four Monarchs											
+Undisturbed Meditation	yearofthegoat	undisturbed_meditation_yotg	Edge	Guiding Hand											
+Up Before Breakfast	yearofthegoat	up_before_breakfast_yotg	State	Dragons											
+Viking Burial	yearofthegoat	viking_burial_yotg	Event	Four Monarchs											
+Village Defenders	yearofthegoat	village_defenders_yotg	Character	Guiding Hand											
+Wei Tian	yearofthegoat	wei_tian_yotg	Character	Guiding Hand											
+Weird Scientist	yearofthegoat	weird_scientist_yotg	Character	Jammers											
+White Wolf	yearofthegoat	white_wolf_yotg	Character	Four Monarchs											
+William Franklin	yearofthegoat	william_franklin_yotg	Character	Four Monarchs											
+Wired to Blow	yearofthegoat	wired_to_blow_yotg	Edge	Jammers											
+Yanuario Garcia	yearofthegoat	yanuario_garcia_yotg	Character	Ascended											
+Yanyeudao Blade	yearofthegoat	yanyeudao_blade_yotg	State	Guiding Hand											
+Yu Canghai	yearofthegoat	yu_canghai_yotg	Character	Eaters of the Lotus											
+Zhenmushou	yearofthegoat	zhenmushou_yotg	State	Eaters of the Lotus											
+Zhuha	yearofthegoat	zhuha_yotg	Character	Eaters of the Lotus											

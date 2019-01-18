@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="swat_team_10kb">SWAT Team</name><set>10kbullets</set></card>
+		<card><name id="swat_team_10kb">SWAT Team</name><set>10kbullets</set></card>
+		<card><name id="swat_team_10kb">SWAT Team</name><set>10kbullets</set></card>
+		<card><name id="swat_team_10kb">SWAT Team</name><set>10kbullets</set></card>
+		<card><name id="suicide_mission_10kb">Suicide Mission</name><set>10kbullets</set></card>
+		<card><name id="submachine_gun_10kb">Sub-Machine Gun</name><set>10kbullets</set></card>
+		<card><name id="submachine_gun_10kb">Sub-Machine Gun</name><set>10kbullets</set></card>
+		<card><name id="student_of_the_bear_10kb">Student of the Bear</name><set>10kbullets</set></card>
+		<card><name id="student_of_the_bear_10kb">Student of the Bear</name><set>10kbullets</set></card>
+		<card><name id="student_of_the_bear_10kb">Student of the Bear</name><set>10kbullets</set></card>
+		<card><name id="student_of_the_bear_10kb">Student of the Bear</name><set>10kbullets</set></card>
+		<card><name id="student_of_the_bear_10kb">Student of the Bear</name><set>10kbullets</set></card>
+		<card><name id="stone_garden_10kb">Stone Garden</name><set>10kbullets</set></card>
+		<card><name id="sports_car_10kb">Sports Car</name><set>10kbullets</set></card>
+		<card><name id="shadowy_mentor_10kb">Shadowy Mentor</name><set>10kbullets</set></card>
+		<card><name id="shadowy_mentor_10kb">Shadowy Mentor</name><set>10kbullets</set></card>
+		<card><name id="security_10kb">Security</name><set>10kbullets</set></card>
+		<card><name id="security_10kb">Security</name><set>10kbullets</set></card>
+		<card><name id="realpolitik_10kb">Realpolitik</name><set>10kbullets</set></card>
+		<card><name id="rachel_mcshane_10kb">Rachel McShane</name><set>10kbullets</set></card>
+		<card><name id="pumpaction_shotgun_10kb">Pump-Action Shotgun</name><set>10kbullets</set></card>
+		<card><name id="phillipe_benoit_10kb">Phillippe Benoit</name><set>10kbullets</set></card>
+		<card><name id="operation_killdeer_10kb">Operation Killdeer</name><set>10kbullets</set></card>
+		<card><name id="operation_killdeer_10kb">Operation Killdeer</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="mole_network_10kb">Mole Network</name><set>10kbullets</set></card>
+		<card><name id="mole_network_10kb">Mole Network</name><set>10kbullets</set></card>
+		<card><name id="liquidators_10kb">Liquidators</name><set>10kbullets</set></card>
+		<card><name id="liquidators_10kb">Liquidators</name><set>10kbullets</set></card>
+		<card><name id="liquidators_10kb">Liquidators</name><set>10kbullets</set></card>
+		<card><name id="jaded_cop_10kb">Jaded Cop</name><set>10kbullets</set></card>
+		<card><name id="jaded_cop_10kb">Jaded Cop</name><set>10kbullets</set></card>
+		<card><name id="jade_valley_10kb">Jade Valley</name><set>10kbullets</set></card>
+		<card><name id="gruff_lieutenant_10kb">Gruff Lieutenant</name><set>10kbullets</set></card>
+		<card><name id="gruff_lieutenant_10kb">Gruff Lieutenant</name><set>10kbullets</set></card>
+		<card><name id="gruff_lieutenant_10kb">Gruff Lieutenant</name><set>10kbullets</set></card>
+		<card><name id="golden_mile_10kb">Golden Mile</name><set>10kbullets</set></card>
+		<card><name id="garden_of_bronze_10kb">Garden of Bronze</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="family_home_10kb">Family Home</name><set>10kbullets</set></card>
+		<card><name id="family_estate_10kb">Family Estate</name><set>10kbullets</set></card>
+		<card><name id="faked_death_10kb">Faked Death</name><set>10kbullets</set></card>
+		<card><name id="curio_shop_10kb">Curio Shop</name><set>10kbullets</set></card>
+		<card><name id="city_park_10kb">City Park</name><set>10kbullets</set></card>
+		<card><name id="city_hospital_10kb">City Hospital</name><set>10kbullets</set></card>
+		<card><name id="captain_liu_10kb">Captain Liu</name><set>10kbullets</set></card>
+		<card><name id="bull_market_10kb">Bull Market</name><set>10kbullets</set></card>
+		<card><name id="bleys_fontaine_10kb">Bleys Fontaine</name><set>10kbullets</set></card>
+		<card><name id="birdhouse_cafe_10kb">Birdhouse Cafe</name><set>10kbullets</set></card>
+	</superzone>
+</deck>

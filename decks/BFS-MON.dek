@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="summer_fire_palace_bfs_400">Summer Fire Palace</name><set>backforseconds</set></card>
+		<card><name id="stone_spirals_bfs_400">Stone Spirals</name><set>backforseconds</set></card>
+		<card><name id="shattering_fire_bfs_400">Shattering Fire</name><set>backforseconds</set></card>
+		<card><name id="pocket_demon_bfs_400">Pocket Demon</name><set>backforseconds</set></card>
+		<card><name id="pocket_demon_bfs_400">Pocket Demon</name><set>backforseconds</set></card>
+		<card><name id="plots_and_intrigues_bfs_400">Plots and Intrigues</name><set>backforseconds</set></card>
+		<card><name id="plots_and_intrigues_bfs_400">Plots and Intrigues</name><set>backforseconds</set></card>
+		<card><name id="phlogiston_mine_bfs_400">Phlogiston Mine</name><set>backforseconds</set></card>
+		<card><name id="mouth_of_the_fire_righteous_bfs_400">Mouth of the Fire Righteous</name><set>backforseconds</set></card>
+		<card><name id="mobius_gardens_bfs_400">Mobius Gardens</name><set>backforseconds</set></card>
+		<card><name id="maze_of_stairs_bfs_400">Maze of Stairs</name><set>backforseconds</set></card>
+		<card><name id="martyr&apos;s_tomb_bfs_400">Martyr&apos;s Tomb</name><set>backforseconds</set></card>
+		<card><name id="martyr&apos;s_tomb_bfs_400">Martyr&apos;s Tomb</name><set>backforseconds</set></card>
+		<card><name id="mark_of_fire_bfs_400">Mark of Fire</name><set>backforseconds</set></card>
+		<card><name id="larcenous_mist_bfs_400">Larcenous Mist</name><set>backforseconds</set></card>
+		<card><name id="kowloon_gate_bfs_400">Kowloon Gate</name><set>backforseconds</set></card>
+		<card><name id="khalid_al-haddad_bfs_400">Khalid Al-Haddad</name><set>backforseconds</set></card>
+		<card><name id="johnny_red_bfs_400">Johnny Red</name><set>backforseconds</set></card>
+		<card><name id="hartwell_iron_works_bfs_400">Hartwell Iron Works</name><set>backforseconds</set></card>
+		<card><name id="fire_warriors_bfs_400">Fire Warriors</name><set>backforseconds</set></card>
+		<card><name id="fire_warriors_bfs_400">Fire Warriors</name><set>backforseconds</set></card>
+		<card><name id="fire_sword_bfs_400">Fire Sword</name><set>backforseconds</set></card>
+		<card><name id="fire_sword_bfs_400">Fire Sword</name><set>backforseconds</set></card>
+		<card><name id="fire_sled_bfs_400">Fire Sled</name><set>backforseconds</set></card>
+		<card><name id="fire_serpent_bfs_400">Fire Serpent</name><set>backforseconds</set></card>
+		<card><name id="fire_serpent_bfs_400">Fire Serpent</name><set>backforseconds</set></card>
+		<card><name id="fire_mystic_bfs_400">Fire Mystic</name><set>backforseconds</set></card>
+		<card><name id="fire_horse_bfs_400">Fire Horse</name><set>backforseconds</set></card>
+		<card><name id="fire_dancer_bfs_400">Fire Dancer</name><set>backforseconds</set></card>
+		<card><name id="fire_dancer_bfs_400">Fire Dancer</name><set>backforseconds</set></card>
+		<card><name id="fire_dancer_bfs_400">Fire Dancer</name><set>backforseconds</set></card>
+		<card><name id="fire_dancer_bfs_400">Fire Dancer</name><set>backforseconds</set></card>
+		<card><name id="fire_cadets_bfs_400">Fire Cadets</name><set>backforseconds</set></card>
+		<card><name id="fire_cadets_bfs_400">Fire Cadets</name><set>backforseconds</set></card>
+		<card><name id="fire_cadets_bfs_400">Fire Cadets</name><set>backforseconds</set></card>
+		<card><name id="feeding_the_fires_bfs_400">Feeding the Fires</name><set>backforseconds</set></card>
+		<card><name id="fakhir-al-din_bfs_400">Fakhir-al-Din</name><set>backforseconds</set></card>
+		<card><name id="earth_wind_and_fire_bfs_400">Earth, Wind, and Fire</name><set>backforseconds</set></card>
+		<card><name id="dockyard_bfs_400">Dockyard</name><set>backforseconds</set></card>
+		<card><name id="dockyard_bfs_400">Dockyard</name><set>backforseconds</set></card>
+		<card><name id="city_center_bfs_400">City Center</name><set>backforseconds</set></card>
+		<card><name id="brain_fire_bfs_400">Brain Fire</name><set>backforseconds</set></card>
+		<card><name id="brain_fire_bfs_400">Brain Fire</name><set>backforseconds</set></card>
+		<card><name id="blood_lust_bfs_400">Blood Lust</name><set>backforseconds</set></card>
+		<card><name id="blood_lust_bfs_400">Blood Lust</name><set>backforseconds</set></card>
+		<card><name id="avenging_fire_bfs_400">Avenging Fire</name><set>backforseconds</set></card>
+		<card><name id="armorer_bfs_400">Armorer</name><set>backforseconds</set></card>
+		<card><name id="armorer_bfs_400">Armorer</name><set>backforseconds</set></card>
+		<card><name id="armorer_bfs_400">Armorer</name><set>backforseconds</set></card>
+		<card><name id="armies_of_the_monarchs_bfs_400">Armies of the Monarchs</name><set>backforseconds</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfistcustom</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="turtle_island_10kb">Turtle Island</name><set>10kbullets</set></card>
+		<card><name id="turtle_island_10kb">Turtle Island</name><set>10kbullets</set></card>
+		<card><name id="thunder_sword_10kb">Thunder Sword</name><set>10kbullets</set></card>
+		<card><name id="thunder_bishop_10kb">Thunder Bishop</name><set>10kbullets</set></card>
+		<card><name id="thunder_bishop_10kb">Thunder Bishop</name><set>10kbullets</set></card>
+		<card><name id="the_legacy_10kb">The Legacy</name><set>10kbullets</set></card>
+		<card><name id="pocket_demon_10kb">Pocket Demon</name><set>10kbullets</set></card>
+		<card><name id="pocket_demon_10kb">Pocket Demon</name><set>10kbullets</set></card>
+		<card><name id="pocket_demon_10kb">Pocket Demon</name><set>10kbullets</set></card>
+		<card><name id="nine_dragon_temple_10kb">Nine Dragon Temple</name><set>10kbullets</set></card>
+		<card><name id="nightclub_10kb">Nightclub</name><set>10kbullets</set></card>
+		<card><name id="mark_of_fire_10kb">Mark of Fire</name><set>10kbullets</set></card>
+		<card><name id="mark_of_fire_10kb">Mark of Fire</name><set>10kbullets</set></card>
+		<card><name id="mark_of_fire_10kb">Mark of Fire</name><set>10kbullets</set></card>
+		<card><name id="lord_shi_10kb">Lord Shi</name><set>10kbullets</set></card>
+		<card><name id="lord_hawksmoor_10kb">Lord Hawksmoor</name><set>10kbullets</set></card>
+		<card><name id="kinoshita_house_10kb">Kinoshita House</name><set>10kbullets</set></card>
+		<card><name id="ice_healer_10kb">Ice Healer</name><set>10kbullets</set></card>
+		<card><name id="ice_healer_10kb">Ice Healer</name><set>10kbullets</set></card>
+		<card><name id="ice_healer_10kb">Ice Healer</name><set>10kbullets</set></card>
+		<card><name id="ice_healer_10kb">Ice Healer</name><set>10kbullets</set></card>
+		<card><name id="ice_diadem_10kb">Ice Diadem</name><set>10kbullets</set></card>
+		<card><name id="garden_of_bronze_10kb">Garden of Bronze</name><set>10kbullets</set></card>
+		<card><name id="gambling_house_10kb">Gambling House</name><set>10kbullets</set></card>
+		<card><name id="fireworks_factory_10kb">Fireworks Factory</name><set>10kbullets</set></card>
+		<card><name id="fire_mystic_10kb">Fire Mystic</name><set>10kbullets</set></card>
+		<card><name id="fire_mystic_10kb">Fire Mystic</name><set>10kbullets</set></card>
+		<card><name id="fire_mystic_10kb">Fire Mystic</name><set>10kbullets</set></card>
+		<card><name id="fire_acolytes_10kb">Fire Acolytes</name><set>10kbullets</set></card>
+		<card><name id="fire_acolytes_10kb">Fire Acolytes</name><set>10kbullets</set></card>
+		<card><name id="fire_acolytes_10kb">Fire Acolytes</name><set>10kbullets</set></card>
+		<card><name id="fire_acolytes_10kb">Fire Acolytes</name><set>10kbullets</set></card>
+		<card><name id="field_of_tentacles_10kb">Field of Tentacles</name><set>10kbullets</set></card>
+		<card><name id="family_home_10kb">Family Home</name><set>10kbullets</set></card>
+		<card><name id="discerning_fire_10kb">Discerning Fire</name><set>10kbullets</set></card>
+		<card><name id="darkness_warriors_10kb">Darkness Warriors</name><set>10kbullets</set></card>
+		<card><name id="darkness_warriors_10kb">Darkness Warriors</name><set>10kbullets</set></card>
+		<card><name id="darkness_warriors_10kb">Darkness Warriors</name><set>10kbullets</set></card>
+		<card><name id="darkness_warriors_10kb">Darkness Warriors</name><set>10kbullets</set></card>
+		<card><name id="claws_of_darkness_10kb">Claws of Darkness</name><set>10kbullets</set></card>
+		<card><name id="claws_of_darkness_10kb">Claws of Darkness</name><set>10kbullets</set></card>
+		<card><name id="city_park_10kb">City Park</name><set>10kbullets</set></card>
+		<card><name id="city_hospital_10kb">City Hospital</name><set>10kbullets</set></card>
+		<card><name id="butterfly_knight_10kb">Butterfly Knight</name><set>10kbullets</set></card>
+		<card><name id="butterfly_knight_10kb">Butterfly Knight</name><set>10kbullets</set></card>
+		<card><name id="brain_fire_10kb">Brain Fire</name><set>10kbullets</set></card>
+		<card><name id="brain_fire_10kb">Brain Fire</name><set>10kbullets</set></card>
+		<card><name id="blade_of_darkness_10kb">Blade of Darkness</name><set>10kbullets</set></card>
+		<card><name id="blade_of_darkness_10kb">Blade of Darkness</name><set>10kbullets</set></card>
+		<card><name id="avenging_thunder_10kb">Avenging Thunder</name><set>10kbullets</set></card>
+	</superzone>
+</deck>
