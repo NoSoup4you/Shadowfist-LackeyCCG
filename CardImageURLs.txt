@@ -2641,7 +2641,7 @@ reinforcements/skilled_techie_re2_400.jpg	https://raw.githubusercontent.com/NoSo
 reinforcements/soul_reaver_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/soul_reaver_re2_400.jpg
 reinforcements/sworn_infiltrator_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/sworn_infiltrator_re2_400.jpg
 reinforcements/test_monkey_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/test_monkey_re2_400.jpg
-reinforcements/the_dynamic_dr._dawson_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/the_dynamic_dr_dawson_re2_400.jpg
+reinforcements/the_dynamic_dr._dawson_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/the_dynamic_dr._dawson_re2_400.jpg
 reinforcements/thunder_berserkers_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/thunder_berserkers_re2_400.jpg
 reinforcements/thunder_gauntlet_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/thunder_gauntlet_re2_400.jpg
 reinforcements/tiger_leaping_gorge_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/tiger_leaping_gorge_re2_400.jpg
