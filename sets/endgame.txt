@@ -1,0 +1,51 @@
+Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Agent Neil North	endgame	agent_neil_north_eg	Character	Ascended											
+Anarchy in the HK!	endgame	anarchy_in_the_hk_eg	Event	Jammers											
+ANFO Grenade	endgame	anfo_grenade_eg	Event	Jammers											
+Blossoms of the Black Lotus	endgame	blossoms_of_the_black_lotus_eg	Character	Eaters of the Lotus											
+Burying the Past	endgame	burying_the_past_eg	Edge	"Ascended, Eaters of the Lotus"											
+Catacombs	endgame	catacombs_eg	Site	Feng Shui Site											
+Chiu Bagong	endgame	chiu_bagong_eg	Character	Four Monarchs											
+Claw of the Ice Bear	endgame	claw_of_the_ice_bear_eg	Character	Four Monarchs											
+Corporate Informer	endgame	corporate_informer_eg	Character	Ascended											
+Crystal Heart	endgame	crystal_heart_eg	Edge	Four Monarchs											
+Deadly Fans	endgame	deadly_fans_eg	State	Unaligned											
+Decked-Out Dirigible	endgame	decked-out_dirigible_eg	Site	High Tech											
+Earthbound Warriors	endgame	earthbound_warriors_eg	Event	Four Monarchs											
+Emerald Mine	endgame	emerald_mine_eg	Site	Feng Shui Site											
+Emergency Room	endgame	emergency_room_eg	Site	Feng Shui Site											
+Entrapment	endgame	entrapment_eg	Event	Ascended											
+Explosive Delivery Service	endgame	explosive_delivery_service_eg	Character	Jammers											
+Final Showdown	endgame	final_showdown_eg	Event	Dragons											
+Fluttering Doves	endgame	fluttering_doves_eg	Edge	Dragons											
+Granite Mountain	endgame	granite_mountain_eg	Site	Feng Shui Site											
+Great Teacher Chow	endgame	great_teacher_chow_eg	Character	Dragons											
+Grim Bonobo	endgame	grim_bonobo_eg	Character	Jammers											
+Hidden Dragon	endgame	hidden_dragon_eg	Character	Guiding Hand											
+Hitlist	endgame	hitlist_eg	Character	Dragons											
+Hummingbird Kick	endgame	hummingbird_kick_eg	State	Chi											
+Insurance Policy	endgame	insurance_policy_eg	State	Ascended											
+Keeper Taylor	endgame	keeper_taylor_eg	Character	Jammers											
+Khofesh	endgame	khofesh_eg	Character	Dragons											
+Legal Eagle	endgame	legal_eagle_eg	Character	Ascended											
+Lighting the Fuse	endgame	lighting_the_fuse_eg	Event	Jammers											
+Liu Yuan	endgame	liu_yuan_eg	Character	Guiding Hand											
+Mastery of the Red Principle	endgame	mastery_of_the_red_principle_eg	State	Guiding Hand											
+Poisoned Wound	endgame	poisoned_wound_eg	Event	Eaters of the Lotus											
+Punk Geomancers	endgame	punk_geomancers_eg	Character	Jammers											
+Red Ally	endgame	red_ally_eg	Character	Guiding Hand											
+Shi Kan Lun	endgame	shi_kan_lun_eg	Character	Eaters of the Lotus											
+Shinigami Horigome	endgame	shinigami_horigome_eg	Character	Four Monarchs											
+Shi's Dark Influence	endgame	shis_dark_influence_eg	Event	Eaters of the Lotus											
+Shi's Hillside Estate	endgame	shis_hillside_estate_eg	Site	Eaters of the Lotus											
+The Rook	endgame	the_rook_eg	Character	Ascended											
+Thief in the Night	endgame	thief_in_the_night_eg	Character	Ascended											
+Thorns of the Dark Stone	endgame	thorns_of_the_dark_stone_eg	Character	Eaters of the Lotus											
+Unbroken Protectorship	endgame	unbroken_protectorship_eg	Edge	Guiding Hand											
+Underworld Offering	endgame	underworld_offering_eg	Event	Magic											
+Unlikely Bedfellows	endgame	unlikely_bedfellows_eg	Event	"Jammers, Dragons"											
+What Have I Become?!	endgame	what_have_I_become_eg	State	Dragons											
+White Crocus Society	endgame	white_crocus_society_eg	Character	Guiding Hand											
+Winds of Change	endgame	winds_of_change_eg	Event	Guiding Hand											
+Winter's Laugh	endgame	winters_laugh_eg	Event	Four Monarchs											
+You Will Not Fail Me Again	endgame	you_will_not_fail_me_again_eg	Event	Eaters of the Lotus											

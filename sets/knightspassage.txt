@@ -1,0 +1,51 @@
+Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Academy Instructor	knightspassage	academy_instructor_kp	Character	Ascended											
+Advance Notice	knightspassage	advance_notice_kp	Event	Ascended											
+Ape Crusaders	knightspassage	ape_crusaders_kp	Character	Jammers											
+Arcane Esotericist	knightspassage	arcane_esotericist_kp	Character	Eaters of the Lotus											
+Auramancer	knightspassage	auramancer_kp	Character	Four Monarchs											
+Bending the Path	knightspassage	bending_the_path_kp	Event	Chi											
+Blast Aura	knightspassage	blast_aura_kp	State	Magic											
+Church Archivist	knightspassage	church_archivist_kp	Character	Ascended											
+Collateral Damage	knightspassage	collateral_damage_kp	Edge	Jammers											
+Crown of Thorns	knightspassage	crown_of_thorns_kp	State	Eaters of the Lotus											
+Death Shadow	knightspassage	death_shadow_kp	Character	Ascended											
+Devourer of Souls	knightspassage	devourer_of_souls_kp	Character	Eaters of the Lotus											
+Electro-Glider	knightspassage	electro-glider_kp	State	Jammers											
+Elle Mactans	knightspassage	elle_mactans_kp	Character	Ascended											
+Fallen Mentor	knightspassage	fallen_mentor_kp	Event	Guiding Hand											
+Fealty to the Wheel	knightspassage	fealty_to_the_wheel_kp	Edge	Ascended											
+Fractured Soul	knightspassage	fractured_soul_kp	Event	"Eaters of the Lotus, Four Monarchs"											
+Gao Liang	knightspassage	gao_liang_kp	Character	"Eaters of the Lotus, Ascended"											
+Grandfather Leung	knightspassage	grandfather_leung_kp	Character	Guiding Hand											
+Hong Rui Tso	knightspassage	hong_rui_tso_kp	Character	Dragons											
+Iron Fists	knightspassage	iron_fists_kp	State	"Dragons, Guiding Hand"											
+Iron Fists McQueen	knightspassage	iron_fists_mcqueen_kp	Character	Dragons											
+Jennifer	knightspassage	jennifer_kp	Character	Jammers											
+Knightcaps	knightspassage	knightcaps_kp	Character	Jammers											
+Lessons of the Fallen	knightspassage	lessons_of_the_fallen_kp	Edge	Four Monarchs											
+Petal of Despair	knightspassage	petal_of_despair_kp	Character	Eaters of the Lotus											
+Pi Tui	knightspassage	pi_tui_kp	Character	Four Monarchs											
+Police Negotiator	knightspassage	police_negotiator_kp	Character	Guiding Hand											
+Quartermaster	knightspassage	quartermaster_kp	Character	Dragons											
+Rice Paddies	knightspassage	rice_paddies_kp	Site	Guiding Hand											
+Rosalee Leung	knightspassage	rosalee_leung_kp	Character	Guiding Hand											
+Scrounger	knightspassage	scrounger_kp	Character	Jammers											
+Secluded Redoubt	knightspassage	secluded_redoubt_kp	Site	Feng Shui Site											
+Secret Passageway	knightspassage	secret_passageway_kp	State	Jammers											
+Shapo	knightspassage	shapo_kp	Character	Eaters of the Lotus											
+Shared Interests	knightspassage	shared_interests_kp	Edge	Unaligned											
+Song of Silver and Ice	knightspassage	song_of_silver_and_ice_kp	Event	Four Monarchs											
+Sparabara	knightspassage	sparabara_kp	Character	Four Monarchs											
+Spirit of the Underdog	knightspassage	spirit_of_the_underdog_kp	State	Dragons											
+Techie Apprentices	knightspassage	techie_apprentices_kp	Character	Dragons											
+The Dragon's Teeth	knightspassage	the_dragons_teeth_kp	Site	Feng Shui Site											
+The Hidden Grotto	knightspassage	the_hidden_grotto_kp	Site	Feng Shui Site											
+The Ice Prince's Gambit	knightspassage	the_ice_princes_gambit_kp	Event	"Dragons, Four Monarchs"											
+The Warrior's Calm	knightspassage	the_warriors_calm_kp	Event	Four Monarchs											
+Thunder on Thunder	knightspassage	thunder_on_thunder_kp	Event	Dragons											
+Tomb of the Sacred Vigil	knightspassage	tomb_of_the_sacred_vigil_kp	Site	Four Monarchs											
+Underground Depot	knightspassage	underground_depot_kp	Site	Feng Shui Site											
+Urban Monk	knightspassage	urban_monk_kp	Character	Guiding Hand											
+Wayfarer	knightspassage	wayfarer_kp	Character	Four Monarchs											
+We Can Rebuild Him	knightspassage	we_can_rebuild_him_kp	Event	High Tech											

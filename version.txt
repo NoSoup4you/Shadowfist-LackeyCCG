@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>190118</lastupdateYYMMDD>
+<lastupdateYYMMDD>190125</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
 <message>Complete as of January 2019</message>
