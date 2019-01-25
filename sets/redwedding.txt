@@ -1,7 +1,7 @@
 Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
-"Bring It"	redwedding	bring_it_rw	State	Dragons	State	1	{dra}{han}		0	0	0	Rare	bring it	Unique. Schtick. Turn to redirect all damage from a single source to subject Character. Sacrifice to give subject Guts until the end of the turn. Reload: 1	
-"Is That All You Got?"	redwedding	is_that_all_you_got_rw	Event	Dragons	Event	1	{dra}{dra}		0	0	0	Common	that all you got	Choose a Character in your smoked pile with a printed numerical Fighting of 5 or less :: Return that Character to play.	
-"There's Always One More..."	redwedding	theres_always_one_more_rw	Event	Jammers	Event	1	{jam}{jam}		0	0	0	Common	there always one more	Toast It. Randomly return a Character from your smoked pile to play.	
+Bring It	redwedding	bring_it_rw	State	Dragons	State	1	{dra}{han}		0	0	0	Rare	bring it	Unique. Schtick. Turn to redirect all damage from a single source to subject Character. Sacrifice to give subject Guts until the end of the turn. Reload: 1	
+Is That All You Got?	redwedding	is_that_all_you_got_rw	Event	Dragons	Event	1	{dra}{dra}		0	0	0	Common	that all you got	Choose a Character in your smoked pile with a printed numerical Fighting of 5 or less :: Return that Character to play.	
+There's Always One More...	redwedding	theres_always_one_more_rw	Event	Jammers	Event	1	{jam}{jam}		0	0	0	Common	there always one more	Toast It. Randomly return a Character from your smoked pile to play.	
 Aether Spirit	redwedding	aether_spirit_rw	Character	Purists	Invisible Construct	3	{pur}{mag}{mag}	{pur}	2	0	0	Common	aether spirit invisible construct	Stealth. +X damage, X = the number of {mag} cards you control.	
 Akani Hideo	redwedding	akani_hideo_rw	Character	Four Monarchs	Ice Steward	2	{mon}{mon}	{mon}	2	0	0	Rare	akani hideo ice steward	Unique. Your effects cannot be canceled by opponents.	
 Arena Warrior	redwedding	arena_warrior_rw	Character	Four Monarchs	Thunder Knight	3	{mon}	{mon}	4	0	0	Uncommon	arena warrior thunder knight	Turn and target an opponent's Character :: The two Characters enter a Faceoff.	

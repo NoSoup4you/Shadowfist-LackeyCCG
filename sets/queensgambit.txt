@@ -33,7 +33,7 @@ Mark of the Underworld	queensgambit	mark_of_the_underworld_qg	State	Eaters of th
 Overwhelming Fear	queensgambit	overwhelming_fear_qg	Event	"Eaters of the Lotus, Four Monarchs"											
 Razor's Hotties	queensgambit	razors_hotties_qg	Character	Jammers											
 Return to the Center	queensgambit	return_to_the_center_qg	Event	Chi											
-"Russ Razor, Laser Blazer"	queensgambit	russ_razor_laser_blazer_qg	Character	Jammers											
+Russ Razor, Laser Blazer	queensgambit	russ_razor_laser_blazer_qg	Character	Jammers											
 Sea Dragons	queensgambit	sea_dragons_qg	Character	Four Monarchs											
 Secret Handshake	queensgambit	secret_handshake_qg	Event	Ascended											
 Siamang Twins	queensgambit	siamang_twins_qg	Character	Jammers											
