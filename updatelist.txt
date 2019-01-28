@@ -1,4 +1,4 @@
-shadowfist	01-26-19
+shadowfist	01-28-19
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
 plugins/shadowfist/CardImageURLs.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs.txt	36694490
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807

@@ -32,7 +32,7 @@ Lighting the Fuse	endgame	lighting_the_fuse_eg	Event	Jammers
 Liu Yuan	endgame	liu_yuan_eg	Character	Guiding Hand											
 Mastery of the Red Principle	endgame	mastery_of_the_red_principle_eg	State	Guiding Hand											
 Poisoned Wound	endgame	poisoned_wound_eg	Event	Eaters of the Lotus											
-Punk Geomancers	endgame	punk_geomancers_eg	Character	Jammers											
+Punk Geomancers	endgame	punk_geomancers_eg	Character	Eaters of the Lotus											
 Red Ally	endgame	red_ally_eg	Character	Guiding Hand											
 Shi Kan Lun	endgame	shi_kan_lun_eg	Character	Eaters of the Lotus											
 Shinigami Horigome	endgame	shinigami_horigome_eg	Character	Four Monarchs											
