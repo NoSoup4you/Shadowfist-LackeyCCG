@@ -3,8 +3,8 @@ plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfi
 plugins/shadowfist/CardImageURLs.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs.txt	36694490
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	304038
-plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	293043
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	31174
+plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	293046
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	31176
 plugins/shadowfist/decks/10KB-ARC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/10KB-ARC.dek	383683
 plugins/shadowfist/decks/10KB-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/10KB-ASC.dek	389556
 plugins/shadowfist/decks/10KB-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/10KB-DRA.dek	396115
@@ -55,7 +55,7 @@ plugins/shadowfist/sets/combatinkowloon.txt	https://raw.githubusercontent.com/No
 plugins/shadowfist/sets/criticalshift.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/criticalshift.txt	3083269
 plugins/shadowfist/sets/darkfuture.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/darkfuture.txt	3023399
 plugins/shadowfist/sets/empireofevil.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/empireofevil.txt	3303424
-plugins/shadowfist/sets/endgame.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/endgame.txt	315233
+plugins/shadowfist/sets/endgame.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/endgame.txt	316291
 plugins/shadowfist/sets/flashpoint.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/flashpoint.txt	3721961
 plugins/shadowfist/sets/knightspassage.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/knightspassage.txt	347824
 plugins/shadowfist/sets/modern.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/modern.txt	322806
