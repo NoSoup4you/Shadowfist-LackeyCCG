@@ -23,7 +23,13 @@
 
 </deckzone>
 
+<deckzone>
 
+	<label>Misc</label>
+	<gamezonetoloadto>Misc</gamezonetoloadto>
+	<shuffle>no</shuffle>
+	
+</deckzone>
 
 <gamezone>
 
@@ -35,7 +41,6 @@
 
 </gamezone>
 
-
 <gamezone>
 
 	<label>Deck</label>
@@ -45,7 +50,6 @@
 	<visibletoothers>no</visibletoothers>
 
 </gamezone>
-
 
 <gamezone>
 
@@ -57,7 +61,6 @@
 
 </gamezone>
 
-
 <gamezone>
 
 	<label>Toasted Pile</label>
@@ -67,7 +70,6 @@
 	<visibletoothers>yes</visibletoothers>
 
 </gamezone>
-
 
 <gamezone>
 
@@ -79,7 +81,15 @@
 
 </gamezone>
 
+<gamezone>
 
+	<label>Misc</label>
+
+	<visibletoowner>yes</visibletoowner>
+
+	<visibletoothers>no</visibletoothers>
+
+</gamezone>
 
 
 <phase><label>Establishing Shot</label></phase>
