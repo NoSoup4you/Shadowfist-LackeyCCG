@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>190208</lastupdateYYMMDD>
+<lastupdateYYMMDD>210519</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
-<message>Switched images over to Github.</message>
+<message>Split up some duplicate card names</message>
 </version>
