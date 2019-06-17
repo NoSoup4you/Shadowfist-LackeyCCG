@@ -9,7 +9,7 @@ Blast Aura	knightspassage	blast_aura_kp	State	Magic
 Church Archivist	knightspassage	church_archivist_kp	Character	Ascended											
 Collateral Damage	knightspassage	collateral_damage_kp	Edge	Jammers											
 Crown of Thorns	knightspassage	crown_of_thorns_kp	State	Eaters of the Lotus											
-Death Shadow	knightspassage	death_shadow_kp	Character	Ascended											
+Death Shadow (KP)	knightspassage	death_shadow_kp	Character	Ascended											
 Devourer of Souls	knightspassage	devourer_of_souls_kp	Character	Eaters of the Lotus											
 Electro-Glider	knightspassage	electro-glider_kp	State	Jammers											
 Elle Mactans	knightspassage	elle_mactans_kp	Character	Ascended											
