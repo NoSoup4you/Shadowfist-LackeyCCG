@@ -77,4 +77,4 @@ plugins/shadowfist/sets/yearofthegoat.txt	https://raw.githubusercontent.com/NoSo
 plugins/shadowfist/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/cardback.jpg	-44355
 plugins/shadowfist/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/spawned.jpg	-18038
 CardGeneralURLs:
-CardImageURLs.txt
+https://github.com/NoSoup4you/Shadowfist-LackeyCCG/blob/master/CardImageURLs.txt
