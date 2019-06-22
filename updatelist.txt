@@ -1,10 +1,10 @@
-shadowfist	05-21-19
+shadowfist	06-22-19
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
 plugins/shadowfist/CardImageURLs.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs.txt	47807519
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	325140
-plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	297691
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	32113
+plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	297687
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	32109
 plugins/shadowfist/decks/_precon-10KB-ARC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ARC.dek	383683
 plugins/shadowfist/decks/_precon-10KB-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ASC.dek	389556
 plugins/shadowfist/decks/_precon-10KB-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-DRA.dek	396115
@@ -48,12 +48,12 @@ plugins/shadowfist/packs/twofistedtales-booster.jpg	https://raw.githubuserconten
 plugins/shadowfist/packs/yearofthedragon-starter.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/yearofthedragon-starter.jpg	13554
 plugins/shadowfist/sets/7masters.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/7masters.txt	3232365
 plugins/shadowfist/sets/10kbullets.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/10kbullets.txt	3514133
-plugins/shadowfist/sets/backforseconds.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/backforseconds.txt	1703875
+plugins/shadowfist/sets/backforseconds.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/backforseconds.txt	1704207
 plugins/shadowfist/sets/boomchakalaka.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/boomchakalaka.txt	2024301
 plugins/shadowfist/sets/canofwhupass.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/canofwhupass.txt	129821
 plugins/shadowfist/sets/combatinkowloon.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/combatinkowloon.txt	3568600
 plugins/shadowfist/sets/criticalshift.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/criticalshift.txt	3084321
-plugins/shadowfist/sets/darkfuture.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/darkfuture.txt	3024403
+plugins/shadowfist/sets/darkfuture.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/darkfuture.txt	3024654
 plugins/shadowfist/sets/empireofevil.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/empireofevil.txt	3303754
 plugins/shadowfist/sets/endgame.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/endgame.txt	316291
 plugins/shadowfist/sets/flashpoint.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/flashpoint.txt	3722487
@@ -67,7 +67,7 @@ plugins/shadowfist/sets/redwedding.txt	https://raw.githubusercontent.com/NoSoup4
 plugins/shadowfist/sets/reinforcements.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/reinforcements.txt	1251313
 plugins/shadowfist/sets/reloaded.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/reloaded.txt	1181023
 plugins/shadowfist/sets/revelations.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/revelations.txt	1196871
-plugins/shadowfist/sets/shaolinshowdown.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/shaolinshowdown.txt	3415092
+plugins/shadowfist/sets/shaolinshowdown.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/shaolinshowdown.txt	3415371
 plugins/shadowfist/sets/shurikensandsixguns.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/shurikensandsixguns.txt	3344591
 plugins/shadowfist/sets/standard.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/standard.txt	6093671
 plugins/shadowfist/sets/thronewar.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/thronewar.txt	2168911
