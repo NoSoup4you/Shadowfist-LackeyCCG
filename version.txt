@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>190622</lastupdateYYMMDD>
+<lastupdateYYMMDD>190623</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
 <message>Split up some duplicate card names</message>
