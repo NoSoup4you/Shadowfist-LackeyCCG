@@ -1,10 +1,10 @@
-shadowfist	06-25-19
+shadowfist	06-26-19
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
-plugins/shadowfist/CardImageURLs.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs.txt	47807519
+plugins/shadowfist/CardImageURLs.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs.txt	0
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	325140
 plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	297687
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	32110
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	32113
 plugins/shadowfist/decks/_precon-10KB-ARC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ARC.dek	383683
 plugins/shadowfist/decks/_precon-10KB-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ASC.dek	389556
 plugins/shadowfist/decks/_precon-10KB-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-DRA.dek	396115
