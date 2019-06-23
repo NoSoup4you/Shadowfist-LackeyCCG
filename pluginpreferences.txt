@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>190622</lastversionupdate>
+<lastversionupdate>190623</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
 <recentskins>Black_And_White</recentskins>
@@ -84,8 +84,6 @@
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
-<panx>-0.030000</panx>
-<pany>-0.030000</pany>
 <isdownloadallmissing>1</isdownloadallmissing>
 
 </pluginpreferences>

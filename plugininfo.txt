@@ -160,6 +160,15 @@
 
 </cardfunction>
 
+<cardfunction>
+
+	<label>Flip</label>
+
+	<kind>TURNOVER</kind>
+
+	<includeasbutton>yes</includeasbutton>
+
+</cardfunction>
 
 <cardfunction>
 
@@ -276,17 +285,6 @@
 	<label>Clear</label>
 
 	<kind>CLEARCARD</kind>
-
-	<includeasbutton>yes</includeasbutton>
-
-</cardfunction>
-
-
-<cardfunction>
-
-	<label>Turn Over</label>
-
-	<kind>TURNOVER</kind>
 
 	<includeasbutton>yes</includeasbutton>
 
