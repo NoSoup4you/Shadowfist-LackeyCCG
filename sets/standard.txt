@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Now You've Made Us Mad	standard	now_youve_made_us_mad_ltd_400	Event	Dragons	Event	0	{dra}{dra}		0	0	0	Uncommon	now you made us mad	Gain 1 Power for each of your characters that is damaged.	
 $10,000 Man	standard	10000_man_ltd_400	Character	Jammers	Jury-Rigged Cyborg	4	{tek}	{jam}{tek}	6	0	0	Uncommon	10,000 man jury rigged cyborg	Toughness: 1. Cannot turn to heal.	
 Abominable Lab	standard	abominable_lab_ltd_400	Site	Architects of the Flesh	Site	2		{arc}	0	1	5	Common	abominable lab	Abominable Lab provides you with one {tek} resource for each Buro or PubOrd character you control.	

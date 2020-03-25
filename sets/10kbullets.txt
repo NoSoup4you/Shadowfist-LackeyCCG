@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Now You've Made Us Mad	10kbullets	now_youve_made_us_mad_10kb	Event	Dragons	Event	0	{dra}{dra}		0	0	0	Fixed	now you made us mad	Gain 1 Power for each damaged Character you control.	
 Abominable Lab	10kbullets	abominable_lab_10kb	Site	Architects of the Flesh	Site	2		{arc}	0	1	5	Fixed	abominable lab	Abominable Lab provides one {tek} resource for each <Buro> Character and each <PubOrd> Character you control.	
 Alabaster Javelin	10kbullets	alabaster_javelin_10kb	State	Magic	State	1	{mag}		0	0	0	Fixed	alabaster javelin	Weapon. When subject Character is smoked, you may inflict 3 damage on any target.	

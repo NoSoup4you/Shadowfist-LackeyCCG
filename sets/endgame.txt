@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Agent Neil North	endgame	agent_neil_north_eg	Character	Ascended											
 Anarchy in the HK!	endgame	anarchy_in_the_hk_eg	Event	Jammers											
 ANFO Grenade	endgame	anfo_grenade_eg	Event	Jammers											

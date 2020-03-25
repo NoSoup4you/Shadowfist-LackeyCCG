@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Apprenticeship	queensgambit	apprenticeship_qg	Edge	Dragons											
 Average Jane	queensgambit	average_jane_qg	Character	Dragons											
 Band of Heroes	queensgambit	band_of_heroes_qg	Character	Dragons											

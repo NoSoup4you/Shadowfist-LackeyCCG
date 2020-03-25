@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 .44 Kincaid Magnum	yearofthegoat	44_kincaid_magnum_yotg	State	Unaligned											
 A Clockwork Orangutan	yearofthegoat	a_clockwork_orangutan_yotg	Character	Jammers											
 Agency Support	yearofthegoat	agency_support_yotg	Edge	Ascended											

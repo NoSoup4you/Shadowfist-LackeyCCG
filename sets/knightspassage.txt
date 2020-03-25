@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Academy Instructor	knightspassage	academy_instructor_kp	Character	Ascended											
 Advance Notice	knightspassage	advance_notice_kp	Event	Ascended											
 Ape Crusaders	knightspassage	ape_crusaders_kp	Character	Jammers											

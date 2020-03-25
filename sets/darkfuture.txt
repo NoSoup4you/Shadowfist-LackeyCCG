@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Alchemist's Lair	darkfuture	alchemists_lair_df	Site	Magic	Site	2		{mag}{mag}	0	1	5	Common	alchemist lair		
 Arachnae	darkfuture	arachnae_df	Character	Ascended	Reascended Spider	4	{asc}{asc}{asc}{tek}{tek}	{asc}	7	0	0	Rare	arachnae reascended spider	Unique. Assassinate. Regeneration.	
 Arcane Scientist	darkfuture	arcane_scientist_df	Character	Purists	Initiate of Paradox	2		{pur}{mag}	2	0	0	Common	arcane scientist initiate paradox	Turn to draw a card during your Main Shot.	

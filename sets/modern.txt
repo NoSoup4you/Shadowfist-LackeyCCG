@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Machine Warrior	modern	machine_warrior_mod	Character	Jammers	Junk-Eating Cyborg	4	{jam}{jam}{jam}{tek}	{tek}	9	0	0	Promo	machine warrior junk eating cyborg	Unique. At the end of your turn, toast a {tek} card in your smoked pile or toast this card.	
 Nine Cuts	modern	nine_cuts_mod	Character	Unaligned	Shadowy Assassin	3			3	0	0	Promo	nine cut shadowy assassin	Unique. Assassinate. When Nine Cuts inflicts combat damage on a Character, smoke that Character.	
 Open a Can of Whupass	modern	open_a_can_of_whupass_mod	Character	Dragons	Event	0	{dra}{dra}{dra}		0	0	0	Promo	open can whupass	Limited. Play during any Main Shot except during an attack. Until the end of the turn, target Character you control gains +X Fighting. X = the number of resources in that Character's resource conditions and resource provisions.	

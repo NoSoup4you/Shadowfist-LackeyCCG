@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Torch the Place!	backforseconds	torch_the_place_bfs_400	Event	Jammers	Event	1	{jam}{jam}		0	0	0	Fixed	torch place	Play during an attack against a Site :: Inflict X non-combat damage on that Site. X = the number of Characters attacking it.	
 Armies of the Monarchs (BFS)	backforseconds	armies_of_the_monarchs_bfs_400	Edge	Four Monarchs	Edge	2	{mon}{mon}		0	0	0	Fixed	army monarch	All Unique Characters gain -1 combat damage. All non-Unique Characters you control gain +1 combat damage.	
 Armorer	backforseconds	armorer_bfs_400	Character	Four Monarchs	Netherworld Blacksmith	2		{mon}	2	0	0	Fixed	armorer netherworld blacksmith	Turn and maintain and target a Character :: Target gains +1 combat damage and Toughness: 1.	

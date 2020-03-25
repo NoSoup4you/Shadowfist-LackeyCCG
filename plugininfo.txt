@@ -136,6 +136,13 @@
 
 </generalfunction>
 
+<generalfunction>
+
+	<label>Roll D20</label>
+	<kind>ROLLD20</kind>
+	
+</generalfunction>
+
 
 
 

@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 We Need Bigger Guns!	7masters	we_need_bigger_guns_7m	State	Jammers	State	0	{jam}		0	0	0	Common	we need bigger gun	All combat and non-combat damage subject Character inflicts is increased by 1.	
 200 Guys With Hatchets and Ladders	7masters	200_guys_with_hatchets_and_ladders_7m	Edge	Ascended	Edge	2	{asc}{asc}		0	0	0	Uncommon	200 guy hatchet ladder	Limited. Smoke all non-Unique Characters you control when this card leaves play. When an opponent plays a Unique Character, you may return up to X 1-cost Characters from your smoked pile to play. X= the Unique Character's cost.	
 401k Squad	7masters	401k_squad_7m	Character	Jammers	Mutated Soldiers	4	{jam}{jam}	{jam}	6	0	0	Uncommon	401k squad mutated soldier	Toughness: 1. When this card comes into play, discard a card. Target opponent must discard X cards at random. X= the cost of the card you discarded.	

@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Acupressure Master	criticalshift	acupressure_master_cs	Character	Guiding Hand	Martial Artist	4	{han}{han}	{han}{chi}	6	0	0	Uncommon	acupressure master martial artist	Toughness: 1. When damage inflicted on this card is reduced by Toughness, you may remove X damage, divided any way you want, from cards in play. X= the amount of damage reduced.	
 Anubis	criticalshift	anubis_cs	Character	Ascended	Reascended Jackal	5	{asc}{asc}{asc}{tek}{tek}	{asc}{tek}	7	0	0	Rare	anubis reascended jackal	Unique. Stealth. Gains +1 Fighting until he leaves play when any Character is smoked.	
 Ape Shall Kill Ape	criticalshift	ape_shall_kill_ape_cs	Event	Jammers	Event	0	{jam}{jam}		0	0	0	Uncommon	ape shall kill	Faceoff. Turn a Character you control and target an opponent's Character with Fighting no lower than two less than yours. The winner may blank the text of a Site controlled by the loser until it leaves play.	

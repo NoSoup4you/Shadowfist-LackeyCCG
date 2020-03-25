@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Andrea Van de Graaf	thronewar	andrea_van_de_graaf_tw	Character	Architects of the Flesh	Purist Sorceress	4	{arc}{arc}	{arc}{mag}	5	0	0	Rare	andrea van de graaf purist sorceress	Unique. During any player's Main Shot, you may play {mag} Events from your smoked pile at +1 cost. Toast any Event you play in this manner.	
 Apes of Wrath	thronewar	apes_of_wrath_tw	Character	Jammers	Ornery Monkeys	3	{jam}{jam}{tek}	{jam}{tek}	3	0	0	Uncommon	ape wrath ornery monkey	When a card you control is smoked or burned by an opponent, Apes of Wrath gains +1 Fighting until it leaves play.	
 Ba-BOOM!	thronewar	baboom_tw	Character	Jammers	Unstable Monkey	4	{jam}{jam}	{jam}{tek}	7	0	0	Rare	ba boom unstable monkey	Unique. Uncopyable. When Ba-BOOM! is smoked by an opponent, smoke all Characters and toast Ba-BOOM!	

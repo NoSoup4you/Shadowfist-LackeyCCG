@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Is That All You Got? (RL)	reloaded	is_that_all_you_got_rld_400	Event	Dragons	Event	1	{dra}{dra}		0	0	0	Fixed	that all you got	Choose a Character in your smoked pile with a printed numerical Fighting of 5 or less :: Return that Character to play.	
 Abaddon the Destroyer	reloaded	abaddon_the_destroyer_rld_400	Character	Eaters of the Lotus	Corrosive Demon	4	{lot}{lot}{lot}{mag}	{lot}	7	0	0	Fixed	abaddon destroyer corrosive demon	Unique. While this card is attacking, any Character it smokes is toasted instead. When a Character smokes or toasts this card, that Character gains -2 Fighting and is canceled until it leaves play.	
 Arctic Fortress (RL)	reloaded	arctic_fortress_rld_400	Site	Feng Shui Site	Feng Shui Site	0			0	1	8	Fixed	arctic fortress	Reduce to 0 all damage inflicted on this card from Characters that are the subject of one or more States.	

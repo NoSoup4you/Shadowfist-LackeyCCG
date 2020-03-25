@@ -1,4 +1,4 @@
-﻿Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+﻿Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Monkey Chang	combatinkowloon	monkey_chang_cik_400	Character	Ascended	Transformed Martial Artist	5	{asc}{asc}	{chi}	7	0	0	Fixed	monkey chang transformed martial artist	"Unique. When """"Monkey"""" Chang turns to attack, target up to two Characters in play :: Targets cannot intercept him during this attack."	
 1,000 Corpses	combatinkowloon	1_000_corpses_cik_400	Character	Eaters of the Lotus	Horde of Undead	3		{lot}	3	0	0	Fixed	1000 corpse horde undead	At the end of any turn in which a Character was smoked, heal this card. Sacrifice one or more non-Undead Characters :: Play this card from your smoked pile at -X cost. X = the combined cost of the sacrificed Character(s).	
 18 Bronze Men	combatinkowloon	18_bronze_men_cik_400	State	Guiding Hand	State	2	{han}{han}		0	0	0	Fixed	18 bronze men	Limited. Play on a front-row Site. All non-Unique Shaolin, Martial, and Kung Fu Characters you control gain +1 Fighting.	

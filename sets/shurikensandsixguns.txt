@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Agathon's Deputies	shurikensandsixguns	agathons_deputies_ssg	Character	Eaters of the Lotus	Demon Cops	2	{lot}	{lot}	3	0	0	Common	agathon deputy demon cop	Regenerate. If you control no other <Demon>, <Police>, or <Cop> cards at the end of your Main Shot, smoke this card.	
 Agent Tanaka	shurikensandsixguns	agent_tanaka_ssg	Character	Architects of the Flesh	CDCA Ninja	3	{arc}	{arc}	4	0	0	Rare	agent tanaka cdca ninja	Unique. Ambush. Assassinate.	
 Anastasia	shurikensandsixguns	anastasia_ssg	Character	Four Monarchs	Orphan Ice Ward	4	{mon}{mon}{mon}{mag}	{mon}{mag}	7	0	0	Rare	anastasia orphan ice ward	Unique. When this card smokes a Character by inflicting combat damage, you may heal a card. (Including this one.)	

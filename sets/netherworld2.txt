@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Adrenaline Junkie	netherworld2	adrenaline_junkie_n2	Character	Jammers	Crazy Bastard	4	{jam}{jam}	{jam}	5	0	0	Uncommon	adrenaline junkie crazy bastard	Characters with Fighting equal to or greater than Adrenaline Junkie's current Fighting cannot be declared as interceptors against him.	
 Arcanorat	netherworld2	arcanorat_n2	Character	Architects of the Flesh	Hideous Monster	2	{arc}{arc}	{arc}	3	0	0	Common	arcano rat hideous monster	Ambush. Ceases attacking when no other Characters are attacking.	
 Arcanotechnician	netherworld2	arcanotechnician_n2	Character	Architects of the Flesh	Buro Scientist	2	{arc}	{arc}{mag}{tek}	1	0	0	Uncommon	arcano technician buro scientist	Turn Arcanotechnician, toast a Character in your smoked pile, and choose a card in your smoked pile :: Return that card to your hand.	

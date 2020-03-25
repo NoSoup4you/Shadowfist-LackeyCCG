@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Abominable Lab	yearofthedragon	abominable_lab_yotd	Site	Architects of the Flesh	Site	2		{arc}	0	1	5	Fixed	abominable lab	Abominable Lab provides one {tek} resource for each Buro Character and each PubOrd Character you control.	
 Abysmal Absorber	yearofthedragon	abysmal_absorber_yotd	Character	Eaters of the Lotus	Netherworld Demon	3	{lot}{mag}	{lot}	3	0	0	Fixed	abysmal absorber netherworld demon	When Abysmal Absorber smokes a Character by inflicting combat damage, toast that Character instead and Abysmal Absorber gains +1 Fighting until it leaves play.	
 Amulet of the Turtle	yearofthedragon	amulet_of_the_turtle_yotd	State	Magic	State	0	{mag}		0	0	0	Fixed	amulet turtle	Play on a Character. Redirect all damage inflicted on subject to this card. Smoke Amulet of the Turtle when it accumulates X damage; any damage in excess of X is immediately inflicted on subject. X= the number of {mag} resources in your pool.	

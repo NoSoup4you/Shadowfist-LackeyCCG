@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 I Will Avenge You!	shaolinshowdown	i_will_avenge_you_ss	Event	Dragons	Event	1	{dra}{dra}		0	0	0	Common	i will avenge you	Limited. Play when a Character you control is smoked by an attacker or Event controlled by an opponent. Search through your deck for a Character. Show that card to your opponents and put it into your hand. Reshuffle.	
 Monkey Chang	shaolinshowdown	monkey_chang_ss	Character	Ascended	Transformed Martial Artist	5	{asc}{asc}	{chi}	7	0	0	Rare	monkey chang transformed martial artist	"Unique. When""Monkey""Chang turns to attack, you may choose two Characters in play :: those Characters cannot intercept him during this attack."	
 Time to Kick Ass!	shaolinshowdown	time_to_kick_ass_pr	Event	Dragons	Event	0	{dra}{dra}		0	0	0	Promo	time kick ass	Play when an attack is declared against a card you control :: Unturn all your Characters.	

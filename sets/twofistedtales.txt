@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Hammer Harrison	twofistedtales	hammer_harrison_2ft	Character	Ascended	Hood Bruiser	3		{asc}	3	0	0	Uncommon	hammer harrison hood bruiser	Unique. Takes no damage from Characters whose cost is less than 3.	
 They Came Out of Nowhere!	twofistedtales	they_came_out_of_nowhere_2ft	Event	Purists	Event	0	{pur}{pur}		0	0	0	Common	they came out nowhere	Play during an attack. Your Characters gain Mobility until the end of the attack. You have an additional opportunity this attack to declare interceptors, after all other players have done so.	
 Throw Me the Idol...	twofistedtales	throw_me_the_idol_2ft	Event	Ascended	Event	0	{asc}		0	0	0	Uncommon	throw me idol	Target opponent may allow you to gain 2 Power. If he or she does, give a Character that player controls +2 Fighting until it leaves play.	

@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Abysmal Wyrm	reinforcements	abysmal_wyrm_re2_400	Character	Eaters of the Lotus	Ancient Demon	4	{lot}{mag}	{lot}	6	0	0	Fixed	abysmal wyrm ancient demon	This card heals at the end of each turn.	
 Ancient Stone Arch	reinforcements	ancient_stone_arch_re2_400	Site	Feng Shui Site	Feng Shui Site	0			0	1	8	Fixed	ancient stone arch feng shui site	Once per turn, when the rules text of an opponent's Feng Shui Site causes him or her to steal or gain Power, you may gain 1 Power. (This does not apply to generating Power.)	
 Blood and Thunder	reinforcements	blood_and_thunder_re2_400	Event	Four Monarchs	Event	1	{mon}{mon}		0	0	0	Fixed	blood and thunder event	Play during an attack. Until the end of the attack, all attackers you control inflict +1 combat damage, and all Thunder attackers gain Unstoppable and an additional +1 combat damage.	

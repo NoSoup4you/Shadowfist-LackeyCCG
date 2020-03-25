@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Adrienne Hart	canofwhupass	adrienne_hart_cwos_400	Character	Ascended	Pledged Martial Artist	4	{asc}{asc}{asc}{asc}	{asc}	8	0	0	Promo	adrienne hart pledged martial artist	Unique. States cannot be played on Adrienne Hart.	
 Jack Donovan	canofwhupass	jack_donovan_cwos_400	Character	Dragons	Maverick Cop	5	{dra}{dra}{dra}	{dra}	8	0	0	Promo	jack donovan maverick cop	Unique. Guts. When one of your sites is burned while Jack Donovan is in your smoked pile, return him to your hand.	
 Jueding Shelun	canofwhupass	jueding_shelun_cwos_400	Character	Eaters of the Lotus	Eunuch Sorcerer	5	{lot}{lot}{lot}	{lot}{mag}	8	0	0	Promo	jueding shelun eunuch sorcerer	Unique. When Jueding Shelun smokes a Character in combat, you may turn any card in play.	

@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Card Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Official Police Business!	revelations	official_police_business_re3_400	Edge	Dragons	Cop Edge	1	{dra}{dra}		0	0	0	Fixed	official police business cop	"Limited. Turn and maintain and target a Character :: Target gains +2 Fighting and Mobility. If target is smoked, smoke this card."	
 Aiden O’Rangotang	revelations	aiden_orangotang_re3_400	Character	Jammers	Anarchist Ape	3	{jam}{jam}	{jam}	4	0	0	Fixed	aiden o'rangotang anarchist ape	Unique. Independent. Unstoppable. Immunity to effects that would change the target of this card's attack or cause him to cease attacking.	
 Barrel of Monkeys	revelations	barrel_of_monkeys_re3_400	Event	Jammers	Event	2	{jam}{jam}		0	0	0	Fixed	barrel monkey	"Put four ""Monkey"" Character tokens into play. They have a printed Fighting of 1 and a printed cost of {jam}1."	<s><l>Play Monkey Token</l><f>/spawn Monkey</f></s>
