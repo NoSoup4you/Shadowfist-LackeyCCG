@@ -25,8 +25,8 @@
 <canned>.</canned>
 <canned>.</canned>
 <canned>.</canned>
-<tokens>Hero</tokens>
 <tokens>Burned for Victory</tokens>
+<tokens>Hero</tokens>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
 <fontkind0pos2>Amaranth.ttf</fontkind0pos2>
