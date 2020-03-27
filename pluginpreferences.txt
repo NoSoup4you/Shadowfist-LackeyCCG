@@ -52,6 +52,7 @@
 <libraryignoredoubles>1</libraryignoredoubles>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
+<phaseimages>1</phaseimages>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
