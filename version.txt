@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>200325</lastupdateYYMMDD>
+<lastupdateYYMMDD>200328</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
-<message>Added token pane, cleaned up stuff, added a couple promos</message>
+<message>Small tweaks</message>
 </version>

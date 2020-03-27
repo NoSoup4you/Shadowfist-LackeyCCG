@@ -9,7 +9,7 @@
 
 	<initialvalue>1</initialvalue>
 
-</playerstat>
+	</playerstat>
 
 
 
@@ -21,7 +21,7 @@
 
 	<shuffle>yes</shuffle>
 
-</deckzone>
+	</deckzone>
 
 <deckzone>
 
@@ -29,7 +29,7 @@
 	<gamezonetoloadto>Misc</gamezonetoloadto>
 	<shuffle>no</shuffle>
 	
-</deckzone>
+	/deckzone>
 
 <gamezone>
 
@@ -39,7 +39,7 @@
 
 	<visibletoothers>no</visibletoothers>
 
-</gamezone>
+	</gamezone>
 
 <gamezone>
 
@@ -49,7 +49,7 @@
 
 	<visibletoothers>no</visibletoothers>
 
-</gamezone>
+	</gamezone>
 
 <gamezone>
 
@@ -59,7 +59,7 @@
 
 	<visibletoothers>yes</visibletoothers>
 
-</gamezone>
+	</gamezone>
 
 <gamezone>
 
@@ -69,7 +69,7 @@
 
 	<visibletoothers>yes</visibletoothers>
 
-</gamezone>
+	</gamezone>
 
 <gamezone>
 
@@ -79,7 +79,7 @@
 
 	<visibletoothers>yes</visibletoothers>
 
-</gamezone>
+	</gamezone>
 
 <gamezone>
 
@@ -89,16 +89,13 @@
 
 	<visibletoothers>no</visibletoothers>
 
-</gamezone>
+	</gamezone>
 
 
-<phase><label>Establishing Shot</label></phase>
-<phase><label>1. Generate Power</label></phase>
+<phase><label>Establishing Shot</label></phase><phase><label>1. Generate Power</label></phase>
 <phase><label>2. Unturn</label></phase>
 <phase><label>3. Discard</label></phase>
 <phase><label>4. Draw</label></phase>
-
-
 <phase><label>Main Shot</label></phase>
 <phase><label>End of Turn</label></phase>
 
@@ -112,7 +109,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</generalfunction>
+	</generalfunction>
 
 
 <generalfunction>
@@ -123,7 +120,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</generalfunction>
+	</generalfunction>
 
 
 <generalfunction>
@@ -134,14 +131,21 @@
 
 	<includeasbutton>no</includeasbutton>
 
-</generalfunction>
+	</generalfunction>
 
 <generalfunction>
 
 	<label>Roll D20</label>
 	<kind>ROLLD20</kind>
 	
-</generalfunction>
+	</generalfunction>
+
+<generalfunction>
+
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+
+	</generalfunction>
 
 
 
@@ -154,7 +158,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -165,7 +169,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 <cardfunction>
 
@@ -175,7 +179,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 <cardfunction>
 
@@ -185,7 +189,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -202,7 +206,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -213,7 +217,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -230,7 +234,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -243,7 +247,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -260,7 +264,7 @@
 
 	<includeasbutton>no</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -273,7 +277,7 @@
 
 	<includeasbutton>no</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -284,7 +288,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -295,7 +299,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 <cardfunction>
@@ -306,7 +310,7 @@
 
 	<includeasbutton>yes</includeasbutton>
 
-</cardfunction>
+	</cardfunction>
 
 
 1
