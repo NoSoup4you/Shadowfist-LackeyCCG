@@ -1,7 +1,7 @@
 <pluginpreferences>
 
 <lastversionupdate>200327</lastversionupdate>
-<counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
+<counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
 <recentskins>default_white</recentskins>
 <recenttablebackgrounds>feltbackground.jpg</recenttablebackgrounds>
@@ -45,15 +45,15 @@
 <bindinggeneral1>CTRL+u</bindinggeneral1>
 <bindinggeneral4>CTRL+t</bindinggeneral4>
 <bindingcard2>CTRL+f</bindingcard2>
-<bindingcard4>CTRL+1</bindingcard4>
-<bindingcard5>CTRL+SHIFT+1</bindingcard5>
-<bindingcard6>CTRL+2</bindingcard6>
-<bindingcard7>CTRL+SHIFT+2</bindingcard7>
+<bindingcard4>SHIFT+1</bindingcard4>
+<bindingcard5>CTRL+1</bindingcard5>
+<bindingcard6>SHIFT+2</bindingcard6>
+<bindingcard7>CTRL+2</bindingcard7>
 <libraryignoredoubles>1</libraryignoredoubles>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>0.800000</scalefactor>
+<scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <panx>-0.030000</panx>
