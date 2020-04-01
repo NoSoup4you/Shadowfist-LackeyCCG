@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>200328</lastupdateYYMMDD>
+<lastupdateYYMMDD>200401</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
-<message>Small tweaks</message>
+<message>YOTG starters</message>
 </version>

@@ -1,9 +1,8 @@
-shadowfist	03-28-20
+shadowfist	04-01-20
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	339398
-plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	-1
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	30050
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	30093
 plugins/shadowfist/decks/_precon-10KB-ARC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ARC.dek	383683
 plugins/shadowfist/decks/_precon-10KB-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ASC.dek	389556
 plugins/shadowfist/decks/_precon-10KB-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-DRA.dek	396115
@@ -23,6 +22,12 @@ plugins/shadowfist/decks/_precon-YotD-ASC.dek	https://raw.githubusercontent.com/
 plugins/shadowfist/decks/_precon-YotD-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-DRA.dek	445800
 plugins/shadowfist/decks/_precon-YotD-LOT.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-LOT.dek	450205
 plugins/shadowfist/decks/_precon-YotD-HAN.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-HAN.dek	443633
+plugins/shadowfist/decks/_precon-YotG-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-ASC.dek	494087
+plugins/shadowfist/decks/_precon-YotG-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-DRA.dek	495459
+plugins/shadowfist/decks/_precon-YotG-LOT.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-LOT.dek	460251
+plugins/shadowfist/decks/_precon-YotG-HAN.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-HAN.dek	492127
+plugins/shadowfist/decks/_precon-YotG-JAM.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-JAM.dek	483505
+plugins/shadowfist/decks/_precon-YotG-MON.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-MON.dek	467215
 plugins/shadowfist/packs/packdefinitions1.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions1.xml	256160
 plugins/shadowfist/packs/packdefinitions2.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions2.xml	1690263
 plugins/shadowfist/packs/packdefinitions3.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions3.xml	2526068
@@ -53,7 +58,7 @@ plugins/shadowfist/sets/canofwhupass.txt	https://raw.githubusercontent.com/NoSou
 plugins/shadowfist/sets/combatinkowloon.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/combatinkowloon.txt	3568190
 plugins/shadowfist/sets/criticalshift.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/criticalshift.txt	3083911
 plugins/shadowfist/sets/darkfuture.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/darkfuture.txt	3024244
-plugins/shadowfist/sets/empireofevil.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/empireofevil.txt	3303344
+plugins/shadowfist/sets/empireofevil.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/empireofevil.txt	3303360
 plugins/shadowfist/sets/endgame.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/endgame.txt	315881
 plugins/shadowfist/sets/flashpoint.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/flashpoint.txt	3722077
 plugins/shadowfist/sets/knightspassage.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/knightspassage.txt	347682
