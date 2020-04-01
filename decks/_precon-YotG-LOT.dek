@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="arcane_vault_yotg">Arcane Vault</name><set>yearofthegoat</set></card>
+		<card><name id="arcane_vault_yotg">Arcane Vault</name><set>yearofthegoat</set></card>
+		<card><name id="ba_jiao_gui_yotg">Ba Jiao Gui</name><set>yearofthegoat</set></card>
+		<card><name id="ba_jiao_gui_yotg">Ba Jiao Gui</name><set>yearofthegoat</set></card>
+		<card><name id="balancing_stones_yotg">Balancing Stones</name><set>yearofthegoat</set></card>
+		<card><name id="board_of_punishments_yotg">Board of Punishments</name><set>yearofthegoat</set></card>
+		<card><name id="board_of_punishments_yotg">Board of Punishments</name><set>yearofthegoat</set></card>
+		<card><name id="bustling_metro_station_yotg">Bustling Metro Station</name><set>yearofthegoat</set></card>
+		<card><name id="charnel_ground_yotg">Charnel Ground</name><set>yearofthegoat</set></card>
+		<card><name id="chthonian_lake_yotg">Chthonian Lake</name><set>yearofthegoat</set></card>
+		<card><name id="chthonian_lake_yotg">Chthonian Lake</name><set>yearofthegoat</set></card>
+		<card><name id="death_masque_yotg">Death Masque</name><set>yearofthegoat</set></card>
+		<card><name id="desolate_mountain_yotg">Desolate Mountain</name><set>yearofthegoat</set></card>
+		<card><name id="empire_of_evil_yotg">Empire of Evil</name><set>yearofthegoat</set></card>
+		<card><name id="familiar_spirit_yotg">Familiar Spirit</name><set>yearofthegoat</set></card>
+		<card><name id="grave_robbers_yotg">Grave Robbers</name><set>yearofthegoat</set></card>
+		<card><name id="grave_robbers_yotg">Grave Robbers</name><set>yearofthegoat</set></card>
+		<card><name id="harati_yotg">Harati</name><set>yearofthegoat</set></card>
+		<card><name id="horseshoe_island_yotg">Horseshoe Island</name><set>yearofthegoat</set></card>
+		<card><name id="incendiary_blast_yotg">Incendiary Blast</name><set>yearofthegoat</set></card>
+		<card><name id="jian_yotg">Jian</name><set>yearofthegoat</set></card>
+		<card><name id="jian_yotg">Jian</name><set>yearofthegoat</set></card>
+		<card><name id="jian_yotg">Jian</name><set>yearofthegoat</set></card>
+		<card><name id="jian_yotg">Jian</name><set>yearofthegoat</set></card>
+		<card><name id="little_flower_yotg">Little Flower</name><set>yearofthegoat</set></card>
+		<card><name id="little_flower_yotg">Little Flower</name><set>yearofthegoat</set></card>
+		<card><name id="little_flower_yotg">Little Flower</name><set>yearofthegoat</set></card>
+		<card><name id="little_flower_yotg">Little Flower</name><set>yearofthegoat</set></card>
+		<card><name id="mesmerism_yotg">Mesmerism</name><set>yearofthegoat</set></card>
+		<card><name id="mogwai_yotg">Mogwai</name><set>yearofthegoat</set></card>
+		<card><name id="ominous_cave_mouth_yotg">Ominous Cave Mouth</name><set>yearofthegoat</set></card>
+		<card><name id="plague_of_moths_yotg">Plague of Moths</name><set>yearofthegoat</set></card>
+		<card><name id="remote_temple_yotg">Remote Temple</name><set>yearofthegoat</set></card>
+		<card><name id="scroll_of_pain_yotg">Scroll of Pain</name><set>yearofthegoat</set></card>
+		<card><name id="scroll_of_pain_yotg">Scroll of Pain</name><set>yearofthegoat</set></card>
+		<card><name id="sorcerous_return_yotg">Sorcerous Return</name><set>yearofthegoat</set></card>
+		<card><name id="spirit_in_a_bottle_yotg">Spirit in a Bottle</name><set>yearofthegoat</set></card>
+		<card><name id="spirit_in_a_bottle_yotg">Spirit in a Bottle</name><set>yearofthegoat</set></card>
+		<card><name id="stone_gargoyle_yotg">Stone Gargoyle</name><set>yearofthegoat</set></card>
+		<card><name id="stone_gargoyle_yotg">Stone Gargoyle</name><set>yearofthegoat</set></card>
+		<card><name id="stone_gargoyle_yotg">Stone Gargoyle</name><set>yearofthegoat</set></card>
+		<card><name id="stone_gargoyle_yotg">Stone Gargoyle</name><set>yearofthegoat</set></card>
+		<card><name id="sublime_melancholy_yotg">Sublime Melancholy</name><set>yearofthegoat</set></card>
+		<card><name id="sublime_melancholy_yotg">Sublime Melancholy</name><set>yearofthegoat</set></card>
+		<card><name id="sulphurous_cenote_yotg">Sulphurous Cenote</name><set>yearofthegoat</set></card>
+		<card><name id="surfeit_of_minions_yotg">Surfeit of Minions</name><set>yearofthegoat</set></card>
+		<card><name id="surfeit_of_minions_yotg">Surfeit of Minions</name><set>yearofthegoat</set></card>
+		<card><name id="the_leashed_yotg">The Leashed</name><set>yearofthegoat</set></card>
+		<card><name id="the_mantle_yotg">The Mantle</name><set>yearofthegoat</set></card>
+		<card><name id="touch_of_the_abyss_yotg">Touch of the Abyss</name><set>yearofthegoat</set></card>
+		<card><name id="touch_of_the_abyss_yotg">Touch of the Abyss</name><set>yearofthegoat</set></card>
+		<card><name id="yu_canghai_yotg">Yu Canghai</name><set>yearofthegoat</set></card>
+		<card><name id="zhenmushou_yotg">Zhenmushou</name><set>yearofthegoat</set></card>
+		<card><name id="zhuha_yotg">Zhuha</name><set>yearofthegoat</set></card>
+		<card><name id="zhuha_yotg">Zhuha</name><set>yearofthegoat</set></card>
+	</superzone>
+</deck>

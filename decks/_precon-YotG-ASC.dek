@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="44_kincaid_magnum_yotg">.44 Kincaid Magnum</name><set>yearofthegoat</set></card>
+		<card><name id="agency_support_yotg">Agency Support</name><set>yearofthegoat</set></card>
+		<card><name id="agent_provocateur_yotg">Agent Provocateur</name><set>yearofthegoat</set></card>
+		<card><name id="agent_provocateur_yotg">Agent Provocateur</name><set>yearofthegoat</set></card>
+		<card><name id="arcane_vault_yotg">Arcane Vault</name><set>yearofthegoat</set></card>
+		<card><name id="bear_market_yotg">Bear Market</name><set>yearofthegoat</set></card>
+		<card><name id="betrayers_of_the_crane_yotg">Betrayers of the Crane</name><set>yearofthegoat</set></card>
+		<card><name id="betrayers_of_the_crane_yotg">Betrayers of the Crane</name><set>yearofthegoat</set></card>
+		<card><name id="betrayers_of_the_crane_yotg">Betrayers of the Crane</name><set>yearofthegoat</set></card>
+		<card><name id="betrayers_of_the_crane_yotg">Betrayers of the Crane</name><set>yearofthegoat</set></card>
+		<card><name id="bustling_metro_station_yotg">Bustling Metro Station</name><set>yearofthegoat</set></card>
+		<card><name id="campaign_manager_yotg">Campaign Manager</name><set>yearofthegoat</set></card>
+		<card><name id="campaign_manager_yotg">Campaign Manager</name><set>yearofthegoat</set></card>
+		<card><name id="cargo_plane_yotg">Cargo Plane</name><set>yearofthegoat</set></card>
+		<card><name id="city_hall_yotg">City Hall</name><set>yearofthegoat</set></card>
+		<card><name id="commander_roger_keyes_yotg">Commander Roger Keyes</name><set>yearofthegoat</set></card>
+		<card><name id="contract_assassin_yotg">Contract Assassin</name><set>yearofthegoat</set></card>
+		<card><name id="contract_assassin_yotg">Contract Assassin</name><set>yearofthegoat</set></card>
+		<card><name id="extortion_yotg">Extortion</name><set>yearofthegoat</set></card>
+		<card><name id="eyes_of_the_magpie_yotg">Eyes of the Magpie</name><set>yearofthegoat</set></card>
+		<card><name id="eyes_of_the_magpie_yotg">Eyes of the Magpie</name><set>yearofthegoat</set></card>
+		<card><name id="eyes_of_the_magpie_yotg">Eyes of the Magpie</name><set>yearofthegoat</set></card>
+		<card><name id="eyes_of_the_magpie_yotg">Eyes of the Magpie</name><set>yearofthegoat</set></card>
+		<card><name id="faith_in_the_halls_of_power_yotg">Faith in the Halls of Power</name><set>yearofthegoat</set></card>
+		<card><name id="hidden_sanctum_yotg">Hidden Sanctum</name><set>yearofthegoat</set></card>
+		<card><name id="hidden_sanctum_yotg">Hidden Sanctum</name><set>yearofthegoat</set></card>
+		<card><name id="horseshoe_island_yotg">Horseshoe Island</name><set>yearofthegoat</set></card>
+		<card><name id="house_arrest_yotg">House Arrest</name><set>yearofthegoat</set></card>
+		<card><name id="house_arrest_yotg">House Arrest</name><set>yearofthegoat</set></card>
+		<card><name id="humble_beginnings_yotg">Humble Beginnings</name><set>yearofthegoat</set></card>
+		<card><name id="humble_beginnings_yotg">Humble Beginnings</name><set>yearofthegoat</set></card>
+		<card><name id="martial_focus_yotg">Martial Focus</name><set>yearofthegoat</set></card>
+		<card><name id="maze_of_little_passages_yotg">Maze of Little Passages</name><set>yearofthegoat</set></card>
+		<card><name id="nicole_dorca_yotg">Nicole D&apos;Orca</name><set>yearofthegoat</set></card>
+		<card><name id="operation_hidden_tiger_yotg">Operation Hidden Tiger</name><set>yearofthegoat</set></card>
+		<card><name id="operation_hidden_tiger_yotg">Operation Hidden Tiger</name><set>yearofthegoat</set></card>
+		<card><name id="operation_tethered_goat_yotg">Operation Tethered Goat</name><set>yearofthegoat</set></card>
+		<card><name id="police_escort_yotg">Police Escort</name><set>yearofthegoat</set></card>
+		<card><name id="police_escort_yotg">Police Escort</name><set>yearofthegoat</set></card>
+		<card><name id="police_escort_yotg">Police Escort</name><set>yearofthegoat</set></card>
+		<card><name id="police_escort_yotg">Police Escort</name><set>yearofthegoat</set></card>
+		<card><name id="political_favors_yotg">Political Favors</name><set>yearofthegoat</set></card>
+		<card><name id="quanqiu_wishing_well_yotg">Quanqiu Wishing Well</name><set>yearofthegoat</set></card>
+		<card><name id="rainforest_bridge_yotg">Rainforest Bridge</name><set>yearofthegoat</set></card>
+		<card><name id="roar_of_the_lion_yotg">Roar of the Lion</name><set>yearofthegoat</set></card>
+		<card><name id="roar_of_the_lion_yotg">Roar of the Lion</name><set>yearofthegoat</set></card>
+		<card><name id="serge_gardinier_yotg">Serge Gardinier</name><set>yearofthegoat</set></card>
+		<card><name id="shadowed_yotg">Shadowed</name><set>yearofthegoat</set></card>
+		<card><name id="shadowed_yotg">Shadowed</name><set>yearofthegoat</set></card>
+		<card><name id="snap_of_the_crocodile_yotg">Snap of the Crocodile</name><set>yearofthegoat</set></card>
+		<card><name id="snap_of_the_crocodile_yotg">Snap of the Crocodile</name><set>yearofthegoat</set></card>
+		<card><name id="sulphurous_cenote_yotg">Sulphurous Cenote</name><set>yearofthegoat</set></card>
+		<card><name id="tranquil_peaks_yotg">Tranquil Peaks</name><set>yearofthegoat</set></card>
+		<card><name id="tranquil_peaks_yotg">Tranquil Peaks</name><set>yearofthegoat</set></card>
+		<card><name id="yanuario_garcia_yotg">Yanuario Garcia</name><set>yearofthegoat</set></card>
+	</superzone>
+</deck>

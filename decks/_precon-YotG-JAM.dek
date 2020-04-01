@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="a_clockwork_orangutan_yotg">A Clockwork Orangutan</name><set>yearofthegoat</set></card>
+		<card><name id="aimee_sprigg_yotg">Aimee Sprigg</name><set>yearofthegoat</set></card>
+		<card><name id="ancestral_river_home_yotg">Ancestral River Home</name><set>yearofthegoat</set></card>
+		<card><name id="cheap_baboon_trick_yotg">Cheap Baboon Trick</name><set>yearofthegoat</set></card>
+		<card><name id="chi_bomb_yotg">Chi Bomb</name><set>yearofthegoat</set></card>
+		<card><name id="christopher_colobus_yotg">Christopher Colobus</name><set>yearofthegoat</set></card>
+		<card><name id="coordinated_sabotage_yotg">Coordinated Sabotage</name><set>yearofthegoat</set></card>
+		<card><name id="coordinated_sabotage_yotg">Coordinated Sabotage</name><set>yearofthegoat</set></card>
+		<card><name id="damned_dirty_apes_yotg">Damned Dirty Apes</name><set>yearofthegoat</set></card>
+		<card><name id="damned_dirty_apes_yotg">Damned Dirty Apes</name><set>yearofthegoat</set></card>
+		<card><name id="damned_dirty_apes_yotg">Damned Dirty Apes</name><set>yearofthegoat</set></card>
+		<card><name id="damned_dirty_apes_yotg">Damned Dirty Apes</name><set>yearofthegoat</set></card>
+		<card><name id="desolate_mountain_yotg">Desolate Mountain</name><set>yearofthegoat</set></card>
+		<card><name id="desolate_mountain_yotg">Desolate Mountain</name><set>yearofthegoat</set></card>
+		<card><name id="disgruntled_techie_yotg">Disgruntled Techie</name><set>yearofthegoat</set></card>
+		<card><name id="disgruntled_techie_yotg">Disgruntled Techie</name><set>yearofthegoat</set></card>
+		<card><name id="ejector_seat_malfunction_yotg">Ejector Seat Malfunction</name><set>yearofthegoat</set></card>
+		<card><name id="exo_skeleton_yotg">Exo Skeleton</name><set>yearofthegoat</set></card>
+		<card><name id="fireworks_display_yotg">Fireworks Display</name><set>yearofthegoat</set></card>
+		<card><name id="full_metal_nutball_yotg">Full Metal Nutball</name><set>yearofthegoat</set></card>
+		<card><name id="guerilla_nihilists_yotg">Guerilla Nihilists</name><set>yearofthegoat</set></card>
+		<card><name id="joe_yeung_yotg">Joe Yeung</name><set>yearofthegoat</set></card>
+		<card><name id="m.a.d._yotg">M.A.D.</name><set>yearofthegoat</set></card>
+		<card><name id="maze_of_little_passages_yotg">Maze of Little Passages</name><set>yearofthegoat</set></card>
+		<card><name id="mostly_dead_zone_yotg">Mostly Dead Zone</name><set>yearofthegoat</set></card>
+		<card><name id="mountain_falls_yotg">Mountain Falls</name><set>yearofthegoat</set></card>
+		<card><name id="on_the_wire_yotg">On the Wire</name><set>yearofthegoat</set></card>
+		<card><name id="on_the_wire_yotg">On the Wire</name><set>yearofthegoat</set></card>
+		<card><name id="personal_assault_vehicle_yotg">Personal Assault Vehicle</name><set>yearofthegoat</set></card>
+		<card><name id="proximi_chi_scanner_yotg">Proximi-chi Scanner</name><set>yearofthegoat</set></card>
+		<card><name id="pyromaniac_yotg">Pyromaniac</name><set>yearofthegoat</set></card>
+		<card><name id="pyromaniac_yotg">Pyromaniac</name><set>yearofthegoat</set></card>
+		<card><name id="rainforest_bridge_yotg">Rainforest Bridge</name><set>yearofthegoat</set></card>
+		<card><name id="razor_clad_fanatic_yotg">Razor-Clad Fanatic</name><set>yearofthegoat</set></card>
+		<card><name id="razor_clad_fanatic_yotg">Razor-Clad Fanatic</name><set>yearofthegoat</set></card>
+		<card><name id="remote_temple_yotg">Remote Temple</name><set>yearofthegoat</set></card>
+		<card><name id="remote_temple_yotg">Remote Temple</name><set>yearofthegoat</set></card>
+		<card><name id="renewed_manifesto_yotg">Renewed Manifesto</name><set>yearofthegoat</set></card>
+		<card><name id="renewed_manifesto_yotg">Renewed Manifesto</name><set>yearofthegoat</set></card>
+		<card><name id="river_of_lights_yotg">River of Lights</name><set>yearofthegoat</set></card>
+		<card><name id="robo_bonobo_yotg">Robo-Bonobo</name><set>yearofthegoat</set></card>
+		<card><name id="robo_bonobo_yotg">Robo-Bonobo</name><set>yearofthegoat</set></card>
+		<card><name id="robo_bonobo_yotg">Robo-Bonobo</name><set>yearofthegoat</set></card>
+		<card><name id="robo_bonobo_yotg">Robo-Bonobo</name><set>yearofthegoat</set></card>
+		<card><name id="rocket_launcher_yotg">Rocket Launcher</name><set>yearofthegoat</set></card>
+		<card><name id="sonic_boomer_yotg">Sonic Boomer</name><set>yearofthegoat</set></card>
+		<card><name id="sulphurous_cenote_yotg">Sulphurous Cenote</name><set>yearofthegoat</set></card>
+		<card><name id="the_blackboard_yotg">The Blackboard</name><set>yearofthegoat</set></card>
+		<card><name id="tunnel_fighter_yotg">Tunnel Fighter</name><set>yearofthegoat</set></card>
+		<card><name id="tunnel_fighter_yotg">Tunnel Fighter</name><set>yearofthegoat</set></card>
+		<card><name id="tunnel_fighter_yotg">Tunnel Fighter</name><set>yearofthegoat</set></card>
+		<card><name id="tunnel_fighter_yotg">Tunnel Fighter</name><set>yearofthegoat</set></card>
+		<card><name id="weird_scientist_yotg">Weird Scientist</name><set>yearofthegoat</set></card>
+		<card><name id="weird_scientist_yotg">Weird Scientist</name><set>yearofthegoat</set></card>
+		<card><name id="wired_to_blow_yotg">Wired to Blow</name><set>yearofthegoat</set></card>
+	</superzone>
+</deck>

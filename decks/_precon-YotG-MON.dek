@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="aleut_herbalist_yotg">Aleut Herbalist</name><set>yearofthegoat</set></card>
+		<card><name id="aleut_herbalist_yotg">Aleut Herbalist</name><set>yearofthegoat</set></card>
+		<card><name id="aleut_herbalist_yotg">Aleut Herbalist</name><set>yearofthegoat</set></card>
+		<card><name id="aleut_herbalist_yotg">Aleut Herbalist</name><set>yearofthegoat</set></card>
+		<card><name id="alfar_yotg">Alfar</name><set>yearofthegoat</set></card>
+		<card><name id="alfar_yotg">Alfar</name><set>yearofthegoat</set></card>
+		<card><name id="alfar_yotg">Alfar</name><set>yearofthegoat</set></card>
+		<card><name id="alfar_yotg">Alfar</name><set>yearofthegoat</set></card>
+		<card><name id="ancient_lineage_yotg">Ancient Lineage</name><set>yearofthegoat</set></card>
+		<card><name id="barbarian_yotg">Barbarian</name><set>yearofthegoat</set></card>
+		<card><name id="barbarian_yotg">Barbarian</name><set>yearofthegoat</set></card>
+		<card><name id="craft_and_might_yotg">Craft and Might</name><set>yearofthegoat</set></card>
+		<card><name id="craft_and_might_yotg">Craft and Might</name><set>yearofthegoat</set></card>
+		<card><name id="desolate_mountain_yotg">Desolate Mountain</name><set>yearofthegoat</set></card>
+		<card><name id="familiar_spirit_yotg">Familiar Spirit</name><set>yearofthegoat</set></card>
+		<card><name id="fire_breather_yotg">Fire Breather</name><set>yearofthegoat</set></card>
+		<card><name id="fire_breather_yotg">Fire Breather</name><set>yearofthegoat</set></card>
+		<card><name id="frenzy_yotg">Frenzy</name><set>yearofthegoat</set></card>
+		<card><name id="hidden_sanctum_yotg">Hidden Sanctum</name><set>yearofthegoat</set></card>
+		<card><name id="honor_and_glory_yotg">Honor and Glory</name><set>yearofthegoat</set></card>
+		<card><name id="horseshoe_island_yotg">Horseshoe Island</name><set>yearofthegoat</set></card>
+		<card><name id="horseshoe_island_yotg">Horseshoe Island</name><set>yearofthegoat</set></card>
+		<card><name id="incendiary_blast_yotg">Incendiary Blast</name><set>yearofthegoat</set></card>
+		<card><name id="incendiary_blast_yotg">Incendiary Blast</name><set>yearofthegoat</set></card>
+		<card><name id="knight_templar_yotg">Knight Templar</name><set>yearofthegoat</set></card>
+		<card><name id="knight_templar_yotg">Knight Templar</name><set>yearofthegoat</set></card>
+		<card><name id="master_fletcher_yotg">Master Fletcher</name><set>yearofthegoat</set></card>
+		<card><name id="master_fletcher_yotg">Master Fletcher</name><set>yearofthegoat</set></card>
+		<card><name id="maze_of_little_passages_yotg">Maze of Little Passages</name><set>yearofthegoat</set></card>
+		<card><name id="maze_of_little_passages_yotg">Maze of Little Passages</name><set>yearofthegoat</set></card>
+		<card><name id="mobius_portal_yotg">Mobius Portal</name><set>yearofthegoat</set></card>
+		<card><name id="origami_fortress_yotg">Origami Fortress</name><set>yearofthegoat</set></card>
+		<card><name id="pi_yin_yotg">Pi Yin</name><set>yearofthegoat</set></card>
+		<card><name id="rainforest_bridge_yotg">Rainforest Bridge</name><set>yearofthegoat</set></card>
+		<card><name id="river_of_lights_yotg">River of Lights</name><set>yearofthegoat</set></card>
+		<card><name id="salamalah_sade_yotg">Salamalah Sade</name><set>yearofthegoat</set></card>
+		<card><name id="shock_troops_yotg">Shock Troops</name><set>yearofthegoat</set></card>
+		<card><name id="shock_troops_yotg">Shock Troops</name><set>yearofthegoat</set></card>
+		<card><name id="shock_troops_yotg">Shock Troops</name><set>yearofthegoat</set></card>
+		<card><name id="shock_troops_yotg">Shock Troops</name><set>yearofthegoat</set></card>
+		<card><name id="sir_james_lamb_yotg">Sir James Lamb</name><set>yearofthegoat</set></card>
+		<card><name id="spirit_in_a_bottle_yotg">Spirit in a Bottle</name><set>yearofthegoat</set></card>
+		<card><name id="spirit_in_a_bottle_yotg">Spirit in a Bottle</name><set>yearofthegoat</set></card>
+		<card><name id="spontaneous_combustion_yotg">Spontaneous Combustion</name><set>yearofthegoat</set></card>
+		<card><name id="spontaneous_combustion_yotg">Spontaneous Combustion</name><set>yearofthegoat</set></card>
+		<card><name id="sulphurous_cenote_yotg">Sulphurous Cenote</name><set>yearofthegoat</set></card>
+		<card><name id="tears_of_hsi_ho_yotg">Tears of Hsi-Ho</name><set>yearofthegoat</set></card>
+		<card><name id="tears_of_hsi_ho_yotg">Tears of Hsi-Ho</name><set>yearofthegoat</set></card>
+		<card><name id="tranquil_peaks_yotg">Tranquil Peaks</name><set>yearofthegoat</set></card>
+		<card><name id="twenty_lashes_yotg">Twenty Lashes</name><set>yearofthegoat</set></card>
+		<card><name id="twin_thunders_yotg">Twin Thunders</name><set>yearofthegoat</set></card>
+		<card><name id="viking_burial_yotg">Viking Burial</name><set>yearofthegoat</set></card>
+		<card><name id="white_wolf_yotg">White Wolf</name><set>yearofthegoat</set></card>
+		<card><name id="white_wolf_yotg">White Wolf</name><set>yearofthegoat</set></card>
+		<card><name id="william_franklin_yotg">William Franklin</name><set>yearofthegoat</set></card>
+	</superzone>
+</deck>

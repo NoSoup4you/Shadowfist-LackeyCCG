@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="angie_dao_yotg">Angie Dao</name><set>yearofthegoat</set></card>
+		<card><name id="ancestral_river_home_yotg">Ancestral River Home</name><set>yearofthegoat</set></card>
+		<card><name id="balancing_stones_yotg">Balancing Stones</name><set>yearofthegoat</set></card>
+		<card><name id="baxters_irregulars_yotg">Baxter&apos;s Irregulars</name><set>yearofthegoat</set></card>
+		<card><name id="baxters_irregulars_yotg">Baxter&apos;s Irregulars</name><set>yearofthegoat</set></card>
+		<card><name id="chun_qi_shuan_yotg">Chun Qi Shuan</name><set>yearofthegoat</set></card>
+		<card><name id="clueless_heroes_yotg">Clueless Heroes</name><set>yearofthegoat</set></card>
+		<card><name id="chthonian_lake_yotg">Chthonian Lake</name><set>yearofthegoat</set></card>
+		<card><name id="double_feature_yotg">Double Feature</name><set>yearofthegoat</set></card>
+		<card><name id="double_feature_yotg">Double Feature</name><set>yearofthegoat</set></card>
+		<card><name id="ejector_seat_malfunction_yotg">Ejector Seat Malfunction</name><set>yearofthegoat</set></card>
+		<card><name id="ejector_seat_malfunction_yotg">Ejector Seat Malfunction</name><set>yearofthegoat</set></card>
+		<card><name id="grease_shack_yotg">Grease Shack</name><set>yearofthegoat</set></card>
+		<card><name id="heroic_rematch_yotg">Heroic Rematch</name><set>yearofthegoat</set></card>
+		<card><name id="heroic_shoulder_wound_yotg">Heroic Shoulder Wound</name><set>yearofthegoat</set></card>
+		<card><name id="heroic_shoulder_wound_yotg">Heroic Shoulder Wound</name><set>yearofthegoat</set></card>
+		<card><name id="hidden_sanctum_yotg">Hidden Sanctum</name><set>yearofthegoat</set></card>
+		<card><name id="hong_kongs_finest_yotg">Hong Kong&apos;s Finest</name><set>yearofthegoat</set></card>
+		<card><name id="hong_kongs_finest_yotg">Hong Kong&apos;s Finest</name><set>yearofthegoat</set></card>
+		<card><name id="hong_kongs_finest_yotg">Hong Kong&apos;s Finest</name><set>yearofthegoat</set></card>
+		<card><name id="hong_kongs_finest_yotg">Hong Kong&apos;s Finest</name><set>yearofthegoat</set></card>
+		<card><name id="hovercraft_yotg">Hovercraft</name><set>yearofthegoat</set></card>
+		<card><name id="innocent_convict_yotg">Innocent Convict</name><set>yearofthegoat</set></card>
+		<card><name id="inspector_dee_yotg">Inspector Dee</name><set>yearofthegoat</set></card>
+		<card><name id="jade_jones_yotg">Jade Jones</name><set>yearofthegoat</set></card>
+		<card><name id="junkyard_engineer_yotg">Junkyard Engineer</name><set>yearofthegoat</set></card>
+		<card><name id="junkyard_engineer_yotg">Junkyard Engineer</name><set>yearofthegoat</set></card>
+		<card><name id="junkyard_engineer_yotg">Junkyard Engineer</name><set>yearofthegoat</set></card>
+		<card><name id="junkyard_engineer_yotg">Junkyard Engineer</name><set>yearofthegoat</set></card>
+		<card><name id="just_gettin&apos;_riled_up_yotg">Just Gettin&apos; Riled Up</name><set>yearofthegoat</set></card>
+		<card><name id="just_gettin&apos;_riled_up_yotg">Just Gettin&apos; Riled Up</name><set>yearofthegoat</set></card>
+		<card><name id="monster_truck_ambulance_yotg">Monster Truck Ambulance</name><set>yearofthegoat</set></card>
+		<card><name id="mountain_falls_yotg">Mountain Falls</name><set>yearofthegoat</set></card>
+		<card><name id="mountain_falls_yotg">Mountain Falls</name><set>yearofthegoat</set></card>
+		<card><name id="netherworld_trickster_yotg">Netherworld Trickster</name><set>yearofthegoat</set></card>
+		<card><name id="netherworld_trickster_yotg">Netherworld Trickster</name><set>yearofthegoat</set></card>
+		<card><name id="netherworld_trickster_yotg">Netherworld Trickster</name><set>yearofthegoat</set></card>
+		<card><name id="netherworld_trickster_yotg">Netherworld Trickster</name><set>yearofthegoat</set></card>
+		<card><name id="on_the_wire_yotg">On the Wire</name><set>yearofthegoat</set></card>
+		<card><name id="on_the_wire_yotg">On the Wire</name><set>yearofthegoat</set></card>
+		<card><name id="remix_artist_yotg">Remix Artist</name><set>yearofthegoat</set></card>
+		<card><name id="remix_artist_yotg">Remix Artist</name><set>yearofthegoat</set></card>
+		<card><name id="remote_temple_yotg">Remote Temple</name><set>yearofthegoat</set></card>
+		<card><name id="rewired_robot_yotg">Rewired Robot</name><set>yearofthegoat</set></card>
+		<card><name id="rewired_robot_yotg">Rewired Robot</name><set>yearofthegoat</set></card>
+		<card><name id="river_of_lights_yotg">River of Lights</name><set>yearofthegoat</set></card>
+		<card><name id="river_of_lights_yotg">River of Lights</name><set>yearofthegoat</set></card>
+		<card><name id="rocket_launcher_yotg">Rocket Launcher</name><set>yearofthegoat</set></card>
+		<card><name id="sea_turtle_cove_yotg">Sea Turtle Cove</name><set>yearofthegoat</set></card>
+		<card><name id="sulphurous_cenote_yotg">Sulphurous Cenote</name><set>yearofthegoat</set></card>
+		<card><name id="tai_chi_ascension_yotg">Tai Chi Ascension</name><set>yearofthegoat</set></card>
+		<card><name id="the_leong_brothers_yotg">The Leong Brothers</name><set>yearofthegoat</set></card>
+		<card><name id="tom_baxter_yotg">Tom Baxter</name><set>yearofthegoat</set></card>
+		<card><name id="turf_war_yotg">Turf War</name><set>yearofthegoat</set></card>
+		<card><name id="up_before_breakfast_yotg">Up Before Breakfast</name><set>yearofthegoat</set></card>
+	</superzone>
+</deck>

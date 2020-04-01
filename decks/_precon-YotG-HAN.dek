@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>shadowfist</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ancestral_river_home_yotg">Ancestral River Home</name><set>yearofthegoat</set></card>
+		<card><name id="ancestral_river_home_yotg">Ancestral River Home</name><set>yearofthegoat</set></card>
+		<card><name id="arcane_vault_yotg">Arcane Vault</name><set>yearofthegoat</set></card>
+		<card><name id="austere_monks_yotg">Austere Monks</name><set>yearofthegoat</set></card>
+		<card><name id="austere_monks_yotg">Austere Monks</name><set>yearofthegoat</set></card>
+		<card><name id="balancing_stones_yotg">Balancing Stones</name><set>yearofthegoat</set></card>
+		<card><name id="blue_flower_society_yotg">Blue Flower Society</name><set>yearofthegoat</set></card>
+		<card><name id="blue_flower_society_yotg">Blue Flower Society</name><set>yearofthegoat</set></card>
+		<card><name id="blue_flower_society_yotg">Blue Flower Society</name><set>yearofthegoat</set></card>
+		<card><name id="blue_flower_society_yotg">Blue Flower Society</name><set>yearofthegoat</set></card>
+		<card><name id="bountiful_master_yotg">Bountiful Master</name><set>yearofthegoat</set></card>
+		<card><name id="buddhist_bellringer_yotg">Buddhist Bellringer</name><set>yearofthegoat</set></card>
+		<card><name id="buddhist_bellringer_yotg">Buddhist Bellringer</name><set>yearofthegoat</set></card>
+		<card><name id="buddhist_bellringer_yotg">Buddhist Bellringer</name><set>yearofthegoat</set></card>
+		<card><name id="buddhist_bellringer_yotg">Buddhist Bellringer</name><set>yearofthegoat</set></card>
+		<card><name id="bustling_metro_station_yotg">Bustling Metro Station</name><set>yearofthegoat</set></card>
+		<card><name id="bustling_metro_station_yotg">Bustling Metro Station</name><set>yearofthegoat</set></card>
+		<card><name id="cat_stance_yotg">Cat Stance</name><set>yearofthegoat</set></card>
+		<card><name id="corners_of_the_mouth_yotg">Corners of the Mouth</name><set>yearofthegoat</set></card>
+		<card><name id="chthonian_lake_yotg">Chthonian Lake</name><set>yearofthegoat</set></card>
+		<card><name id="gao_family_banquet_hall_yotg">Gao Family Banquet Hall</name><set>yearofthegoat</set></card>
+		<card><name id="garden_of_eternal_spring_yotg">Garden of Eternal Spring</name><set>yearofthegoat</set></card>
+		<card><name id="highway_ronin_yotg">Highway Ronin</name><set>yearofthegoat</set></card>
+		<card><name id="huang_yi_yotg">Huang Yi</name><set>yearofthegoat</set></card>
+		<card><name id="humble_beginnings_yotg">Humble Beginnings</name><set>yearofthegoat</set></card>
+		<card><name id="humble_beginnings_yotg">Humble Beginnings</name><set>yearofthegoat</set></card>
+		<card><name id="journeys_reward_yotg">Journey&apos;s Reward</name><set>yearofthegoat</set></card>
+		<card><name id="journeys_reward_yotg">Journey&apos;s Reward</name><set>yearofthegoat</set></card>
+		<card><name id="kitsune_yotg">Kitsune</name><set>yearofthegoat</set></card>
+		<card><name id="martial_focus_yotg">Martial Focus</name><set>yearofthegoat</set></card>
+		<card><name id="meteor_hammer_yotg">Meteor Hammer</name><set>yearofthegoat</set></card>
+		<card><name id="meteor_hammer_yotg">Meteor Hammer</name><set>yearofthegoat</set></card>
+		<card><name id="mountain_falls_yotg">Mountain Falls</name><set>yearofthegoat</set></card>
+		<card><name id="pacifists_yotg">Pacifists</name><set>yearofthegoat</set></card>
+		<card><name id="pacifists_yotg">Pacifists</name><set>yearofthegoat</set></card>
+		<card><name id="quixotic_defense_yotg">Quixotic Defense</name><set>yearofthegoat</set></card>
+		<card><name id="quixotic_defense_yotg">Quixotic Defense</name><set>yearofthegoat</set></card>
+		<card><name id="reformed_bandit_yotg">Reformed Bandit</name><set>yearofthegoat</set></card>
+		<card><name id="reformed_bandit_yotg">Reformed Bandit</name><set>yearofthegoat</set></card>
+		<card><name id="renewal_yotg">Renewal</name><set>yearofthegoat</set></card>
+		<card><name id="returning_to_your_roots_yotg">Returning to Your Roots</name><set>yearofthegoat</set></card>
+		<card><name id="rivers_path_yotg">River&apos;s Path</name><set>yearofthegoat</set></card>
+		<card><name id="sky_burial_yotg">Sky Burial</name><set>yearofthegoat</set></card>
+		<card><name id="song_of_the_nightingale_yotg">Song of the Nightingale</name><set>yearofthegoat</set></card>
+		<card><name id="sulphurous_cenote_yotg">Sulphurous Cenote</name><set>yearofthegoat</set></card>
+		<card><name id="the_legacy_of_shaolin_yotg">The Legacy of Shaolin</name><set>yearofthegoat</set></card>
+		<card><name id="tranquil_peaks_yotg">Tranquil Peaks</name><set>yearofthegoat</set></card>
+		<card><name id="undisturbed_meditation_yotg">Undisturbed Meditation</name><set>yearofthegoat</set></card>
+		<card><name id="village_defenders_yotg">Village Defenders</name><set>yearofthegoat</set></card>
+		<card><name id="village_defenders_yotg">Village Defenders</name><set>yearofthegoat</set></card>
+		<card><name id="village_defenders_yotg">Village Defenders</name><set>yearofthegoat</set></card>
+		<card><name id="village_defenders_yotg">Village Defenders</name><set>yearofthegoat</set></card>
+		<card><name id="wei_tian_yotg">Wei Tian</name><set>yearofthegoat</set></card>
+		<card><name id="yanyeudao_blade_yotg">Yanyeudao Blade</name><set>yearofthegoat</set></card>
+		<card><name id="yanyeudao_blade_yotg">Yanyeudao Blade</name><set>yearofthegoat</set></card>
+	</superzone>
+</deck>
