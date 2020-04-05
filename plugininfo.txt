@@ -252,11 +252,11 @@
 
 <cardfunction>
 
-	<label>Add Counter</label>
+	<label>+Counter</label>
 
 	<kind>ADDCOUNTER</kind>
 
-	<color>orange</color>
+	<color>green</color>
 
 	<PositionX>.5</PositionX>
 
@@ -269,7 +269,7 @@
 
 <cardfunction>
 
-	<label>Remove Counter</label>
+	<label>-Counter</label>
 
 	<kind>REMOVECOUNTER</kind>
 
