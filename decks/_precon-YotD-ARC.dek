@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<game>shadowfistcustom</game>
+		<game>shadowfist</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="vivisector_yotd">Vivisector</name><set>yearofthedragon</set></card>
@@ -30,7 +30,6 @@
 		<card><name id="nerve_gas_yotd">Nerve Gas</name><set>yearofthedragon</set></card>
 		<card><name id="nerve_gas_yotd">Nerve Gas</name><set>yearofthedragon</set></card>
 		<card><name id="jade_valley_yotd">Jade Valley</name><set>yearofthedragon</set></card>
-		<card><name id="homo_omega_yotd">Homo Omega</name><set>yearofthedragon</set></card>
 		<card><name id="helix_rethread_yotd">Helix Rethread</name><set>yearofthedragon</set></card>
 		<card><name id="helix_rethread_yotd">Helix Rethread</name><set>yearofthedragon</set></card>
 		<card><name id="helix_chewer_yotd">Helix Chewer</name><set>yearofthedragon</set></card>
@@ -38,20 +37,21 @@
 		<card><name id="floating_restaurant_yotd">Floating Restaurant</name><set>yearofthedragon</set></card>
 		<card><name id="field_of_tentacles_yotd">Field of Tentacles</name><set>yearofthedragon</set></card>
 		<card><name id="festival_circle_yotd">Festival Circle</name><set>yearofthedragon</set></card>
-		<card><name id="dangerous_experiment_yotd">Dangerous Experiment</name><set>yearofthedragon</set></card>
 		<card><name id="curio_shop_yotd">Curio Shop</name><set>yearofthedragon</set></card>
 		<card><name id="city_square_yotd">City Square</name><set>yearofthedragon</set></card>
 		<card><name id="city_park_yotd">City Park</name><set>yearofthedragon</set></card>
-		<card><name id="char_yotd">CHAR</name><set>yearofthedragon</set></card>
-		<card><name id="char_yotd">CHAR</name><set>yearofthedragon</set></card>
 		<card><name id="cdca_scientist_yotd">CDCA Scientist</name><set>yearofthedragon</set></card>
 		<card><name id="cdca_scientist_yotd">CDCA Scientist</name><set>yearofthedragon</set></card>
 		<card><name id="cdca_scientist_yotd">CDCA Scientist</name><set>yearofthedragon</set></card>
-		<card><name id="buro_godhammer_yotd">Buro Godhammer</name><set>yearofthedragon</set></card>
-		<card><name id="buro_godhammer_yotd">Buro Godhammer</name><set>yearofthedragon</set></card>
 		<card><name id="birdhouse_cafe_yotd">Birdhouse Cafe</name><set>yearofthedragon</set></card>
 		<card><name id="arcanowave_reinforcer_yotd">Arcanowave Reinforcer</name><set>yearofthedragon</set></card>
 		<card><name id="arcanowave_reinforcer_yotd">Arcanowave Reinforcer</name><set>yearofthedragon</set></card>
 		<card><name id="abominable_lab_yotd">Abominable Lab</name><set>yearofthedragon</set></card>
+		<card><name id="buro_godhammer_yotd">Buro Godhammer (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="buro_godhammer_yotd">Buro Godhammer (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="char_yotd">CHAR (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="char_yotd">CHAR (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="dangerous_experiment_yotd">Dangerous Experiment (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="homo_omega_yotd">Homo Omega (YOTD)</name><set>yearofthedragon</set></card>
 	</superzone>
 </deck>

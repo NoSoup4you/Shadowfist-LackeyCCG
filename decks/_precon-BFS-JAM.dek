@@ -38,20 +38,20 @@
 		<card><name id="lagrange_four_bfs_400">LaGrange Four</name><set>backforseconds</set></card>
 		<card><name id="flying_monkey_squad_bfs_400">Flying Monkey Squad</name><set>backforseconds</set></card>
 		<card><name id="fireworks_factory_bfs_400">Fireworks Factory</name><set>backforseconds</set></card>
-		<card><name id="entropy_is_your_friend_bfs_400">Entropy is Your Friend</name><set>backforseconds</set></card>
-		<card><name id="electro-gauntlet_bfs_400">Electro-Gauntlet</name><set>backforseconds</set></card>
 		<card><name id="dump_scrounger_bfs_400">Dump Scrounger</name><set>backforseconds</set></card>
 		<card><name id="dump_scrounger_bfs_400">Dump Scrounger</name><set>backforseconds</set></card>
 		<card><name id="desolate_ridge_bfs_400">Desolate Ridge</name><set>backforseconds</set></card>
-		<card><name id="curtis_graham_bfs_400">Curtis Graham</name><set>backforseconds</set></card>
 		<card><name id="cocktail_waiters_bfs_400">Cocktail Waiters</name><set>backforseconds</set></card>
 		<card><name id="city_center_bfs_400">City Center</name><set>backforseconds</set></card>
 		<card><name id="chi_seeking_missile_bfs_400">Chi Seeking Missile</name><set>backforseconds</set></card>
-		<card><name id="brass_monkey_bfs_400">Brass Monkey</name><set>backforseconds</set></card>
-		<card><name id="booby-trapped_tomb_bfs_400">Booby-Trapped Tomb</name><set>backforseconds</set></card>
 		<card><name id="bomb_factory_bfs_400">Bomb Factory</name><set>backforseconds</set></card>
 		<card><name id="billy_zed_bfs_400">Billy Zed</name><set>backforseconds</set></card>
-		<card><name id="ba-boom_bfs_400">Ba-BOOM!</name><set>backforseconds</set></card>
-		<card><name id="torch_the_place_bfs_400">&quot;Torch the Place!&quot;</name><set>backforseconds</set></card>
+		<card><name id="torch_the_place_2ft">Torch the Place!</name><set>twofistedtales</set></card>
+		<card><name id="ba-boom_bfs_400">Ba-BOOM! (BFS)</name><set>backforseconds</set></card>
+		<card><name id="booby-trapped_tomb_bfs_400">Booby-Trapped Tomb (BFS)</name><set>backforseconds</set></card>
+		<card><name id="brass_monkey_bfs_400">Brass Monkey (BFS)</name><set>backforseconds</set></card>
+		<card><name id="curtis_graham_bfs_400">Curtis Graham (BFS)</name><set>backforseconds</set></card>
+		<card><name id="electro-gauntlet_bfs_400">Electro-Gauntlet (BFS)</name><set>backforseconds</set></card>
+		<card><name id="entropy_is_your_friend_bfs_400">Entropy is Your Friend (BFS)</name><set>backforseconds</set></card>
 	</superzone>
 </deck>

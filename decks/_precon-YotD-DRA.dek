@@ -1,10 +1,9 @@
 <deck version="0.8">
 	<meta>
-		<game>shadowfistcustom</game>
+		<game>shadowfist</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="tricia_kwok_yotd">Tricia Kwok</name><set>yearofthedragon</set></card>
-		<card><name id="ting_ting_yotd">Ting Ting</name><set>yearofthedragon</set></card>
 		<card><name id="surprise_surprise_yotd">Surprise, Surprise</name><set>yearofthedragon</set></card>
 		<card><name id="surprise_surprise_yotd">Surprise, Surprise</name><set>yearofthedragon</set></card>
 		<card><name id="stone_garden_yotd">Stone Garden</name><set>yearofthedragon</set></card>
@@ -14,9 +13,6 @@
 		<card><name id="redeemed_gunman_yotd">Redeemed Gunman</name><set>yearofthedragon</set></card>
 		<card><name id="redeemed_gunman_yotd">Redeemed Gunman</name><set>yearofthedragon</set></card>
 		<card><name id="redeemed_gunman_yotd">Redeemed Gunman</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
 		<card><name id="perpetual_motion_machine_yotd">Perpetual Motion Machine</name><set>yearofthedragon</set></card>
 		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
 		<card><name id="nine_dragon_temple_yotd">Nine Dragon Temple</name><set>yearofthedragon</set></card>
@@ -35,11 +31,6 @@
 		<card><name id="golden_comeback_yotd">Golden Comeback</name><set>yearofthedragon</set></card>
 		<card><name id="golden_comeback_yotd">Golden Comeback</name><set>yearofthedragon</set></card>
 		<card><name id="gambling_house_yotd">Gambling House</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
 		<card><name id="final_brawl_yotd">Final Brawl</name><set>yearofthedragon</set></card>
 		<card><name id="final_brawl_yotd">Final Brawl</name><set>yearofthedragon</set></card>
 		<card><name id="final_brawl_yotd">Final Brawl</name><set>yearofthedragon</set></card>
@@ -53,5 +44,14 @@
 		<card><name id="bronze_sentinel_yotd">Bronze Sentinel</name><set>yearofthedragon</set></card>
 		<card><name id="bronze_sentinel_yotd">Bronze Sentinel</name><set>yearofthedragon</set></card>
 		<card><name id="birdhouse_cafe_yotd">Birdhouse Cafe</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="ting_ting_yotd">Ting Ting (YOTD)</name><set>yearofthedragon</set></card>
 	</superzone>
 </deck>
