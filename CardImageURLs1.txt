@@ -1,6 +1,7 @@
 CardImageURLs:	
 promos/blade_palm_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/blade_palm_pr.jpg
 promos/burned_for_victory_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/burned_for_victory_pr.jpg
+promos/kinoshita_house_of_pancakes_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/kinoshita_house_of_pancakes_pr.jpg
 promos/monkey_on_the_lamb_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/monkey_on_the_lamb_pr.jpg
 promos/mountaineer_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/mountaineer_pr.jpg
 promos/reinforcements_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/reinforcements_pr.jpg

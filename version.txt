@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>200405</lastupdateYYMMDD>
+<lastupdateYYMMDD>200406</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
 <message>Join the Discord: https://discord.gg/9ndyeRF</message>

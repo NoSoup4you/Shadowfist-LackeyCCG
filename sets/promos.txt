@@ -6,3 +6,4 @@ Mountaineer	promos	mountaineer_pr	Character	Ascended	Embedded Sworn Agent	2	{asc
 Reinforcements	promos	reinforcements_pr	Event	Unaligned	Event	0						Promo	reinforcement		
 Silver Band	promos	silver_band_pr	Character	Dragons	Legion of Supporters	3	{dra}{dra}{dra}	{dra}	5	0	0	Promo	silver band legion supporter		
 The Mark of Evil	promos	the_mark_of_evil_pr	State	Eaters of the Lotus	State	0	{lot}{lot}{mag}{mag}		0	0	0	Promo	mark evil	"Unique. Schtick. Play on a Character. Sacrifice a Character :: Until the end of the turn, subject gains +X Fighting and cannot be removed from play by Events or Edges. X= the cost of the sacrificed Character."	
+Kinoshita House of Pancakes	promos	kinoshita_house_of_pancakes_pr	Site	Feng Shui	Feng Shui Site					1	4	Promo	kinoshita house	"Unique. Turn to unturn target attacker. That attacker ceases attacking. This card is considered to have the same title as ""Kinoshita House."""	
