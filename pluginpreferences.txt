@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>200401</lastversionupdate>
+<lastversionupdate>200406</lastversionupdate>
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
 <recentskins>default_white</recentskins>
@@ -47,8 +47,8 @@
 <bindingcard2>CTRL+f</bindingcard2>
 <bindingcard4>CTRL+1</bindingcard4>
 <bindingcard5>CTRL+2</bindingcard5>
-<bindingcard6>ALT+1</bindingcard6>
-<bindingcard7>ALT+2</bindingcard7>
+<bindingcard6>CTRL+3</bindingcard6>
+<bindingcard7>CTRL+4</bindingcard7>
 <libraryignoredoubles>1</libraryignoredoubles>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
