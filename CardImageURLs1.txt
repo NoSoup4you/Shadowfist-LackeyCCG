@@ -1697,7 +1697,7 @@ redwedding/zino_the_greek_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Sh
 7masters/kunlun_clan_assault_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/kunlun_clan_assault_7m.jpg
 7masters/leopard_clan_warriors_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/leopard_clan_warriors_7m.jpg
 7masters/li_mao_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/li_mao_7m.jpg
-7masters/li_mao_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/li_mao_pr.jpg
+7masters/li_mao_pr_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/li_mao_pr_7m.jpg
 7masters/lin_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/lin_7m.jpg
 7masters/long_axe_and_short_axe_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/long_axe_and_short_axe_7m.jpg
 7masters/lui_yu_min_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/lui_yu_min_7m.jpg
