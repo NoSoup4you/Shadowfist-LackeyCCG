@@ -7,6 +7,7 @@ promos/mountaineer_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfis
 promos/reinforcements_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/reinforcements_pr.jpg
 promos/silver_band_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/silver_band_pr.jpg
 promos/the_mark_of_evil_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/the_mark_of_evil_pr.jpg
+promos/covadonga_sanctuary.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/covadonga_sanctuary.jpg
 	
 canofwhupass/adrienne_hart_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/adrienne_hart_cwos_400.jpg
 canofwhupass/jack_donovan_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/jack_donovan_cwos_400.jpg
