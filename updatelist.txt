@@ -63,7 +63,7 @@ plugins/shadowfist/sets/empireofevil.txt	https://raw.githubusercontent.com/NoSou
 plugins/shadowfist/sets/endgame.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/endgame.txt	315881
 plugins/shadowfist/sets/flashpoint.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/flashpoint.txt	3722077
 plugins/shadowfist/sets/knightspassage.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/knightspassage.txt	347682
-plugins/shadowfist/sets/modern.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/modern.txt	391309
+plugins/shadowfist/sets/modern.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/modern.txt	391105
 plugins/shadowfist/sets/netherworld.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/netherworld.txt	3298880
 plugins/shadowfist/sets/netherworld2.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/netherworld2.txt	3912505
 plugins/shadowfist/sets/promos.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/promos.txt	175713

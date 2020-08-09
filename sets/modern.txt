@@ -23,7 +23,7 @@ Undead	modern	undead_token	Token	Eaters of the Lotus		1	{lot}		1	0	0	Token	undea
 Warrior	modern	warrior_token	Token	Four Monarchs		2	{mon}		2	0	0	Token	warrior	Token. Ambush.	
 Black Chantry	modern	black_chantry	Site	Feng Shui	Vampire Feng Shui Site					1	8	Promo	black chantry vampire		
 Crazy Tim	modern	crazy_tim	Character	Guiding Hand	Master of the Cat Style	5	{han}{han}{han}	{han}	7	0	0	Promo	crazy tim master cat style		
-"Gomorra, the Doomed Town"	modern	gomorra	Site	Feng Shui	The Doomed Town					1	7	Promo	gomorra doomed town		
+Gomorra, the Doomed Town	modern	gomorra	Site	Feng Shui	The Doomed Town					1	7	Promo	gomorra doomed town		
 Greatway Gang	modern	greatway_gang	Character	Dragons	IKTV Broadcasters	5	{dra}{dra}	{dra}{tek}	7	0	0	Promo	greatway gang iktv broadcaster		
-"Xiong ""Wendy"" Cheng"	modern	xiong_wendy_cheng	Character	Dragons	Cowgirl Cop	5	{dra}{dra}{dra}	{dra}{chi}	8	0	0	Promo	xiong wendy cheng cowgirl cop		
+Xiong "Wendy" Cheng	modern	xiong_wendy_cheng	Character	Dragons	Cowgirl Cop	5	{dra}{dra}{dra}	{dra}{chi}	8	0	0	Promo	xiong wendy cheng cowgirl cop		
 Yogi Becky	modern	yogi_becky	Character	Guiding Hand	Buddhist Teacher	3	{han}{han}	{han}{chi}	3	0	0	Promo	yogi becky buddhist teacher		
