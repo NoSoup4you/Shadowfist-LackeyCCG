@@ -2561,6 +2561,7 @@ modern/gomorra.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-Lacke
 modern/greatway_gang.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/greatway_gang.jpg
 modern/xiong_wendy_cheng.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/xiong_wendy_cheng.jpg
 modern/yogi_becky.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/yogi_becky.jpg
+modern/stand_together_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/stand_together_pr.jpg
 
 reloaded/abaddon_the_destroyer_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/abaddon_the_destroyer_rld_400.jpg
 reloaded/arctic_fortress_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/arctic_fortress_rld_400.jpg

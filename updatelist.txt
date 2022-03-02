@@ -57,6 +57,6 @@ plugins/shadowfist/sets/yearofthedragon.txt	https://raw.githubusercontent.com/No
 plugins/shadowfist/sets/yearofthegoat.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/yearofthegoat.txt	3979482
 plugins/shadowfist/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/cardback.jpg	-44355
 plugins/shadowfist/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/spawned.jpg	-18038
-plugins/shadowfist/CardImageURLs1.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs1.txt	47990580
+plugins/shadowfist/CardImageURLs1.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs1.txt	48004915
 CardURLFiles:
 CardImageURLs1.txt
