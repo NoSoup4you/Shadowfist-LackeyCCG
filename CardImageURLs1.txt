@@ -1,4 +1,4 @@
-CardImageURLs:	
+CardImageURLs:
 promos/blade_palm_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/blade_palm_pr.jpg
 promos/burned_for_victory_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/burned_for_victory_pr.jpg
 promos/kinoshita_house_of_pancakes_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/kinoshita_house_of_pancakes_pr.jpg
@@ -10,14 +10,14 @@ promos/the_mark_of_evil_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shad
 promos/covadonga_sanctuary.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/covadonga_sanctuary.jpg
 promos/golden_mile_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/golden_mile_pr.jpg
 promos/the_golden_gunman_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/the_golden_gunman_pr.jpg
-	
+
 canofwhupass/adrienne_hart_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/adrienne_hart_cwos_400.jpg
 canofwhupass/jack_donovan_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/jack_donovan_cwos_400.jpg
 canofwhupass/jueding_shelun_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/jueding_shelun_cwos_400.jpg
 canofwhupass/mad_dog_mccroun_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/mad_dog_mccroun_cwos_400.jpg
 canofwhupass/nirmal_yadav_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/nirmal_yadav_cwos_400.jpg
 canofwhupass/sun_chen_cwos_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/canofwhupass/sun_chen_cwos_400.jpg
-	
+
 standard/now_youve_made_us_mad_ltd_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/standard/now_youve_made_us_mad_ltd_400.jpg
 standard/10000_man_ltd_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/standard/10000_man_ltd_400.jpg
 standard/abominable_lab_ltd_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/standard/abominable_lab_ltd_400.jpg
@@ -341,7 +341,7 @@ standard/wind_across_heaven_ltd_400.jpg	https://raw.githubusercontent.com/NoSoup
 standard/wind_on_the_mountain_ltd_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/standard/wind_on_the_mountain_ltd_400.jpg
 standard/wong_fei_hong_ltd_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/standard/wong_fei_hong_ltd_400.jpg
 standard/zheng_yi_quan_ltd_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/standard/zheng_yi_quan_ltd_400.jpg
-	
+
 netherworld/abysmal_absorber_nw_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld/abysmal_absorber_nw_400.jpg
 netherworld/abysmal_deceiver_nw_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld/abysmal_deceiver_nw_400.jpg
 netherworld/abysmal_prince_nw_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld/abysmal_prince_nw_400.jpg
@@ -476,7 +476,7 @@ netherworld/xiu_xie_jiang_nw_400.jpg	https://raw.githubusercontent.com/NoSoup4yo
 netherworld/yellow_monk_nw_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld/yellow_monk_nw_400.jpg
 netherworld/yellow_senshi_chamber_nw_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld/yellow_senshi_chamber_nw_400.jpg
 netherworld/ze_botelho_nw_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld/ze_botelho_nw_400.jpg
-	
+
 flashpoint/trust_me_ive_got_a_plan_fp_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/flashpoint/trust_me_ive_got_a_plan_fp_400.jpg
 flashpoint/alchemists_lair_fp_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/flashpoint/alchemists_lair_fp_400.jpg
 flashpoint/anomaly_spirit_fp_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/flashpoint/anomaly_spirit_fp_400.jpg
@@ -623,7 +623,7 @@ flashpoint/wing_of_the_crane_fp_400.jpg	https://raw.githubusercontent.com/NoSoup
 flashpoint/xiaoyang_yun_fp_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/flashpoint/xiaoyang_yun_fp_400.jpg
 flashpoint/yakuza_enforcer_fp_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/flashpoint/yakuza_enforcer_fp_400.jpg
 flashpoint/year_of_the_rat_fp_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/flashpoint/year_of_the_rat_fp_400.jpg
-	
+
 yearofthedragon/abominable_lab_yotd.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthedragon/abominable_lab_yotd.jpg
 yearofthedragon/abysmal_absorber_yotd.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthedragon/abysmal_absorber_yotd.jpg
 yearofthedragon/amulet_of_the_turtle_yotd.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthedragon/amulet_of_the_turtle_yotd.jpg
@@ -734,7 +734,7 @@ yearofthedragon/vivisector_yotd.jpg	https://raw.githubusercontent.com/NoSoup4you
 yearofthedragon/walking_corpses_yotd.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthedragon/walking_corpses_yotd.jpg
 yearofthedragon/white_disciple_yotd.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthedragon/white_disciple_yotd.jpg
 yearofthedragon/wong_fei_hong_yotd.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthedragon/wong_fei_hong_yotd.jpg
-	
+
 thronewar/andrea_van_de_graaf_tw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/thronewar/andrea_van_de_graaf_tw.jpg
 thronewar/apes_of_wrath_tw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/thronewar/apes_of_wrath_tw.jpg
 thronewar/baboom_tw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/thronewar/baboom_tw.jpg
@@ -818,7 +818,7 @@ thronewar/white_ninja_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadow
 thronewar/who_wants_some_tw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/thronewar/who_wants_some_tw.jpg
 thronewar/whos_the_monkey_now_tw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/thronewar/whos_the_monkey_now_tw.jpg
 thronewar/xin_kai_sheng_tw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/thronewar/xin_kai_sheng_tw.jpg
-	
+
 netherworld2/adrenaline_junkie_n2.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld2/adrenaline_junkie_n2.jpg
 netherworld2/arcanorat_n2.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld2/arcanorat_n2.jpg
 netherworld2/arcanotechnician_n2.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld2/arcanotechnician_n2.jpg
@@ -967,7 +967,7 @@ netherworld2/white_senshi_chamber_n2.jpg	https://raw.githubusercontent.com/NoSou
 netherworld2/wind_on_the_mountain_n2.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld2/wind_on_the_mountain_n2.jpg
 netherworld2/wu_ming_yi_n2.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld2/wu_ming_yi_n2.jpg
 netherworld2/yellow_senshi_chamber_n2.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/netherworld2/yellow_senshi_chamber_n2.jpg
-	
+
 shaolinshowdown/i_will_avenge_you_ss.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shaolinshowdown/i_will_avenge_you_ss.jpg
 shaolinshowdown/monkey_chang_ss.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shaolinshowdown/monkey_chang_ss.jpg
 shaolinshowdown/time_to_kick_ass_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shaolinshowdown/time_to_kick_ass_pr.jpg
@@ -1117,7 +1117,7 @@ shaolinshowdown/year_of_the_snake_ss.jpg	https://raw.githubusercontent.com/NoSou
 shaolinshowdown/yen_fan_ss.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shaolinshowdown/yen_fan_ss.jpg
 shaolinshowdown/yen_song_ss.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shaolinshowdown/yen_song_ss.jpg
 shaolinshowdown/zheng_yi_quan_ss.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shaolinshowdown/zheng_yi_quan_ss.jpg
-	
+
 darkfuture/alchemists_lair_df.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/darkfuture/alchemists_lair_df.jpg
 darkfuture/arachnae_df.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/darkfuture/arachnae_df.jpg
 darkfuture/arcane_scientist_df.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/darkfuture/arcane_scientist_df.jpg
@@ -1248,7 +1248,7 @@ darkfuture/vivisection_agenda_df.jpg	https://raw.githubusercontent.com/NoSoup4yo
 darkfuture/void_sorcerer_df.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/darkfuture/void_sorcerer_df.jpg
 darkfuture/yung_chang_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/darkfuture/yung_chang_pr.jpg
 darkfuture/zen_logician_df.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/darkfuture/zen_logician_df.jpg
-	
+
 boomchakalaka/do_you_feel_lucky_punk_bcl.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/boomchakalaka/do_you_feel_lucky_punk_bcl.jpg
 boomchakalaka/you_have_offended_shaolin_bcl.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/boomchakalaka/you_have_offended_shaolin_bcl.jpg
 boomchakalaka/big_ass_car_bcl.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/boomchakalaka/big_ass_car_bcl.jpg
@@ -1342,7 +1342,7 @@ boomchakalaka/walk_on_the_wild_side_bcl.jpg	https://raw.githubusercontent.com/No
 boomchakalaka/we_got_the_funk_bcl.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/boomchakalaka/we_got_the_funk_bcl.jpg
 boomchakalaka/we_have_the_technology_bcl.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/boomchakalaka/we_have_the_technology_bcl.jpg
 boomchakalaka/zodiac_lounge_bcl.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/boomchakalaka/zodiac_lounge_bcl.jpg
-	
+
 10kbullets/now_youve_made_us_mad_10kb.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/10kbullets/now_youve_made_us_mad_10kb.jpg
 10kbullets/abominable_lab_10kb.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/10kbullets/abominable_lab_10kb.jpg
 10kbullets/alabaster_javelin_10kb.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/10kbullets/alabaster_javelin_10kb.jpg
@@ -1511,7 +1511,7 @@ boomchakalaka/zodiac_lounge_bcl.jpg	https://raw.githubusercontent.com/NoSoup4you
 10kbullets/white_disciple_10kb.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/10kbullets/white_disciple_10kb.jpg
 10kbullets/whos_the_monkey_now_10kb.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/10kbullets/whos_the_monkey_now_10kb.jpg
 10kbullets/yellow_geomancer_10kb.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/10kbullets/yellow_geomancer_10kb.jpg
-	
+
 redwedding/bring_it_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/bring_it_rw.jpg
 redwedding/is_that_all_you_got_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/is_that_all_you_got_rw.jpg
 redwedding/theres_always_one_more_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/theres_always_one_more_rw.jpg
@@ -1642,7 +1642,7 @@ redwedding/wrath_of_the_monarchs_rw.jpg	https://raw.githubusercontent.com/NoSoup
 redwedding/xiaoyang_yun_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/xiaoyang_yun_rw.jpg
 redwedding/yakuza_enforcer_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/yakuza_enforcer_rw.jpg
 redwedding/zino_the_greek_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/zino_the_greek_rw.jpg
-	
+
 7masters/we_need_bigger_guns_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/we_need_bigger_guns_7m.jpg
 7masters/200_guys_with_hatchets_and_ladders_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/200_guys_with_hatchets_and_ladders_7m.jpg
 7masters/401k_squad_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/401k_squad_7m.jpg
@@ -1774,7 +1774,7 @@ redwedding/zino_the_greek_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Sh
 7masters/wudang_monk_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/wudang_monk_7m.jpg
 7masters/wudang_mountain_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/wudang_mountain_7m.jpg
 7masters/xiang_kai_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/xiang_kai_7m.jpg
-	
+
 twofistedtales/hammer_harrison_2ft.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/twofistedtales/hammer_harrison_2ft.jpg
 twofistedtales/they_came_out_of_nowhere_2ft.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/twofistedtales/they_came_out_of_nowhere_2ft.jpg
 twofistedtales/throw_me_the_idol_2ft.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/twofistedtales/throw_me_the_idol_2ft.jpg
@@ -1906,7 +1906,7 @@ twofistedtales/xitllali_2ft.jpg	https://raw.githubusercontent.com/NoSoup4you/Sha
 twofistedtales/year_of_the_monkey_2ft.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/twofistedtales/year_of_the_monkey_2ft.jpg
 twofistedtales/yuen_sheng_2ft.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/twofistedtales/yuen_sheng_2ft.jpg
 twofistedtales/zeppelin_2ft.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/twofistedtales/zeppelin_2ft.jpg
-	
+
 shurikensandsixguns/agathons_deputies_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/agathons_deputies_ssg.jpg
 shurikensandsixguns/agent_tanaka_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/agent_tanaka_ssg.jpg
 shurikensandsixguns/anastasia_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/anastasia_ssg.jpg
@@ -2046,7 +2046,7 @@ shurikensandsixguns/whispers_in_the_dark_ssg.jpg	https://raw.githubusercontent.c
 shurikensandsixguns/wild_spirits_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/wild_spirits_ssg.jpg
 shurikensandsixguns/yippeeyiyokiiiyaaah_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/yippeeyiyokiiiyaaah_ssg.jpg
 shurikensandsixguns/yosef_halevi_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/yosef_halevi_ssg.jpg
-	
+
 criticalshift/acupressure_master_cs.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/criticalshift/acupressure_master_cs.jpg
 criticalshift/anubis_cs.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/criticalshift/anubis_cs.jpg
 criticalshift/ape_shall_kill_ape_cs.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/criticalshift/ape_shall_kill_ape_cs.jpg
@@ -2181,7 +2181,7 @@ criticalshift/xu_mei_the_dragon_cs.jpg	https://raw.githubusercontent.com/NoSoup4
 criticalshift/zerog_sumo_cs.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/criticalshift/zerog_sumo_cs.jpg
 criticalshift/zheng_yi_quan_cs.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/criticalshift/zheng_yi_quan_cs.jpg
 criticalshift/zhu_maichen_cs.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/criticalshift/zhu_maichen_cs.jpg
-	
+
 empireofevil/36_legged_horror_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/36_legged_horror_eoe.jpg
 empireofevil/abomination_serum_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/abomination_serum_eoe.jpg
 empireofevil/abysmal_behemoth_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/abysmal_behemoth_eoe.jpg
@@ -2317,7 +2317,7 @@ empireofevil/xin_ji_yang_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Sh
 empireofevil/xin_ji_yang_eoe_promo.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/xin_ji_yang_eoe_promo.jpg
 empireofevil/yuan_chonguan_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/yuan_chonguan_eoe.jpg
 empireofevil/zen_ritualist_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/zen_ritualist_eoe.jpg
-	
+
 combatinkowloon/1_000_corpses_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/1_000_corpses_cik_400.jpg
 combatinkowloon/18_bronze_men_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/18_bronze_men_cik_400.jpg
 combatinkowloon/back_for_seconds_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/back_for_seconds_cik_400.jpg
@@ -2460,7 +2460,7 @@ combatinkowloon/wrench_slinger_cik_400.jpg	https://raw.githubusercontent.com/NoS
 combatinkowloon/xin_ji_yang_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/xin_ji_yang_cik_400.jpg
 combatinkowloon/you_xia_the_avenger_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/you_xia_the_avenger_cik_400.jpg
 combatinkowloon/youn_wha_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/youn_wha_cik_400.jpg
-	
+
 backforseconds/armies_of_the_monarchs_bfs_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/backforseconds/armies_of_the_monarchs_bfs_400.jpg
 backforseconds/armorer_bfs_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/backforseconds/armorer_bfs_400.jpg
 backforseconds/avenging_fire_bfs_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/backforseconds/avenging_fire_bfs_400.jpg
@@ -2532,7 +2532,7 @@ backforseconds/the_ape_is_loose_bfs_400.jpg	https://raw.githubusercontent.com/No
 backforseconds/thousand_sword_mountain_bfs_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/backforseconds/thousand_sword_mountain_bfs_400.jpg
 backforseconds/torch_the_place_bfs_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/backforseconds/torch_the_place_bfs_400.jpg
 backforseconds/turbo_boost_bfs_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/backforseconds/turbo_boost_bfs_400.jpg
-	
+
 modern/machine_warrior_mod.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/machine_warrior_mod.jpg
 modern/nine_cuts_mod.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/nine_cuts_mod.jpg
 modern/open_a_can_of_whupass_mod.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/open_a_can_of_whupass_mod.jpg
@@ -2561,7 +2561,7 @@ modern/gomorra.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-Lacke
 modern/greatway_gang.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/greatway_gang.jpg
 modern/xiong_wendy_cheng.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/xiong_wendy_cheng.jpg
 modern/yogi_becky.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/modern/yogi_becky.jpg
-	
+
 reloaded/abaddon_the_destroyer_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/abaddon_the_destroyer_rld_400.jpg
 reloaded/arctic_fortress_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/arctic_fortress_rld_400.jpg
 reloaded/avenging_thunder_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/avenging_thunder_rld_400.jpg
@@ -2612,7 +2612,7 @@ reloaded/turtle_island_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/
 reloaded/water_sword_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/water_sword_rld_400.jpg
 reloaded/whos_the_monkey_now_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/whos_the_monkey_now_rld_400.jpg
 reloaded/wisdom_of_the_owl_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/wisdom_of_the_owl_rld_400.jpg
-	
+
 reinforcements/abysmal_wyrm_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/abysmal_wyrm_re2_400.jpg
 reinforcements/ancient_stone_arch_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/ancient_stone_arch_re2_400.jpg
 reinforcements/blood_and_thunder_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/blood_and_thunder_re2_400.jpg
@@ -2663,7 +2663,7 @@ reinforcements/undercover_asset_re2_400.jpg	https://raw.githubusercontent.com/No
 reinforcements/violet_principle_warrior_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/violet_principle_warrior_re2_400.jpg
 reinforcements/yellow_reprisal_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/yellow_reprisal_re2_400.jpg
 reinforcements/yul_gibbons_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/yul_gibbons_re2_400.jpg
-	
+
 revelations/official_police_business_re3_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/revelations/official_police_business_re3_400.jpg
 revelations/aiden_orangotang_re3_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/revelations/aiden_orangotang_re3_400.jpg
 revelations/barrel_of_monkeys_re3_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/revelations/barrel_of_monkeys_re3_400.jpg
@@ -2714,7 +2714,7 @@ revelations/the_lodge_re3_400.jpg	https://raw.githubusercontent.com/NoSoup4you/S
 revelations/urban_renewal_re3_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/revelations/urban_renewal_re3_400.jpg
 revelations/valley_of_ashes_re3_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/revelations/valley_of_ashes_re3_400.jpg
 revelations/wei_qing_re3_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/revelations/wei_qing_re3_400.jpg
-	
+
 queensgambit/apprenticeship_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/apprenticeship_qg.jpg
 queensgambit/average_jane_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/average_jane_qg.jpg
 queensgambit/band_of_heroes_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/band_of_heroes_qg.jpg
@@ -2765,7 +2765,7 @@ queensgambit/tower_of_glass_and_steel_qg.jpg	https://raw.githubusercontent.com/N
 queensgambit/vampirism_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/vampirism_qg.jpg
 queensgambit/whirlwind_transformation_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/whirlwind_transformation_qg.jpg
 queensgambit/xins_tome_of_knowledge_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/xins_tome_of_knowledge_qg.jpg
-	
+
 knightspassage/academy_instructor_kp.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/knightspassage/academy_instructor_kp.jpg
 knightspassage/advance_notice_kp.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/knightspassage/advance_notice_kp.jpg
 knightspassage/ape_crusaders_kp.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/knightspassage/ape_crusaders_kp.jpg
@@ -2816,7 +2816,7 @@ knightspassage/underground_depot_kp.jpg	https://raw.githubusercontent.com/NoSoup
 knightspassage/urban_monk_kp.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/knightspassage/urban_monk_kp.jpg
 knightspassage/wayfarer_kp.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/knightspassage/wayfarer_kp.jpg
 knightspassage/we_can_rebuild_him_kp.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/knightspassage/we_can_rebuild_him_kp.jpg
-	
+
 endgame/agent_neil_north_eg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/endgame/agent_neil_north_eg.jpg
 endgame/anarchy_in_the_hk_eg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/endgame/anarchy_in_the_hk_eg.jpg
 endgame/anfo_grenade_eg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/endgame/anfo_grenade_eg.jpg
@@ -2867,7 +2867,7 @@ endgame/white_crocus_society_eg.jpg	https://raw.githubusercontent.com/NoSoup4you
 endgame/winds_of_change_eg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/endgame/winds_of_change_eg.jpg
 endgame/winters_laugh_eg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/endgame/winters_laugh_eg.jpg
 endgame/you_will_not_fail_me_again_eg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/endgame/you_will_not_fail_me_again_eg.jpg
-	
+
 yearofthegoat/44_kincaid_magnum_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/44_kincaid_magnum_yotg.jpg
 yearofthegoat/a_clockwork_orangutan_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/a_clockwork_orangutan_yotg.jpg
 yearofthegoat/agency_support_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/agency_support_yotg.jpg

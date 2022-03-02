@@ -2,3 +2,5 @@ recentdecks.txt
 *.dek
 saved/*
 decks/big netdeck.txt
+.idea
+.DS_Store
