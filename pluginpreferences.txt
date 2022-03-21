@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>200406</lastversionupdate>
+<lastversionupdate>210526</lastversionupdate>
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
 <recentskins>default_white</recentskins>
@@ -41,6 +41,7 @@
 <fontsize1>11</fontsize1>
 <fontsize2>11</fontsize2>
 <fontsize3>20</fontsize3>
+<bindingmain5>CTRL+s</bindingmain5>
 <bindinggeneral0>CTRL+d</bindinggeneral0>
 <bindinggeneral1>CTRL+u</bindinggeneral1>
 <bindinggeneral4>CTRL+t</bindinggeneral4>
@@ -49,10 +50,12 @@
 <bindingcard5>CTRL+2</bindingcard5>
 <bindingcard6>CTRL+3</bindingcard6>
 <bindingcard7>CTRL+4</bindingcard7>
-<libraryignoredoubles>1</libraryignoredoubles>
+<bindingcard8>CTRL+5</bindingcard8>
+<bindingcard9>CTRL+6</bindingcard9>
+<libraryignoredoubles>0</libraryignoredoubles>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
-<phaseimages>0</phaseimages>
+<phaseimages>1</phaseimages>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
