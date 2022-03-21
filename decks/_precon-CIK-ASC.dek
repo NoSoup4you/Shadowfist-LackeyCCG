@@ -38,20 +38,20 @@
 		<card><name id="butterfly_swords_cik_400">Butterfly Swords</name><set>combatinkowloon</set></card>
 		<card><name id="butterfly_swords_cik_400">Butterfly Swords</name><set>combatinkowloon</set></card>
 		<card><name id="blade_palm_cik_400">Blade Palm</name><set>combatinkowloon</set></card>
-		<card><name id="monkey_chang_cik_400">Monkey Chang</name><set>combatinkowloon</set></card>
-		<card><name id="bite_of_the_jellyfish_cik_400">Bite of the Jellyfish (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="bull_market_cik_400">Bull Market (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="grey_mountain_cik_400">Grey Mountain (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="maze_of_stairs_cik_400">Maze of Stairs (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="mirrored_lake_cik_400">Mirrored Lake (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="moonlight_raid_cik_400">Moonlight Raid (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="night_moves_cik_400">Night Moves (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="operation_killdeer_cik_400">Operation Killdeer (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="operation_killdeer_cik_400">Operation Killdeer (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="realpolitik_cik_400">Realpolitik (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="robbing_the_kong_cik_400">Robbing the Kong (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="the_she-wolf_cik_400">The She-Wolf (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="violet_meditation_yotd">Violet Meditation (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="wall_of_a_thousand_eyes_cik_400">Wall of a Thousand Eyes (CIK)</name><set>combatinkowloon</set></card>
+		<card><name id="monkey_chang_cik_400">"Monkey" Chang</name><set>combatinkowloon</set></card>
+		<card><name id="bite_of_the_jellyfish_cik_400">Bite of the Jellyfish</name><set>combatinkowloon</set></card>
+		<card><name id="bull_market_cik_400">Bull Market</name><set>combatinkowloon</set></card>
+		<card><name id="grey_mountain_cik_400">Grey Mountain</name><set>combatinkowloon</set></card>
+		<card><name id="maze_of_stairs_cik_400">Maze of Stairs</name><set>combatinkowloon</set></card>
+		<card><name id="mirrored_lake_cik_400">Mirrored Lake</name><set>combatinkowloon</set></card>
+		<card><name id="moonlight_raid_cik_400">Moonlight Raid</name><set>combatinkowloon</set></card>
+		<card><name id="night_moves_cik_400">Night Moves</name><set>combatinkowloon</set></card>
+		<card><name id="operation_killdeer_cik_400">Operation Killdeer</name><set>combatinkowloon</set></card>
+		<card><name id="operation_killdeer_cik_400">Operation Killdeer</name><set>combatinkowloon</set></card>
+		<card><name id="realpolitik_cik_400">Realpolitik</name><set>combatinkowloon</set></card>
+		<card><name id="robbing_the_kong_cik_400">Robbing the Kong</name><set>combatinkowloon</set></card>
+		<card><name id="the_she-wolf_cik_400">The She-Wolf</name><set>combatinkowloon</set></card>
+		<card><name id="violet_meditation_yotd">Violet Meditation</name><set>yearofthedragon</set></card>
+		<card><name id="wall_of_a_thousand_eyes_cik_400">Wall of a Thousand Eyes</name><set>combatinkowloon</set></card>
 	</superzone>
 </deck>

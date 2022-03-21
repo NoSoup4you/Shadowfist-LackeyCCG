@@ -47,11 +47,11 @@
 		<card><name id="arcanowave_reinforcer_yotd">Arcanowave Reinforcer</name><set>yearofthedragon</set></card>
 		<card><name id="arcanowave_reinforcer_yotd">Arcanowave Reinforcer</name><set>yearofthedragon</set></card>
 		<card><name id="abominable_lab_yotd">Abominable Lab</name><set>yearofthedragon</set></card>
-		<card><name id="buro_godhammer_yotd">Buro Godhammer (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="buro_godhammer_yotd">Buro Godhammer (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="char_yotd">CHAR (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="char_yotd">CHAR (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="dangerous_experiment_yotd">Dangerous Experiment (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="homo_omega_yotd">Homo Omega (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="buro_godhammer_yotd">Buro Godhammer</name><set>yearofthedragon</set></card>
+		<card><name id="buro_godhammer_yotd">Buro Godhammer</name><set>yearofthedragon</set></card>
+		<card><name id="char_yotd">CHAR</name><set>yearofthedragon</set></card>
+		<card><name id="char_yotd">CHAR</name><set>yearofthedragon</set></card>
+		<card><name id="dangerous_experiment_yotd">Dangerous Experiment</name><set>yearofthedragon</set></card>
+		<card><name id="homo_omega_yotd">Homo Omega</name><set>yearofthedragon</set></card>
 	</superzone>
 </deck>

@@ -42,16 +42,16 @@
 		<card><name id="armorer_bfs_400">Armorer</name><set>backforseconds</set></card>
 		<card><name id="armorer_bfs_400">Armorer</name><set>backforseconds</set></card>
 		<card><name id="armorer_bfs_400">Armorer</name><set>backforseconds</set></card>
-		<card><name id="armies_of_the_monarchs_bfs_400">Armies of the Monarchs (BFS)</name><set>backforseconds</set></card>
-		<card><name id="avenging_fire_bfs_400">Avenging Fire (BFS)</name><set>backforseconds</set></card>
-		<card><name id="blood_lust_bfs_400">Blood Lust (BFS)</name><set>backforseconds</set></card>
-		<card><name id="blood_lust_bfs_400">Blood Lust (BFS)</name><set>backforseconds</set></card>
-		<card><name id="brain_fire_bfs_400">Brain Fire (BFS)</name><set>backforseconds</set></card>
-		<card><name id="brain_fire_bfs_400">Brain Fire (BFS)</name><set>backforseconds</set></card>
-		<card><name id="earth_wind_and_fire_bfs_400">Earth, Wind, and Fire (BFS)</name><set>backforseconds</set></card>
-		<card><name id="fakhir-al-din_bfs_400">Fakhir-al-Din (BFS)</name><set>backforseconds</set></card>
-		<card><name id="feeding_the_fires_bfs_400">Feeding the Fires (BFS)</name><set>backforseconds</set></card>
-		<card><name id="fire_warriors_bfs_400">Fire Warriors (BFS)</name><set>backforseconds</set></card>
-		<card><name id="fire_warriors_bfs_400">Fire Warriors (BFS)</name><set>backforseconds</set></card>
+		<card><name id="armies_of_the_monarchs_bfs_400">Armies of the Monarchs</name><set>backforseconds</set></card>
+		<card><name id="avenging_fire_bfs_400">Avenging Fire</name><set>backforseconds</set></card>
+		<card><name id="blood_lust_bfs_400">Blood Lust</name><set>backforseconds</set></card>
+		<card><name id="blood_lust_bfs_400">Blood Lust</name><set>backforseconds</set></card>
+		<card><name id="brain_fire_bfs_400">Brain Fire</name><set>backforseconds</set></card>
+		<card><name id="brain_fire_bfs_400">Brain Fire</name><set>backforseconds</set></card>
+		<card><name id="earth_wind_and_fire_bfs_400">Earth, Wind and Fire</name><set>backforseconds</set></card>
+		<card><name id="fakhir-al-din_bfs_400">Fakhir-al-Din</name><set>backforseconds</set></card>
+		<card><name id="feeding_the_fires_bfs_400">Feeding the Fires</name><set>backforseconds</set></card>
+		<card><name id="fire_warriors_bfs_400">Fire Warriors</name><set>backforseconds</set></card>
+		<card><name id="fire_warriors_bfs_400">Fire Warriors</name><set>backforseconds</set></card>
 	</superzone>
 </deck>

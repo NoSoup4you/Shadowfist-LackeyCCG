@@ -47,11 +47,11 @@
 		<card><name id="bomb_factory_bfs_400">Bomb Factory</name><set>backforseconds</set></card>
 		<card><name id="billy_zed_bfs_400">Billy Zed</name><set>backforseconds</set></card>
 		<card><name id="torch_the_place_2ft">Torch the Place!</name><set>twofistedtales</set></card>
-		<card><name id="ba-boom_bfs_400">Ba-BOOM! (BFS)</name><set>backforseconds</set></card>
-		<card><name id="booby-trapped_tomb_bfs_400">Booby-Trapped Tomb (BFS)</name><set>backforseconds</set></card>
-		<card><name id="brass_monkey_bfs_400">Brass Monkey (BFS)</name><set>backforseconds</set></card>
-		<card><name id="curtis_graham_bfs_400">Curtis Graham (BFS)</name><set>backforseconds</set></card>
-		<card><name id="electro-gauntlet_bfs_400">Electro-Gauntlet (BFS)</name><set>backforseconds</set></card>
-		<card><name id="entropy_is_your_friend_bfs_400">Entropy is Your Friend (BFS)</name><set>backforseconds</set></card>
+		<card><name id="ba-boom_bfs_400">Ba-BOOM!</name><set>backforseconds</set></card>
+		<card><name id="booby-trapped_tomb_bfs_400">Booby-Trapped Tomb</name><set>backforseconds</set></card>
+		<card><name id="brass_monkey_bfs_400">Brass Monkey</name><set>backforseconds</set></card>
+		<card><name id="curtis_graham_bfs_400">Curtis Graham</name><set>backforseconds</set></card>
+		<card><name id="electro-gauntlet_bfs_400">Electro-Gauntlet</name><set>backforseconds</set></card>
+		<card><name id="entropy_is_your_friend_bfs_400">Entropy is Your Friend</name><set>backforseconds</set></card>
 	</superzone>
 </deck>

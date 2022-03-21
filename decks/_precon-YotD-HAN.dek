@@ -43,15 +43,15 @@
 		<card><name id="blood_of_the_valiant_yotd">Blood of the Valiant</name><set>yearofthedragon</set></card>
 		<card><name id="blessed_orchard_yotd">Blessed Orchard</name><set>yearofthedragon</set></card>
 		<card><name id="blade_palm_yotd">Blade Palm</name><set>yearofthedragon</set></card>
-		<card><name id="hands_without_shadow_yotd">Hands Without Shadow (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="red_monk_yotd">Red Monk (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="red_monk_yotd">Red Monk (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="red_monk_yotd">Red Monk (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="rigorous_discipline_yotd">Rigorous Discipline (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="rigorous_discipline_yotd">Rigorous Discipline (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="violet_meditation_yotd">Violet Meditation (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="violet_meditation_yotd">Violet Meditation (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="violet_meditation_yotd">Violet Meditation (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="wong_fei_hong_yotd">Wong Fei Hong (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="hands_without_shadow_yotd">Hands Without Shadow</name><set>yearofthedragon</set></card>
+		<card><name id="red_monk_yotd">Red Monk</name><set>yearofthedragon</set></card>
+		<card><name id="red_monk_yotd">Red Monk</name><set>yearofthedragon</set></card>
+		<card><name id="red_monk_yotd">Red Monk</name><set>yearofthedragon</set></card>
+		<card><name id="rigorous_discipline_yotd">Rigorous Discipline</name><set>yearofthedragon</set></card>
+		<card><name id="rigorous_discipline_yotd">Rigorous Discipline</name><set>yearofthedragon</set></card>
+		<card><name id="violet_meditation_yotd">Violet Meditation</name><set>yearofthedragon</set></card>
+		<card><name id="violet_meditation_yotd">Violet Meditation</name><set>yearofthedragon</set></card>
+		<card><name id="violet_meditation_yotd">Violet Meditation</name><set>yearofthedragon</set></card>
+		<card><name id="wong_fei_hong_yotd">Wong Fei Hong</name><set>yearofthedragon</set></card>
 	</superzone>
 </deck>

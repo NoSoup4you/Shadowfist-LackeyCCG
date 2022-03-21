@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>210526</lastversionupdate>
+<lastversionupdate>220320</lastversionupdate>
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
 <recentskins>default_white</recentskins>
@@ -41,7 +41,13 @@
 <fontsize1>11</fontsize1>
 <fontsize2>11</fontsize2>
 <fontsize3>20</fontsize3>
+<bindingmain0>CTRL+h</bindingmain0>
+<bindingmain1>CTRL+j</bindingmain1>
+<bindingmain4>CTRL+n</bindingmain4>
 <bindingmain5>CTRL+s</bindingmain5>
+<bindingmain6>CTRL+l</bindingmain6>
+<bindingmain9>CTRL+f</bindingmain9>
+<bindingmain15>CTRL+SHIFT+s</bindingmain15>
 <bindinggeneral0>CTRL+d</bindinggeneral0>
 <bindinggeneral1>CTRL+u</bindinggeneral1>
 <bindinggeneral4>CTRL+t</bindinggeneral4>
@@ -52,10 +58,11 @@
 <bindingcard7>CTRL+4</bindingcard7>
 <bindingcard8>CTRL+5</bindingcard8>
 <bindingcard9>CTRL+6</bindingcard9>
-<libraryignoredoubles>0</libraryignoredoubles>
+<bindingcanned6>CTRL+7</bindingcanned6>
+<bindingcanned7>CTRL+8</bindingcanned7>
+<bindingcanned8>CTRL+9</bindingcanned8>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
-<phaseimages>1</phaseimages>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
@@ -63,5 +70,7 @@
 <panx>-0.030000</panx>
 <pany>-0.030000</pany>
 <isdownloadallmissing>1</isdownloadallmissing>
+<libraryignoredoubles>0</libraryignoredoubles>
+<phaseimages>1</phaseimages>
 
 </pluginpreferences>

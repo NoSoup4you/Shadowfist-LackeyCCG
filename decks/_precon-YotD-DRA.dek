@@ -44,14 +44,14 @@
 		<card><name id="bronze_sentinel_yotd">Bronze Sentinel</name><set>yearofthedragon</set></card>
 		<card><name id="bronze_sentinel_yotd">Bronze Sentinel</name><set>yearofthedragon</set></card>
 		<card><name id="birdhouse_cafe_yotd">Birdhouse Cafe</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="ting_ting_yotd">Ting Ting (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="friends_of_the_dragon_yotd">Friends of the Dragon</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="ting_ting_yotd">Ting Ting</name><set>yearofthedragon</set></card>
 	</superzone>
 </deck>

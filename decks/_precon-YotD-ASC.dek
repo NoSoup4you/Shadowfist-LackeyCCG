@@ -37,21 +37,21 @@
 		<card><name id="city_park_yotd">City Park</name><set>yearofthedragon</set></card>
 		<card><name id="blessed_orchard_yotd">Blessed Orchard</name><set>yearofthedragon</set></card>
 		<card><name id="birdhouse_cafe_yotd">Birdhouse Cafe</name><set>yearofthedragon</set></card>
-		<card><name id="covert_operation_yotd">Covert Operation (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="covert_operation_yotd">Covert Operation (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="draco_yotd">Draco (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="explosives_yotd">Explosives (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="explosives_yotd">Explosives (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="kinoshita_house_yotd">Kinoshita House (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="mole_network_yotd">Mole Network (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="mole_network_yotd">Mole Network (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="shadowy_mentor_cs">Shadowy Mentor (CS)</name><set>criticalshift</set></card>
-		<card><name id="shadowy_mentor_cs">Shadowy Mentor (CS)</name><set>criticalshift</set></card>
-		<card><name id="bull_market_cik_400">Bull Market (CIK)</name><set>combatinkowloon</set></card>
-		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion (YOTD)</name><set>yearofthedragon</set></card>
-		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion (YOTD)</name><set>yearofthedragon</set></card>
+		<card><name id="covert_operation_yotd">Covert Operation</name><set>yearofthedragon</set></card>
+		<card><name id="covert_operation_yotd">Covert Operation</name><set>yearofthedragon</set></card>
+		<card><name id="draco_yotd">Draco</name><set>yearofthedragon</set></card>
+		<card><name id="explosives_yotd">Explosives</name><set>yearofthedragon</set></card>
+		<card><name id="explosives_yotd">Explosives</name><set>yearofthedragon</set></card>
+		<card><name id="kinoshita_house_yotd">Kinoshita House</name><set>yearofthedragon</set></card>
+		<card><name id="mole_network_yotd">Mole Network</name><set>yearofthedragon</set></card>
+		<card><name id="mole_network_yotd">Mole Network</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="pumpaction_shotgun_yotd">Pump-Action Shotgun</name><set>yearofthedragon</set></card>
+		<card><name id="shadowy_mentor_cs">Shadowy Mentor</name><set>criticalshift</set></card>
+		<card><name id="shadowy_mentor_cs">Shadowy Mentor</name><set>criticalshift</set></card>
+		<card><name id="bull_market_cik_400">Bull Market</name><set>combatinkowloon</set></card>
+		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion</name><set>yearofthedragon</set></card>
+		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion</name><set>yearofthedragon</set></card>
+		<card><name id="sting_of_the_scorpion_yotd">Sting of the Scorpion</name><set>yearofthedragon</set></card>
 	</superzone>
 </deck>
