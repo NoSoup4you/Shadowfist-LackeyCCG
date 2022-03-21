@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>220302</lastupdateYYMMDD>
+<lastupdateYYMMDD>220320/lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
 <message>Update text to current errata; fix titles</message>
