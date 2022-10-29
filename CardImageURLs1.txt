@@ -55,7 +55,6 @@ CardImageURLs:
 7masters/kunlun_clan_assault_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/kunlun_clan_assault_7m.jpg
 7masters/leopard_clan_warriors_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/leopard_clan_warriors_7m.jpg
 7masters/li_mao_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/li_mao_7m.jpg
-7masters/li_mao_pr_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/li_mao_pr_7m.jpg
 7masters/lin_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/lin_7m.jpg
 7masters/long_axe_and_short_axe_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/long_axe_and_short_axe_7m.jpg
 7masters/lui_yu_min_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/7masters/lui_yu_min_7m.jpg
@@ -1013,7 +1012,6 @@ empireofevil/wisdom_of_the_owl_eoe.jpg	https://raw.githubusercontent.com/NoSoup4
 empireofevil/withering_touch_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/withering_touch_eoe.jpg
 empireofevil/wriggling_skin_suit_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/wriggling_skin_suit_eoe.jpg
 empireofevil/xin_ji_yang_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/xin_ji_yang_eoe.jpg
-empireofevil/xin_ji_yang_eoe_promo.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/xin_ji_yang_eoe_promo.jpg
 empireofevil/yuan_chonguan_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/yuan_chonguan_eoe.jpg
 empireofevil/zen_ritualist_eoe.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/empireofevil/zen_ritualist_eoe.jpg
 
@@ -1590,6 +1588,8 @@ promos/kinoshita_house_of_pancakes_pr.jpg	https://raw.githubusercontent.com/NoSo
 promos/covadonga_sanctuary.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/covadonga_sanctuary.jpg
 promos/the_golden_gunman_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/the_golden_gunman_pr.jpg
 promos/golden_mile_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/golden_mile_pr.jpg
+promos/li_mao_pr_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/li_mao_pr_7m.jpg
+promos/xin_ji_yang_eoe_promo.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/xin_ji_yang_eoe_promo.jpg
 
 queensgambit/apprenticeship_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/apprenticeship_qg.jpg
 queensgambit/average_jane_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/average_jane_qg.jpg
@@ -2170,8 +2170,6 @@ shurikensandsixguns/personality_shard_ssg.jpg	https://raw.githubusercontent.com/
 shurikensandsixguns/pony_express_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/pony_express_ssg.jpg
 shurikensandsixguns/potlatch_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/potlatch_ssg.jpg
 shurikensandsixguns/queen_of_the_ice_pagoda_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/queen_of_the_ice_pagoda_ssg.jpg
-/.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages//.jpg
-/.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages//.jpg
 shurikensandsixguns/railroad_workers_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/railroad_workers_ssg.jpg
 shurikensandsixguns/rainmaker_floyd_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/rainmaker_floyd_ssg.jpg
 shurikensandsixguns/ranchers_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/ranchers_ssg.jpg
