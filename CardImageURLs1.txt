@@ -502,7 +502,7 @@ combatinkowloon/die_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Sha
 combatinkowloon/dirk_wisely's_gambit_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/dirk_wisely's_gambit_cik_400.jpg
 combatinkowloon/discerning_fire_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/discerning_fire_cik_400.jpg
 combatinkowloon/dockyard_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/dockyard_cik_400.jpg
-combatinkowloon/dr._amanda_snow_cik_400	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/dr._amanda_snow_cik_400
+combatinkowloon/dr._amanda_snow_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/dr._amanda_snow_cik_400.jpg
 combatinkowloon/dragon_graveyard_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/dragon_graveyard_cik_400.jpg
 combatinkowloon/eater_of_fortune_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/eater_of_fortune_cik_400.jpg
 combatinkowloon/everything_falls_apart_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/everything_falls_apart_cik_400.jpg
@@ -1814,7 +1814,7 @@ reinforcements/skilled_techie_re2_400.jpg	https://raw.githubusercontent.com/NoSo
 reinforcements/soul_reaver_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/soul_reaver_re2_400.jpg
 reinforcements/sworn_infiltrator_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/sworn_infiltrator_re2_400.jpg
 reinforcements/test_monkey_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/test_monkey_re2_400.jpg
-reinforcements/the_dynamic_dr._dawson_re2_400	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/the_dynamic_dr._dawson_re2_400
+reinforcements/the_dynamic_dr._dawson_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/the_dynamic_dr._dawson_re2_400.jpg
 reinforcements/thunder_berserkers_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/thunder_berserkers_re2_400.jpg
 reinforcements/thunder_gauntlet_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/thunder_gauntlet_re2_400.jpg
 reinforcements/tiger_leaping_gorge_re2_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reinforcements/tiger_leaping_gorge_re2_400.jpg
@@ -1852,7 +1852,7 @@ reloaded/kitty_kerosene_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you
 reloaded/lord_hawksmoor_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/lord_hawksmoor_rld_400.jpg
 reloaded/major_prescott_rogers_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/major_prescott_rogers_rld_400.jpg
 reloaded/mourning_tree_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/mourning_tree_rld_400.jpg
-reloaded/mr._x_rld_400	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/mr._x_rld_400
+reloaded/mr._x_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/mr._x_rld_400.jpg
 reloaded/prelate_of_the_roaring_skies_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/prelate_of_the_roaring_skies_rld_400.jpg
 reloaded/ready_for_action_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/ready_for_action_rld_400.jpg
 reloaded/rigorous_discipline_rld_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/reloaded/rigorous_discipline_rld_400.jpg
@@ -2951,7 +2951,7 @@ yearofthegoat/just_gettin'_riled_up_yotg.jpg	https://raw.githubusercontent.com/N
 yearofthegoat/kitsune_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/kitsune_yotg.jpg
 yearofthegoat/knight_templar_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/knight_templar_yotg.jpg
 yearofthegoat/little_flower_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/little_flower_yotg.jpg
-yearofthegoat/m.a.d._yotg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/m.a.d._yotg
+yearofthegoat/m.a.d._yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/m.a.d._yotg.jpg
 yearofthegoat/martial_focus_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/martial_focus_yotg.jpg
 yearofthegoat/masked_man_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/masked_man_yotg.jpg
 yearofthegoat/master_fletcher_yotg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/yearofthegoat/master_fletcher_yotg.jpg
