@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220320/lastupdateYYMMDD>
+<lastupdateYYMMDD>221029</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
-<message>Update text to current errata; fix titles</message>
+<message>Errata updates/corrections, fix Li Mao, Ho Chen, Xin Ji Yang, add new counters, swap smoked/toasted piles.</message>
 </version>

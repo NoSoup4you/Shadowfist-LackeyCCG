@@ -10,3 +10,5 @@ Kinoshita House of Pancakes	promos	kinoshita_house_of_pancakes_pr	Site	Feng Shui
 Covadonga Sanctuary	promos	covadonga_sanctuary	Site	Feng Shui	Feng Shui Site						8	Promo	covadonga sanctuary	Unique. All Sanctuary sites in play gain +2 body.	
 The Golden Gunman	promos	the_golden_gunman_pr	Character	Dragons	Magic Cowboy Hero	5	{dra}{dra}	{dra}{mag}	8			Promo	golden gunman magic cowboy hero		
 Golden Mile	promos	golden_mile_pr	Site	Feng Shui	Feng Shui Site					1	8	Promo	golden mile		
+Li Mao	promos	li_mao_pr_7m	Character	Seven Masters	Young Master	4	{sev}{sev}	{sev}{dra}{chi}{mag}	6			Promo	li mao young master	Unique. When Li Mao enters play, choose a resource. He is not affected by Events that require that resource. Discard a non-Character {chi} or {mag} card to give him Superleap until the end of the turn.
+Xin Ji Yang	promos	xin_ji_yang_eoe_promo	Character	Eaters of the Lotus	Center of the Lotus	4	{lot}{lot}{lot}{lot}	{lot}{lot}{mag}	6			Promo	xin ji yang center lotus	Unique. Regenerate. +2 Fighting for each <Eunuch> or <Petal> Character you control.
