@@ -1,9 +1,9 @@
-shadowfist	10-29-22
+shadowfist	01-30-23
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	435265
 plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	231768
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	38391
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	31289
 plugins/shadowfist/packs/packdefinitions.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions.txt	1726794
 plugins/shadowfist/packs/packdefinitions1.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions1.xml	256160
 plugins/shadowfist/packs/packdefinitions2.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions2.xml	1690263
@@ -27,6 +27,31 @@ plugins/shadowfist/packs/shurikensandsixguns-booster.jpg	https://raw.githubuserc
 plugins/shadowfist/packs/thronewar-booster.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/thronewar-booster.jpg	-579
 plugins/shadowfist/packs/twofistedtales-booster.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/twofistedtales-booster.jpg	-3760
 plugins/shadowfist/packs/yearofthedragon-starter.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/yearofthedragon-starter.jpg	13554
+plugins/shadowfist/decks/_precon-10KB-ARC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ARC.dek	383683
+plugins/shadowfist/decks/_precon-10KB-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-ASC.dek	389556
+plugins/shadowfist/decks/_precon-10KB-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-DRA.dek	396115
+plugins/shadowfist/decks/_precon-10KB-HAN.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-HAN.dek	413197
+plugins/shadowfist/decks/_precon-10KB-JAM.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-JAM.dek	397593
+plugins/shadowfist/decks/_precon-10KB-LOT.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-LOT.dek	396436
+plugins/shadowfist/decks/_precon-10KB-MON.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-MON.dek	390783
+plugins/shadowfist/decks/_precon-10KB-PUR.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-10KB-PUR.dek	401614
+plugins/shadowfist/decks/_precon-BFS-JAM.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-BFS-JAM.dek	427586
+plugins/shadowfist/decks/_precon-BFS-MON.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-BFS-MON.dek	423837
+plugins/shadowfist/decks/_precon-CIK-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-CIK-ASC.dek	451284
+plugins/shadowfist/decks/_precon-CIK-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-CIK-DRA.dek	449555
+plugins/shadowfist/decks/_precon-CIK-HAN.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-CIK-HAN.dek	456230
+plugins/shadowfist/decks/_precon-CIK-LOT.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-CIK-LOT.dek	436888
+plugins/shadowfist/decks/_precon-YotD-ARC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-ARC.dek	431823
+plugins/shadowfist/decks/_precon-YotD-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-ASC.dek	441946
+plugins/shadowfist/decks/_precon-YotD-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-DRA.dek	445133
+plugins/shadowfist/decks/_precon-YotD-HAN.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-HAN.dek	442966
+plugins/shadowfist/decks/_precon-YotD-LOT.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotD-LOT.dek	449538
+plugins/shadowfist/decks/_precon-YotG-ASC.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-ASC.dek	494087
+plugins/shadowfist/decks/_precon-YotG-DRA.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-DRA.dek	495459
+plugins/shadowfist/decks/_precon-YotG-HAN.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-HAN.dek	492127
+plugins/shadowfist/decks/_precon-YotG-JAM.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-JAM.dek	483518
+plugins/shadowfist/decks/_precon-YotG-LOT.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-LOT.dek	460251
+plugins/shadowfist/decks/_precon-YotG-MON.dek	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/decks/_precon-YotG-MON.dek	467215
 plugins/shadowfist/sets/7masters.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/7masters.txt	3206309
 plugins/shadowfist/sets/10kbullets.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/10kbullets.txt	3498404
 plugins/shadowfist/sets/backforseconds.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/backforseconds.txt	1694406

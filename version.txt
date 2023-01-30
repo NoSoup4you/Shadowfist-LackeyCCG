@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>221029</lastupdateYYMMDD>
+<lastupdateYYMMDD>230130</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
-<message>Errata updates/corrections, fix Li Mao, Ho Chen, Xin Ji Yang, add new counters, swap smoked/toasted piles.</message>
+<message>Restore missing dek files</message>
 </version>
