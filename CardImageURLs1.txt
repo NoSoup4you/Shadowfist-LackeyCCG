@@ -1590,6 +1590,7 @@ promos/the_golden_gunman_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Sha
 promos/golden_mile_pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/golden_mile_pr.jpg
 promos/li_mao_pr_7m.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/li_mao_pr_7m.jpg
 promos/xin_ji_yang_eoe_promo.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/xin_ji_yang_eoe_promo.jpg
+promos/jessica_ng_architects_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/promos/jessica_ng_architects_ssg.jpg
 
 queensgambit/apprenticeship_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/apprenticeship_qg.jpg
 queensgambit/average_jane_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/average_jane_qg.jpg
@@ -2139,7 +2140,6 @@ shurikensandsixguns/hyper_alloy_blade_ssg.jpg	https://raw.githubusercontent.com/
 shurikensandsixguns/inconvenient_debt_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/inconvenient_debt_ssg.jpg
 shurikensandsixguns/involuntary_embalming_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/involuntary_embalming_ssg.jpg
 shurikensandsixguns/isothermal_zodiac_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/isothermal_zodiac_ssg.jpg
-shurikensandsixguns/jessica_ng_architects_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/jessica_ng_architects_ssg.jpg
 shurikensandsixguns/jessica_ng_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/jessica_ng_ssg.jpg
 shurikensandsixguns/jia_baoyu_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/jia_baoyu_ssg.jpg
 shurikensandsixguns/johann_bonengel_ssg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/shurikensandsixguns/johann_bonengel_ssg.jpg
