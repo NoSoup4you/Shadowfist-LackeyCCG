@@ -1,9 +1,9 @@
-shadowfist	01-30-23
+shadowfist	01-31-23
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	435265
 plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	231768
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	31289
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	30099
 plugins/shadowfist/packs/packdefinitions.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions.txt	1726794
 plugins/shadowfist/packs/packdefinitions1.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions1.xml	256160
 plugins/shadowfist/packs/packdefinitions2.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions2.xml	1690263
@@ -67,14 +67,14 @@ plugins/shadowfist/sets/knightspassage.txt	https://raw.githubusercontent.com/NoS
 plugins/shadowfist/sets/modern.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/modern.txt	391105
 plugins/shadowfist/sets/netherworld.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/netherworld.txt	3293179
 plugins/shadowfist/sets/netherworld2.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/netherworld2.txt	3944129
-plugins/shadowfist/sets/promos.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/promos.txt	228676
+plugins/shadowfist/sets/promos.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/promos.txt	260774
 plugins/shadowfist/sets/queensgambit.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/queensgambit.txt	1384238
 plugins/shadowfist/sets/redwedding.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/redwedding.txt	2957285
 plugins/shadowfist/sets/reinforcements.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/reinforcements.txt	1226717
 plugins/shadowfist/sets/reloaded.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/reloaded.txt	1163613
 plugins/shadowfist/sets/revelations.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/revelations.txt	1197053
 plugins/shadowfist/sets/shaolinshowdown.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/shaolinshowdown.txt	3416040
-plugins/shadowfist/sets/shurikensandsixguns.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/shurikensandsixguns.txt	3337083
+plugins/shadowfist/sets/shurikensandsixguns.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/shurikensandsixguns.txt	3303559
 plugins/shadowfist/sets/standard.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/standard.txt	6107196
 plugins/shadowfist/sets/thronewar.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/thronewar.txt	2179384
 plugins/shadowfist/sets/twofistedtales.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/twofistedtales.txt	3220589
@@ -82,6 +82,6 @@ plugins/shadowfist/sets/yearofthedragon.txt	https://raw.githubusercontent.com/No
 plugins/shadowfist/sets/yearofthegoat.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/yearofthegoat.txt	3979381
 plugins/shadowfist/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/cardback.jpg	-44355
 plugins/shadowfist/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/spawned.jpg	-18038
-plugins/shadowfist/CardImageURLs1.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs1.txt	47974207
+plugins/shadowfist/CardImageURLs1.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs1.txt	47971391
 CardURLFiles:
 CardImageURLs1.txt
