@@ -581,6 +581,7 @@ combatinkowloon/sifu_beumer_cik_400.jpg	https://raw.githubusercontent.com/NoSoup
 combatinkowloon/smiling_heaven_lake_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/smiling_heaven_lake_cik_400.jpg
 combatinkowloon/soul_theft_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/soul_theft_cik_400.jpg
 combatinkowloon/spit_and_baling_wire_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/spit_and_baling_wire_cik_400.jpg
+redwedding/stand_together_cik.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/stand_together_cik.jpg
 combatinkowloon/stone_dolmens_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/stone_dolmens_cik_400.jpg
 combatinkowloon/student_of_the_dragon_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/student_of_the_dragon_cik_400.jpg
 combatinkowloon/superior_kung_fu_cik_400.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/combatinkowloon/superior_kung_fu_cik_400.jpg
