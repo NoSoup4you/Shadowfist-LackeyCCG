@@ -1642,6 +1642,7 @@ queensgambit/thermobaric_explosion_qg.jpg	https://raw.githubusercontent.com/NoSo
 queensgambit/tower_of_glass_and_steel_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/tower_of_glass_and_steel_qg.jpg
 queensgambit/vampirism_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/vampirism_qg.jpg
 queensgambit/whirlwind_transformation_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/whirlwind_transformation_qg.jpg
+queensgambit/white_ninja_promo.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/white_ninja_promo.jpg
 queensgambit/xins_tome_of_knowledge_qg.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/queensgambit/xins_tome_of_knowledge_qg.jpg
 
 redwedding/bring_it_rw.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/redwedding/bring_it_rw.jpg

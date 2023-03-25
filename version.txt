@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230316</lastupdateYYMMDD>
+<lastupdateYYMMDD>230323</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/updatelist.txt</updateurl>
-<message>Add promor Stand Together to Combat in Kowloon</message>
+<message>Add Queens Gambit White Ninja promo</message>
 </version>
