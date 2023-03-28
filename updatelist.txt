@@ -1,9 +1,9 @@
-shadowfist	03-23-23
+shadowfist	03-27-23
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	435265
 plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	231768
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	32068
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	31385
 plugins/shadowfist/packs/packdefinitions.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions.txt	1726794
 plugins/shadowfist/packs/packdefinitions1.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions1.xml	256160
 plugins/shadowfist/packs/packdefinitions2.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions2.xml	1690263
@@ -57,7 +57,7 @@ plugins/shadowfist/sets/10kbullets.txt	https://raw.githubusercontent.com/NoSoup4
 plugins/shadowfist/sets/backforseconds.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/backforseconds.txt	1694406
 plugins/shadowfist/sets/boomchakalaka.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/boomchakalaka.txt	2007307
 plugins/shadowfist/sets/canofwhupass.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/canofwhupass.txt	129411
-plugins/shadowfist/sets/combatinkowloon.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/combatinkowloon.txt	3559275
+plugins/shadowfist/sets/combatinkowloon.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/combatinkowloon.txt	3559844
 plugins/shadowfist/sets/criticalshift.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/criticalshift.txt	3080460
 plugins/shadowfist/sets/darkfuture.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/darkfuture.txt	3039881
 plugins/shadowfist/sets/empireofevil.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/empireofevil.txt	3271024
@@ -82,6 +82,6 @@ plugins/shadowfist/sets/yearofthedragon.txt	https://raw.githubusercontent.com/No
 plugins/shadowfist/sets/yearofthegoat.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/yearofthegoat.txt	3979381
 plugins/shadowfist/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/cardback.jpg	-44355
 plugins/shadowfist/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/sets/setimages/general/spawned.jpg	-18038
-plugins/shadowfist/CardImageURLs1.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs1.txt	48002327
+plugins/shadowfist/CardImageURLs1.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/CardImageURLs1.txt	48003465
 CardURLFiles:
 CardImageURLs1.txt
