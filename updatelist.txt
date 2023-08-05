@@ -1,9 +1,9 @@
-shadowfist	03-27-23
+shadowfist	08-05-23
 plugins/shadowfist/bot.jpg	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/bot.jpg	-6212
 plugins/shadowfist/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/formats.txt	101807
 plugins/shadowfist/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/plugininfo.txt	435265
-plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	231768
-plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	31385
+plugins/shadowfist/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/pluginpreferences.txt	0
+plugins/shadowfist/version.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/version.txt	31514
 plugins/shadowfist/packs/packdefinitions.txt	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions.txt	1726794
 plugins/shadowfist/packs/packdefinitions1.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions1.xml	256160
 plugins/shadowfist/packs/packdefinitions2.xml	https://raw.githubusercontent.com/NoSoup4you/Shadowfist-LackeyCCG/master/packs/packdefinitions2.xml	1690263
